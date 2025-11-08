@@ -34,7 +34,7 @@ G                          D      G  D  A
 
 [REFRÃO]
 
-[FINAL] G
+[FINAL] D
 ```
 
 ## Links úteis
