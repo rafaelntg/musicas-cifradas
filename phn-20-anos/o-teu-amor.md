@@ -1,4 +1,4 @@
-# O TEU AMOR - ISADORA POMPEO
+# O Teu Amor - Isadora Pompeo
 
 ```
 [INTRO] D  D4  D  C  G/B (2X)
