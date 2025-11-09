@@ -21,7 +21,7 @@ Acontecerá dia 13 de dezembro de 2025 na quadra do Lar da Criança Monsenhor No
 1. [Seja Elevado – Colo de Deus](seja-elevado.colo-de-deus.md).
 1. [Uma Revolução – Missionário Shalom](uma-revolucao.missionario-shalom.md).
 1. [Dança de Avivamento / O Senhor É Rei - Pot-Pourri](danca-de-avivamento.o-senhor-e-rei.pot-pourri.md).
-1. Parapapa – (Gm)
+1. [Parapapa – Missionário Shalom](parapapa.missionario-shalom.md).
 1. Como Não Falar do Seu Amor – tom original (D)
 1. Derrama o Teu Amor – tom original (G) – Ele vem (G)
 1. Vitoria no Deserto – (G)
