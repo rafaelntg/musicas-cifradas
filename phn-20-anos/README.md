@@ -20,7 +20,7 @@ Acontecerá dia 13 de dezembro de 2025 na quadra do Lar da Criança Monsenhor No
 1. [Chuva de Graça – Eliana Ribeiro](chuva-de-graca.eliana-ribeiro.md).
 1. [Seja Elevado – Colo de Deus](seja-elevado.colo-de-deus.md).
 1. [Uma Revolução – Missionário Shalom](uma-revolucao.missionario-shalom.md).
-1. Dança de Avivamento (D) / O senhor é rei (Em)
+1. [Dança de Avivamento / O Senhor É Rei - Pot-Pourri](danca-de-avivamento.o-senhor-e-rei.pot-pourri.md).
 1. Parapapa – (Gm)
 1. Como Não Falar do Seu Amor – tom original (D)
 1. Derrama o Teu Amor – tom original (G) – Ele vem (G)
@@ -36,3 +36,4 @@ Acontecerá dia 13 de dezembro de 2025 na quadra do Lar da Criança Monsenhor No
 
 - [Repertório no Cifra Club](https://www.cifraclub.com.br/musico/554762776/repertorio/23691291/).
 - [Playlist no Spotify](https://open.spotify.com/playlist/73DH04BpUF3Jqfk2tkH1JM?si=khwqRnk0TeKYXvt5DTEXSA).
+
