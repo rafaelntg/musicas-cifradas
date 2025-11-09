@@ -19,7 +19,7 @@ Acontecerá dia 13 de dezembro de 2025 na quadra do Lar da Criança Monsenhor No
 1. [O Teu Amor – Isadora Pompeo](o-teu-amor.isadora-pompeo.md).
 1. [Chuva de Graça – Eliana Ribeiro](chuva-de-graca.eliana-ribeiro.md).
 1. [Seja Elevado – Colo de Deus](seja-elevado.colo-de-deus.md).
-1. Uma Revolução – (D – Bm) 
+1. [Uma Revolução – Missionário Shalom](uma-revolucao.missionario-shalom.md).
 1. Dança de Avivamento (D) / O senhor é rei (Em)
 1. Parapapa – (Gm)
 1. Como Não Falar do Seu Amor – tom original (D)
