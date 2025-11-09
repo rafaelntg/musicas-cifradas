@@ -54,7 +54,7 @@ POIS O SENHOR ESTÁ COMIGO (2X)
 - [Youtube](https://www.youtube.com/watch?v=Knf_LdTBs3I).
 - [Cifra Club](https://www.cifraclub.com.br/diego-fernandes/danca-de-avivamento).
 
-### O Senhor É Rei
+### O Senhor É Rei - Padre Zeca
 - [Youtube](https://www.youtube.com/watch?v=AousKZ4qtuo).
 - [Cifra Club](https://www.cifraclub.com.br/padre-zeca/o-senhor-rei/).
 
