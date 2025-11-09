@@ -2,7 +2,7 @@
 
 Evangelizashow em comemoração dos 20 anos do Grupo de Jovens PHN, de Brazópolis-MG.
 
-Acontecerá na quadra do Lar da Criança Monsenhor Noronha e receberemos a grande atração da dupla católica Ramon e Rafael.
+Acontecerá dia 13 de dezembro de 2025 na quadra do Lar da Criança Monsenhor Noronha e receberemos a grande atração da dupla católica Ramon e Rafael.
 
 ## Formação do ministério de música
 
@@ -16,8 +16,8 @@ Acontecerá na quadra do Lar da Criança Monsenhor Noronha e receberemos a grand
 
 ## Repertório
 
-1. [O Teu Amor – Isadora Pompeo](o-teu-amor.md).
-1. Chuva de Graça – tom original (B)
+1. [O Teu Amor – Isadora Pompeo](o-teu-amor.isadora-pompeo.md).
+1. [Chuva de Graça – Eliana Ribeiro](chuva-de-graca.eliana-ribeiro.md).
 1. Seja Elevado – (D)
 1. Uma Revolução – (D – Bm) 
 1. Dança de Avivamento (D) / O senhor é rei (Em)
