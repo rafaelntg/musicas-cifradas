@@ -16,21 +16,21 @@ Acontecerá na quadra do Lar da Criança Monsenhor Noronha e receberemos a grand
 
 ## Repertório
 
-1. O teu amor – tom original (D)
+1. [O Teu Amor – Isadora Pompeo](o-teu-amor.md).
 1. Chuva de Graça – tom original (B)
-1. Seja elevado – (D)
-1. Uma revolução – (D – Bm) 
+1. Seja Elevado – (D)
+1. Uma Revolução – (D – Bm) 
 1. Dança de Avivamento (D) / O senhor é rei (Em)
 1. Parapapa – (Gm)
-1. Como não falar do seu amor – tom original (D)
-1. Derrama o teu amor – tom original (G) – Ele vem (G)
+1. Como Não Falar do Seu Amor – tom original (D)
+1. Derrama o Teu Amor – tom original (G) – Ele vem (G)
 1. Vitoria no Deserto – (G)
-1. O melhor pra Deus – (E)
+1. O Melhor pra Deus – (E)
 1. Profetiza – tom original (F)
-1. Meu lugar é o céu (G)
+1. Meu Lugar É o Céu (G)
 1. Desperta (E)
-1. Estrangeiro aqui (G)
-1. Templo vivo (D)
+1. Estrangeiro Aqui (G)
+1. Templo Vivo (D)
 
 ### Links úteis
 
