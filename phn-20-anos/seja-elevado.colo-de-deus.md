@@ -40,5 +40,5 @@ SEJA ELEVADO NO TRONO MAIS ALTO     (2X)
 
 ## Links úteis
 - [Youtube](https://www.cifraclub.com.br/comunidade-catolica-colo-de-deus/seja-elevado).
-- [Cifra Club](https://www.youtube.com/watch?v=ANlcJgj7c9s&list=RDANlcJgj7c9s&start_radio=1).
+- [Cifra Club](https://www.youtube.com/watch?v=ANlcJgj7c9s&list=RDANlcJgj7c9s).
 
