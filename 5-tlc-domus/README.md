@@ -60,186 +60,100 @@ Será realizado em Santa Rita do Sapucaí-MG, na Casa da Paz, dentro da ETE-FMC,
 ## Anjos - O Rappa
 
 ```
-[Intro] Gb  Fm  Ebm  Bbm
-        Gb  Fm  Ebm  Bbm
+[INTRO] Gb  Fm  Ebm  Bbm (2X)
+
+[PONTE]
 
 Gb          Fm  Ebm           Bbm
-   Oh Lord, oh Lord, oh Lord, oh
+   OH LORD, OH LORD, OH LORD, OH
+LORD, LORD, LORD, LORD, LORD, LORD (2X)
 
-Lord, Lord, Lord, Lord, Lord, Lord
-Gb          Fm  Ebm           Bbm
-   Oh Lord, oh Lord, oh Lord, oh
-
-Lord, Lord, Lord, Lord, Lord, Lord
-
-[Refrão]
+[REFRÃO]
 
       Gb             Fm  Ebm
-Em algum lugar, pra re__laxar
+EM ALGUM LUGAR, PRA RE__LAXAR
           Bbm
-Eu vou pedir pros anjos cantarem por mim
+EU VOU PEDIR PROS ANJOS CANTAREM POR MIM
           Gb
-Pra quem tem fé
+PRA QUEM TEM FÉ
    Fm  Ebm               Bbm
-A vi_______da nunca tem fim
+A VI_______DA NUNCA TEM FIM
 
-Não tem fim, é
+NÃO TEM FIM, É
 
-[Primeira Parte]
+[PRIMEIRA PARTE]
 
  Gb                   Fm  Ebm
-Se você não aceita o con_selho, te respeito
+SE VOCÊ NÃO ACEITA O CON_SELHO, TE RESPEITO
  Bbm
-Resolveu seguir, ir atrás, cara e coragem
+RESOLVEU SEGUIR, IR ATRÁS, CARA E CORAGEM
  Gb                    Fm  Ebm
-Só que você sai em desvan_tagem
+SÓ QUE VOCÊ SAI EM DESVAN_TAGEM
                  Bbm
-Se você não tem fé, se você não tem fé
+SE VOCÊ NÃO TEM FÉ, SE VOCÊ NÃO TEM FÉ
 
     Gb
-Te mostro um trecho
+TE MOSTRO UM TRECHO
           Fm  Ebm
-Uma passagem de um livro antigo
+UMA PASSAGEM DE UM LIVRO ANTIGO
   Bbm
-Pra te provar e mostrar que a vida é linda
+PRA TE PROVAR E MOSTRAR QUE A VIDA É LINDA
  Gb                  Fm  Ebm
-Dura, sofrida, carente   em qualquer continente
+DURA, SOFRIDA, CARENTE   EM QUALQUER CONTINENTE
      Bbm
-Mas boa de se viver em qualquer lugar, é
+MAS BOA DE SE VIVER EM QUALQUER LUGAR, É
 
  Gb       Fm  Ebm        Bbm
-Volte a bri____ __lhar, volte a brilhar
+VOLTE A BRI____ __LHAR, VOLTE A BRILHAR
     Gb               Fm  Ebm
-Um vinho, um pão e uma  reza
+UM VINHO, UM PÃO E UMA  REZA
      Bbm
-Uma lua e um sol, sua vida, portas abertas
+UMA LUA E UM SOL, SUA VIDA, PORTAS ABERTAS
 
-[Refrão]
+[REFRÃO] [PONTE]
 
-      Gb             Fm  Ebm
-Em algum lugar, pra re__laxar
-          Bbm
-Eu vou pedir pros anjos cantarem por mim
-          Gb
-Pra quem tem fé
-   Fm  Ebm           Bbm
-A vi_______da nunca tem fim
-
-Não tem fim
-
-      Gb             Fm  Ebm
-Em algum lugar, pra re__laxar
-          Bbm
-Eu vou pedir pros anjos cantarem por mim
-          Gb
-Pra quem tem fé
-   Fm  Ebm           Bbm
-A vi_______da nunca tem fim
-
-[Ponte]
-
-Gb          Fm  Ebm           Bbm
-   Oh Lord, oh Lord, oh Lord, oh
-
-Lord, Lord, Lord, Lord, Lord, Lord
-Gb          Fm  Ebm           Bbm
-   Oh Lord, oh Lord, oh Lord, oh
-
-Lord, Lord, Lord, Lord, Lord, Lord
-
-[Segunda Parte]
+[SEGUNDA PARTE]
 
  Gb
-Mostro um trecho
+MOSTRO UM TRECHO
           Fm  Ebm
-Uma passagem de um livro antigo
+UMA PASSAGEM DE UM LIVRO ANTIGO
   Bbm
-Pra te provar e mostrar que a vida é linda
+PRA TE PROVAR E MOSTRAR QUE A VIDA É LINDA
  Gb                  Fm  Ebm
-Dura, sofrida, carente   em qualquer continente
+DURA, SOFRIDA, CARENTE   EM QUALQUER CONTINENTE
      Bbm
-Mas boa de se viver em qualquer lugar
+MAS BOA DE SE VIVER EM QUALQUER LUGAR
 
  Gb         Fm  Ebm
-Podem até gri__tar, gritar
+PODEM ATÉ GRI__TAR, GRITAR
  Bbm
-Podem até barulho então fazer
+PODEM ATÉ BARULHO ENTÃO FAZER
      Gb           Fm  Ebm
-Ninguém vai te escu__tar se não tem fé
+NINGUÉM VAI TE ESCU__TAR SE NÃO TEM FÉ
      Bbm
-Ninguém mais vai te ver
+NINGUÉM MAIS VAI TE VER
 
-[Pré-Refrão]
+[PRÉ-REFRÃO]
 
-      Gb     Fm  Ebm       Bbm
-Inclinar seu o_lhar sobre nós e cuidar
-      Gb     Fm  Ebm       Bbm
-Inclinar seu o_lhar sobre nós e cuidar
-      Gb     Fm  Ebm       Bbm
-Inclinar seu o_lhar sobre nós e cuidar
-      Gb     Fm  Ebm       Bbm
-Inclinar seu o_lhar sobre nós e cuidar
+[REFRÃO]
 
-      Gb             Fm  Ebm
-Em algum lugar, pra re__laxar
-          Bbm
-Eu vou pedir pros anjos cantarem por mim
-          Gb
-Pra quem tem fé
-   Fm  Ebm           Bbm
-A vi_______da nunca tem
+[SOLO] Gb  Fm  Ebm  Bbm (6X)
 
-[Solo] Gb  Fm  Ebm  Bbm  
-       Gb  Fm  Ebm  Bbm  
-       Gb  Fm  Ebm  Bbm  
-       Gb  Fm  Ebm  Bbm  
-       Gb  Fm  Ebm  Bbm  
-       Gb  Fm  Ebm  Bbm  
-
-[Refrão Final]
-
-      Gb             Fm  Ebm
-Em algum lugar, pra re__laxar
-          Bbm
-Eu vou pedir pros anjos cantarem por mim
-          Gb
-Pra quem tem fé
-   Fm  Ebm           Bbm
-A vi_______da nunca tem fim
-
-Não tem fim
-
-      Gb             Fm  Ebm
-Em algum lugar, pra re__laxar
-          Bbm
-Eu vou pedir pros anjos cantarem por mim
-          Gb
-Pra quem tem fé
-   Fm  Ebm           Bbm
-A vi_______da nunca tem fim
+[REFRÃO] (2X)
 
 ( Gb  Fm  Ebm  Bbm )
 
-A fé na vitória tem que ser inabalável
+A FÉ NA VITÓRIA TEM QUE SER INABALÁVEL
 
-( Gb  Fm  Ebm  Bbm )
-( Gb  Fm  Ebm  Bbm )
+( Gb  Fm  Ebm  Bbm ) (2X)
 
   Gb   Fm  Ebm       Bbm
-Pra você       pode ser
+PRA VOCÊ       PODE SER
   Gb   Fm  Ebm       Bbm
-Pra você       pode ser
+PRA VOCÊ       PODE SER
   Gb   Fm  Ebm       Bbm
-Pra você       pode ser
+PRA VOCÊ       PODE SER
 
-      Gb             Fm  Ebm
-Em algum lugar, pra re__laxar
-          Bbm
-Eu vou pedir pros anjos cantarem por mim
-          Gb
-Pra quem tem fé
-   Fm  Ebm           Bbm
-A vi_______da nunca tem fim
-
-Não tem fim
+[REFRÃO]
 ```
