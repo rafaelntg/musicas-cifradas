@@ -16,8 +16,8 @@ Será realizado em Santa Rita do Sapucaí-MG, na Casa da Paz, dentro da ETE-FMC,
 
 ### Sexta-feira
 
-- [Na Frente do Reto](##na-frente-do-reto---o-rappa) - Gm
-- [Anjos - O Rappa](##anjos---o-rappa) - Bbm
+- [Na Frente do Reto](#na-frente-do-reto---o-rappa) - Gm
+- [Anjos - O Rappa](#anjos---o-rappa) - Bbm
 - Falta você - E
 - Eva - G
 - Esperando na Janela - D
