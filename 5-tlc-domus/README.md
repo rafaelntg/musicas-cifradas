@@ -16,37 +16,25 @@ Será realizado em Santa Rita do Sapucaí-MG, na Casa da Paz, dentro da ETE-FMC,
 
 ### Sexta-feira
 
+- Na frente do reto - Gm
 - Anjos - Bbm
-- Mulher de fases - G
-- Me Leva Pra Casa / Escrito nas Estrelas / Saudade
 - Falta você - E
 - Eva - G
-- Milla
-- Natiruts Reggae Power
-- Cheia de Manias
-- Pais Tropical / Fio Maravilha / Saidera / Sonífera Ilha
-- Xote da Alegria
-- Xote dos Milagres
-- Rindo à Toa
-- 100 Anos
 - Esperando na Janela - D
-- Na frente do reto - Gm
-- Evidencias - C
+- Mulher de Fases - G
 - A Hora É Agora - Db
+- Evidencias - C
 
 ### Sábado e Domingo
 
 - TEMA: Coração Igual ao Teu
 
-- Dança de avivamento - D
+- Let Me Know You - E
+- Jesus - F#m
+- Dança de Avivamento - D
 - O Senhor É Rei - Em
 - Uma Revolução - E
-- Seja elevado - F
-- Tenda de Davi - A
-- Ele Vem
-- Jesus - F#m
-- Let Me Know You - E
-
+- Seja Elevado - F
 
 #### Religiosidade
 
