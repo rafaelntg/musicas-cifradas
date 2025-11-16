@@ -24,10 +24,7 @@ Acontecerá dia 13 de dezembro de 2025 na quadra do Lar da Criança Monsenhor No
 - [Dança de Avivamento / O Senhor É Rei - Pot-Pourri](#dança-de-avivamento--o-senhor-é-rei---pot-pourri).
 - [Parapapa – Missionário Shalom](#parapapa---missionário-shalom).
 - [Como Não Falar do Seu Amor - Dunga](#como-não-falar-do-seu-amor---dunga).
-
-- Derrama o Teu Amor – tom original (G) – Ele vem (G)
-- Vitoria no Deserto – (G)
-
+- [Quero Louvar-Te / Exército de Deus / Louvado Seja / A Alegria / O Senhor Tem Muitos Filhos - Pot-Pourri](#quero-louvar-te--exército-de-deus--louvado-seja--a-alegria--o-senhor-tem-muitos-filhos---pot-pourri)
 - [O Melhor pra Deus – Missionário Shalom](#o-melhor-pra-deus---missionário-shalom).
 - [Profetiza Filho de Maria - Colo de Deus](#profetiza-filho-de-maria---colo-de-deus).
 - [Meu Lugar É o Céu - Dunga](#o-meu-lugar-é-o-céu---dunga).
@@ -415,6 +412,184 @@ REALIZAR AH AH..    REALIZAR EM TI. (3X)
 ```
 [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/dunga/como-nao-falar-do-seu-amor/) | [YouTube](https://www.youtube.com/watch?v=vXxoaaN2ztA&list=RDvXxoaaN2ztA)
 
+## Quero Louvar-Te / Exército de Deus / Louvado Seja / A Alegria / O Senhor Tem Muitos Filhos - Pot-Pourri
+Ritmo: marchinha de Carnaval
+Tom: D
+```
+[INTRO] A7
+  D
+QUERO LOUVAR-TE, SEMPRE MAIS E MAIS!
+          Bm7
+QUERO LOUVAR-TE, SEMPRE MAIS E MAIS!
+G                        Em7
+BUSCAR O TEU QUERER, TUA GRAÇA CONHECER
+         C     A7
+QUERO LOUVAR-TE! 
+
+ D
+AS AVES DO CÉU CANTAM PARA TI
+   Bm7
+AS FERAS DO CAMPO REFLETEM TEU PODER
+G              Em7                     A     A7
+QUERO CANTAR, QUERO LEVANTAR AS MINHAS MÃOS A TI!
+
+---
+
+[INTRO] D Bm G Em A
+
+D
+OLHA SÓ QUEM VEM LÁ
+   Bm
+MARCHANDO PARA NOS SALVAR
+  G       Em
+É O EXÉRCITO DE DEUS
+        A
+E EU TAMBÉM QUERO MARCHAR UOU UOU (2X)
+
+D
+E EU CORRO E PULO E GIRO
+   Bm
+E LEVANTO OS MEUS BRAÇOS PARA O AR
+   G             Em
+SAUDANDO O EXÉRCITO DE DEUS
+     A
+QUE VEM PARA NOS SALVAR (2X)
+
+---
+
+[REFRÃO]
+
+D
+LOUVADO SEJA O MEU SENHOR
+Bm
+LOUVADO SEJA O MEU SENHOR
+G              
+LOUVADO SEJA O MEU SENHOR
+A              
+LOUVADO SEJA O MEU SENHOR
+
+[PRIMEIRA PARTE]
+
+    D
+POR TODAS AS SUAS CRIATURAS
+     Bm
+PELO SOL E PELA LUA
+          G            
+PELAS ESTRELAS DO FIRMAMENTO
+     A            
+PELA ÁGUA E PELO FOGO
+
+[REFRÃO]
+
+[SEGUNDA PARTE]
+
+     D
+POR AQUELES QUE AGORA SÃO FELIZES
+     Bm
+POR AQUELES QUE AGORA CHORAM
+     G              
+POR AQUELES QUE AGORA NASCEM
+     A              
+POR AQUELES QUE AGORA MORREM
+
+[REFRÃO]
+
+[TERCEIRA PARTE]
+
+      D
+O QUE DÁ SENTIDO A VIDA
+   Bm
+É AMAR-TE E LOUVAR-TE
+     G          
+PARA QUE A NOSSA VIDA
+      A             
+SEJA SEMPRE UMA CANÇÃO
+
+[REFRÃO]
+
+---
+
+[PRIMEIRA PARTE]
+
+D            
+A ALEGRIA ESTÁ NO CORAÇÃO
+     G                  D  C  G
+DE QUEM JÁ CONHECE A JESUS
+D             
+A VERDADEIRA PAZ SÓ TEM AQUELE
+     E7             A
+QUE JÁ CONHECE A JESUS
+
+[REFRÃO]
+
+D                   D7
+O SENTIMENTO MAIS PRECIOSO
+     G               A#
+QUE VEM DO NOSSO SENHOR
+      D          A       
+É O AMOR QUE SÓ TEM QUEM
+                D  C  G  
+JÁ CONHECE A JESUS
+
+[PRIMEIRA PARTE]
+
+[PONTE]
+
+         D           
+POSSO PISAR NUMA TROPA
+      D7
+E SALTAR AS MURALHAS
+    G        A#
+ALELUIA! ALELUIA!
+         D           
+POSSO PISAR NUMA TROPA
+      D7
+E SALTAR AS MURALHAS
+    G        A#
+ALELUIA! ALELUIA!
+
+  D                 D7
+E ELE É A ROCHA DA MINHA SALVAÇÃO
+    G                A#
+COM ELE NÃO HÁ MAIS CONDENAÇÃO
+         D      
+POSSO PISAR NUMA TROPA
+   A
+E SALTAR AS MURALHAS
+    D    A
+ALELUIA! 
+
+    D        G  D
+ALELUIA! ALELUI_A!
+             E7  A
+ALELUIA! ALELUI__A!
+    D        G  D
+ALELUIA! ALELUI_A!
+             E7  A
+ALELUIA! ALELUI__A!
+
+[REFRÃO]
+
+      D          A      
+É O AMOR QUE SÓ TEM QUEM
+                C  G
+JÁ CONHECE A JESUS
+      D          A 
+É O AMOR QUE SÓ TEM QUEM
+                D  
+JÁ CONHECE A JESUS
+
+---
+     D                  
+O SENHOR TEM MUITO FILHOS
+                  A7
+MUITOS FILHOS ELE TEM 
+EU SOU UM DELES, VOCÊ TAMBÉM
+               D
+LOUVEMOS AO SENHOR
+BRAÇO DIREITO...
+```
+[Repertório](#repertório)
 
 ## O Melhor Pra Deus - Missionário Shalom
 ```
