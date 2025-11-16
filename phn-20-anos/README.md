@@ -121,7 +121,7 @@ Eu te amo, Jesus
 [Final] F  G  Am
         F  G  Am
 ```
-[Cifra Club](https://www.cifraclub.com.br/frei-gilson/pescador-de-homens/) | [YouTube](https://www.youtube.com/watch?v=qlQRemx0_C0)
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/frei-gilson/pescador-de-homens/) | [YouTube](https://www.youtube.com/watch?v=qlQRemx0_C0)
 
 ## O Teu Amor - Isadora Pompeo
 ```
@@ -160,7 +160,7 @@ G                          D      G  D  A
 
 [FINAL] D
 ```
-[Cifra Club](https://www.cifraclub.com.br/isadora-pompeo/o-teu-amor/) | [YouTube](https://youtu.be/VFbz070joyc?si=MZOu3gPA38a2Ojzr)
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/isadora-pompeo/o-teu-amor/) | [YouTube](https://youtu.be/VFbz070joyc?si=MZOu3gPA38a2Ojzr)
 
 ## Chuva de Graça - Eliana Ribeiro
 ```
@@ -191,7 +191,7 @@ CHUVA DE GRAÇA NESTE LUGAR DERRAMA!
 [FINAL] B  F# G#m E
         B  F# E ( G#m F# )
 ```
-[Cifra Club](https://www.cifraclub.com.br/eliana-ribeiro/chuva-de-graca-/) | [YouTube](https://www.youtube.com/watch?v=EQj1GzLkicU&t=3s)
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/eliana-ribeiro/chuva-de-graca-/) | [YouTube](https://www.youtube.com/watch?v=EQj1GzLkicU&t=3s)
 
 
 ## Seja Elevado - Colo de Deus
@@ -232,7 +232,7 @@ SEJA ELEVADO NO TRONO MAIS ALTO     (2X)
 
 [REFRÃO]
 ```
-[Cifra Club](https://www.cifraclub.com.br/comunidade-catolica-colo-de-deus/seja-elevado) | [YouTube](https://www.youtube.com/watch?v=ANlcJgj7c9s&list=RDANlcJgj7c9s)
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/comunidade-catolica-colo-de-deus/seja-elevado) | [YouTube](https://www.youtube.com/watch?v=ANlcJgj7c9s&list=RDANlcJgj7c9s)
 
 ## Uma Revolução - Missionário Shalom 
 ```
@@ -282,7 +282,7 @@ DEIXA DEUS TE SURPREENDER, ASSIM COMO MUDOU MEU VIVER
 A                 B            C#m             G#7
 BASTA ABRIR O TEU CORAÇÃO E EM TI FARÁ UMA REVOLUÇÃO. (2X)
 ```
-[Cifra Club](https://www.cifraclub.com.br/missionario-shalom/uma-revolucao) | [YouTube](https://www.youtube.com/watch?v=Nr1ff0zVKIE&list=RDNr1ff0zVKIE)
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/missionario-shalom/uma-revolucao) | [YouTube](https://www.youtube.com/watch?v=Nr1ff0zVKIE&list=RDNr1ff0zVKIE)
 
 ## Dança de Avivamento / O Senhor É Rei - Pot-Pourri
 ```
@@ -332,8 +332,8 @@ QUANDO EU VACILAR,        EU NÃO TEMEREI
           C          D
 POIS O SENHOR ESTÁ COMIGO (2X)
 ```
-- Dança de Avivamento - Diego Fernandes: [Cifra Club](https://www.cifraclub.com.br/diego-fernandes/danca-de-avivamento) | [YouTube](https://www.youtube.com/watch?v=Knf_LdTBs3I).
-- O Senhor É Rei - Padre Zeca: [Cifra Club](https://www.cifraclub.com.br/padre-zeca/o-senhor-rei/) | [YouTube](https://www.youtube.com/watch?v=AousKZ4qtuo).
+- Dança de Avivamento - Diego Fernandes: [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/diego-fernandes/danca-de-avivamento) | [YouTube](https://www.youtube.com/watch?v=Knf_LdTBs3I).
+- O Senhor É Rei - Padre Zeca: [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/padre-zeca/o-senhor-rei/) | [YouTube](https://www.youtube.com/watch?v=AousKZ4qtuo).
 
 
 ## Parapapa - Missionário Shalom
@@ -374,7 +374,7 @@ TUDO O QUE DEUS FAZ TEM O SEU TEMPO E TRAZ A PAZ
 
 [REFRÃO]
 ```
-[Cifra Club](https://www.cifraclub.com.br/missionario-shalom/parapapa) | [YouTube](https://www.youtube.com/watch?v=-mGPArLw9-s&list=RD-mGPArLw9-s)
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/missionario-shalom/parapapa) | [YouTube](https://www.youtube.com/watch?v=-mGPArLw9-s&list=RD-mGPArLw9-s)
 
 ## Como Não Falar do Seu Amor - Dunga
 ```
@@ -420,7 +420,7 @@ REALIZAR AH AH..    REALIZAR EM TI. (3X)
 
 [INTRO]
 ```
-[Cifra Club](https://www.cifraclub.com.br/dunga/como-nao-falar-do-seu-amor/) | [YouTube](https://www.youtube.com/watch?v=vXxoaaN2ztA&list=RDvXxoaaN2ztA)
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/dunga/como-nao-falar-do-seu-amor/) | [YouTube](https://www.youtube.com/watch?v=vXxoaaN2ztA&list=RDvXxoaaN2ztA)
 
 
 ## O Melhor Pra Deus - Missionário Shalom
@@ -461,7 +461,7 @@ O melhor pra Deus eu vou dar!
 Bb                        C      Dm
 O melhor pra Deus eu vou dar!
 ```
-[Cifra Club](https://www.cifraclub.com.br/missionario-shalom/o-melhor-para-deus/) | [YouTube](https://www.youtube.com/watch?v=kTvM0UvxFAA&list=RDkTvM0UvxFAA)
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/missionario-shalom/o-melhor-para-deus/) | [YouTube](https://www.youtube.com/watch?v=kTvM0UvxFAA&list=RDkTvM0UvxFAA)
 
 
 ## Profetiza Filho de Maria - Colo de Deus
@@ -515,7 +515,7 @@ Vou pro céu com Ela
 
 [Final] F  Dm  Am  C
 ```
-[Cifra Club](https://www.cifraclub.com.br/comunidade-catolica-colo-de-deus/profetiza-filho-de-maria/) | [YouTube](https://www.youtube.com/watch?v=kTvM0UvxFAA&list=RDkTvM0UvxFAA)
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/comunidade-catolica-colo-de-deus/profetiza-filho-de-maria/) | [YouTube](https://www.youtube.com/watch?v=kTvM0UvxFAA&list=RDkTvM0UvxFAA)
 
 ## O Meu Lugar É o Céu - Dunga
 ```
@@ -636,7 +636,7 @@ O meu lugar é o céu
                      Am    G/B                     C9   D (G)
 É lá que eu quero moraaaaar, é lá que eu quero moraaaaar
 ```
-[Cifra Club](https://www.cifraclub.com.br/dunga/o-meu-lugar-o-ceu/) | [YouTube](https://www.youtube.com/watch?v=ckd9IRujeDk&list=RDckd9IRujeDk)
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/dunga/o-meu-lugar-o-ceu/) | [YouTube](https://www.youtube.com/watch?v=ckd9IRujeDk&list=RDckd9IRujeDk)
 
 
 ## Desperta - Colo de Deus
@@ -759,7 +759,7 @@ Desperta, é tempo de mudar
                    E9
 Desperta, é tempo de mudar
 ```
-[Cifra Club](https://www.cifraclub.com.br/comunidade-catolica-colo-de-deus/desperta/) | [YouTube](https://www.youtube.com/watch?v=k9S0tcA3eD0)
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/comunidade-catolica-colo-de-deus/desperta/) | [YouTube](https://www.youtube.com/watch?v=k9S0tcA3eD0)
 
 
 ## Estrangeiro Aqui - Missionário Shalom 
@@ -872,7 +872,7 @@ Onde eu vou morar
 A#             F
 Onde eu vou morar
 ```
-[Cifra Club](https://www.cifraclub.com.br/comunidade-catolica-shalom/estrangeiro-aqui/) | [YouTube](https://www.youtube.com/watch?v=2FRnYALxqhk&list=RD2FRnYALxqhk)
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/comunidade-catolica-shalom/estrangeiro-aqui/) | [YouTube](https://www.youtube.com/watch?v=2FRnYALxqhk&list=RD2FRnYALxqhk)
 
 ## Templo Vivo - Diego Fernandes 
 ```
@@ -972,6 +972,6 @@ Do teu amor
 Bm  A  D/F#  G  D/F# Em   D
 Oh oh  oh   oh  ooo___h  ohhhhhhhh
 ```
-[Cifra Club](https://www.cifraclub.com.br/diego-fernandes/templo-vivo/) | [YouTube](https://www.youtube.com/watch?v=h30mJkglCRk&list=RDh30mJkglCRk)
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/diego-fernandes/templo-vivo/) | [YouTube](https://www.youtube.com/watch?v=h30mJkglCRk&list=RDh30mJkglCRk)
 
 
