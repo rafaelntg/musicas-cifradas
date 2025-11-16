@@ -174,7 +174,8 @@ CHUVA DE GRAÇA PEDIMOS A TI CHUVA DE GRAÇA DERRAMA EM NÓS
          B             F#    E     ( G#m F# )
 CHUVA DE GRAÇA NESTE LUGAR DERRAMA!          
 
-[SOLO] B  F# G#m E
+[SOLO] B  F# G#m E (VERSÃO EROS BIONDINI: G#m E G#m E C#m B/D# E F#)
+
 
 [ESTROFE] [REFRÃO]
 
