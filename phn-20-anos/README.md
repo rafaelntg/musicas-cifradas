@@ -715,102 +715,64 @@ ONDE EU VOU MORAR
 
 ## Templo Vivo - Diego Fernandes 
 ```
-[Intro] Bm  G  D  A  Bm  G
+[INTRO] Bm  G  D  A  Bm  G
 
-[Primeira Parte]
+[PRIMEIRA PARTE]
 
        D                  A
-Seja bem vindo, Espírito Santo!
+SEJA BEM VINDO, ESPÍRITO SANTO!
         Bm              G
-O meu coração  é o teu lar
+O MEU CORAÇÃO  É O TEU LAR
            D              A
-Seja bem vindo, Espírito Santo!
+SEJA BEM VINDO, ESPÍRITO SANTO!
          Bm
-A minha casa é também tua casa
+A MINHA CASA É TAMBÉM TUA CASA
            G
-A minha família é o teu lugar!
+A MINHA FAMÍLIA É O TEU LUGAR!
 
 ( D  A  Bm  G )
 
-[Primeira Parte]
+[PRIMEIRA PARTE]
 
-D                         A
-Seja bem-vindo, Espírito Santo!
-         Bm           G
-O meu coração é o teu lar
-           D              A
-Seja bem-vindo, Espírito Santo!
-         Bm
-A minha casa é também tua casa
-           G
-A minha família é o teu lugar!
          A         G
-Ah! Ah! Ah!... Ah! Ah! Ah!
+AH! AH! AH!... AH! AH! AH!
 Em      A    D
-Vem em mim morar!
+VEM EM MIM MORAR!
          A         G
-Ah! Ah! Ah!... Ah! Ah! Ah!
+AH! AH! AH!... AH! AH! AH!
 Em      A    D/F#  G  A  G/B  A/C#  D
-Vem em mim morar!
+VEM EM MIM MORAR!
 
-[Refrão]
+[REFRÃO]
 
 D              A
-Quero ser templo vivo
+QUERO SER TEMPLO VIVO
     Bm       G
-E te levar comigo
+E TE LEVAR COMIGO
        D          A          G
-Quero ser templo vivo do teu amor
+QUERO SER TEMPLO VIVO DO TEU AMOR (2X)
 
-A      D              A
-Quero ser templo vivo
-    Bm       G
-E te levar comigo
-   D             A          G
-Quero ser templo vivo do teu amor
+( Bm  D  G  Em ) (2X)
 
-( Bm  D  G  Em )
-( Bm  D  G  Em )
+[PRIMEIRA PARTE]
 
-[Primeira Parte]
-
-           D              A
-Seja bem-vindo, Espírito Santo!
-         Bm
-A minha casa é também tua casa
-           G
-A minha família é o teu lugar!
          A         G
-Ah! Ah! Ah!... Ah! Ah! Ah!
+AH! AH! AH!... AH! AH! AH!
 Em      A    D
-Vem em mim morar!
+VEM EM MIM MORAR!
          A         G
-Ah! Ah! Ah!... Ah! Ah! Ah!
+AH! AH! AH!... AH! AH! AH!
 Em      A     D/F#  G  A  G/B  A/C#  D
-Vem em mim morar!
+VEM EM MIM MORAR!
 
-[Refrão]
+[REFRÃO]
 
-D              A
-Quero ser templo vivo
-    Bm       G
-E te levar comigo
-   D             A          G
-Quero ser templo vivo do teu amor
-
-A      D              A
-Quero ser templo vivo
-    Bm       G
-E te levar comigo
-       D         A          G
-Quero ser templo vivo do teu amor
         D  A  G
-Do teu amor
+DO TEU AMOR
          Bm  A
-Do teu amor
+DO TEU AMOR
 Bm  A  D/F#  G  D/F# Em   D
-Oh oh  oh   oh  ooo___h  ohhhhhhhh
+OH OH  OH   OH  OOO___H  OHHHHHHHH
 ```
 [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/diego-fernandes/templo-vivo/) | [YouTube](https://www.youtube.com/watch?v=h30mJkglCRk&list=RDh30mJkglCRk)
-
 
