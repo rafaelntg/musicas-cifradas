@@ -44,82 +44,75 @@ Acontecerá dia 13 de dezembro de 2025 na quadra do Lar da Criança Monsenhor No
 
 ## Pescador de Homens - Frei Gilson
 ```
-[Intro] Am  F  Am  F
+[INTRO] Am  F  Am  F
 
-[Primeira Parte]
+[PRIMEIRA PARTE]
 
 Am                       F
-   Pescador de homens farei de ti
+   PESCADOR DE HOMENS FAREI DE TI
 G                   Am
-  Te conduzirei ao reino do meu pai
+  TE CONDUZIREI AO REINO DO MEU PAI
                          F
-A face do pai é esta que olha pra ti
+A FACE DO PAI É ESTA QUE OLHA PRA TI
 G                   Am
-  Pois quem me vê, vê o pai
+  POIS QUEM ME VÊ, VÊ O PAI
 
                  F
-Simão, filho de Jonas, tu me amas?
+SIMÃO, FILHO DE JONAS, TU ME AMAS?
 G                 Am
-  Sim Senhor, tu sabes que sou teu amigo
-                 F
-Simão, filho de Jonas, tu me amas?
-G                 Am
-  Sim Senhor, tu sabes que sou teu amigo
+  SIM SENHOR, TU SABES QUE SOU TEU AMIGO (QUE EU TE AMO) (2X)
+
                   F                G
-Simão, filho de Jonas, tu me amas?
+SIMÃO, FILHO DE JONAS, TU ME AMAS?
 
-( Am  F  G  Am )
-( F  G  Am )
+( Am  F  G  Am ) ( F  G  Am )
 
-[Primeira Parte]
+[PRIMEIRA PARTE]
 
 [REFRÃO]
 
     Am            F
-Senhor, Tu sabes tudo
+SENHOR, TU SABES TUDO
     G       Am
-Senhor, Tu sabes que eu te amo
+SENHOR, TU SABES QUE EU TE AMO
                   F
-Senhor, Tu sabes tudo
+SENHOR, TU SABES TUDO
     G       Am
-Senhor, Tu sabes que eu te amo
+SENHOR, TU SABES QUE EU TE AMO
 
                    F
-Apascenta minhas ovelhas
+APASCENTA MINHAS OVELHAS
                    G
-Apascenta o meu rebanho
+APASCENTA O MEU REBANHO
                       Am
-Apascenta os meus cordeiros
+APASCENTA OS MEUS CORDEIROS
 
-Apascenta minhas ovelhas
+APASCENTA MINHAS OVELHAS
                    F
-Apascenta minhas ovelhas
+APASCENTA MINHAS OVELHAS
                    G
-Apascenta o meu rebanho
+APASCENTA O MEU REBANHO
                       Am
-Apascenta os meus cordeiros
+APASCENTA OS MEUS CORDEIROS
 
-[Ponte]
+[PONTE]
 
               F
-Eu te amo, Jesus
+EU TE AMO, JESUS
               G
-Eu te amo, Jesus
+EU TE AMO, JESUS
               Am
-Eu te amo, Jesus
+EU TE AMO, JESUS
               F
-Eu te amo, Jesus
+EU TE AMO, JESUS
               G
-Eu te amo, Jesus
+EU TE AMO, JESUS
               Am
-Eu te amo, Jesus
+EU TE AMO, JESUS
 
-[REFRÃO]
+[REFRÃO] [PONTE]
 
-[Ponte]
-
-[Final] F  G  Am
-        F  G  Am
+[FINAL] F  G  Am (2X)
 ```
 [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/frei-gilson/pescador-de-homens/) | [YouTube](https://www.youtube.com/watch?v=qlQRemx0_C0)
 
@@ -425,452 +418,298 @@ REALIZAR AH AH..    REALIZAR EM TI. (3X)
 
 ## O Melhor Pra Deus - Missionário Shalom
 ```
-Intro: F   C   Dm   Bb   (2x)
+[INTRO] F C Dm Bb (2X)
 
 F                     C
-Tudo em minha vida mudou quando te encontrei
+TUDO EM MINHA VIDA MUDOU QUANDO TE ENCONTREI
 Dm              Bb
-És tu Jesus o tesouro que tanto busquei
+ÉS TU JESUS O TESOURO QUE TANTO BUSQUEI
 F                   C
-  Pra te amar faço tudo, até o que eu não sei
+  PRA TE AMAR FAÇO TUDO, ATÉ O QUE EU NÃO SEI
 Dm               Bb
-Faço, faço, faço tudo!
+FAÇO, FAÇO, FAÇO TUDO!
 
 F                        C
-  Se for preciso dançar reggae, eu sou regueiro
+  SE FOR PRECISO DANÇAR REGGAE, EU SOU REGUEIRO
 Dm                      Bb
-  Se for preciso dançar rock, eu sou roqueiro
+  SE FOR PRECISO DANÇAR ROCK, EU SOU ROQUEIRO
 F                        C                        Dm
-  Se for preciso improvisar, para ver o que é que dá
+  SE FOR PRECISO IMPROVISAR, PARA VER O QUE É QUE DÁ
                          Bb                  C
-Eu canto, pulo e danço a música que Deus cantar!
+EU CANTO, PULO E DANÇO A MÚSICA QUE DEUS CANTAR!
 
 Dm   C                Dm   C
-Ôôôôôô eu vou cantar! Ôôôôôô eu vou pular!
+ÔÔÔÔÔÔ EU VOU CANTAR! ÔÔÔÔÔÔ EU VOU PULAR!
 Dm   C                Bb                        C
-Ôôôôôô eu vou gritar! O melhor pra Deus eu vou dar!
+ÔÔÔÔÔÔ EU VOU GRITAR! O MELHOR PRA DEUS EU VOU DAR!
 
-Solo: Dm   C   Dm   C   Gm   Bb   C
+[SOLO] Dm C Dm C Gm Bb C
 
 Dm   C                Dm   C
-Ôôôôôô eu vou cantar! Ôôôôôô eu vou pular!
+ÔÔÔÔÔÔ EU VOU CANTAR! ÔÔÔÔÔÔ EU VOU PULAR!
 Dm   C                Bb                        C
-Ôôôôôô eu vou gritar! O melhor pra Deus eu vou dar!
+ÔÔÔÔÔÔ EU VOU GRITAR! O MELHOR PRA DEUS EU VOU DAR!
 Dm                       Em
-O melhor pra Deus eu vou dar!
+O MELHOR PRA DEUS EU VOU DAR!
 Bb                        C      Dm
-O melhor pra Deus eu vou dar!
+O MELHOR PRA DEUS EU VOU DAR!
 ```
 [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/missionario-shalom/o-melhor-para-deus/) | [YouTube](https://www.youtube.com/watch?v=kTvM0UvxFAA&list=RDkTvM0UvxFAA)
 
 
 ## Profetiza Filho de Maria - Colo de Deus
 ```
-[Intro] Bb9  Dm  C
-
-[Tab - Intro]
+[INTRO] Bb9  Dm  C (8X)
 
           F
-Que se levante a geração
+QUE SE LEVANTE A GERAÇÃO
            Dm
-Que por Maria vencerá
+QUE POR MARIA VENCERÁ
            Am
-Chegar ao céu em oração
+CHEGAR AO CÉU EM ORAÇÃO
            C
-Para com Cristo habitar
+PARA COM CRISTO HABITAR
              Bb9
-Pois em Teu colo, Virgem Mãe
+POIS EM TEU COLO, VIRGEM MÃE
      Dm          C
-A coragem encontrei
+A CORAGEM ENCONTREI
          Bb9        Dm
-Para ao mundo anunciar que És
+PARA AO MUNDO ANUNCIAR QUE ÉS
    C
-A porta estreita
+A PORTA ESTREITA
 
 ( Bb9  Dm  C )
 
       F                Dm
-Profetiza, filho de Maria
+PROFETIZA, FILHO DE MARIA
                  Am
-Que o inferno inteiro
+QUE O INFERNO INTEIRO
            C
-Vai se abalar
+VAI SE ABALAR
       F              Dm
-Profetiza, filho de Maria
+PROFETIZA, FILHO DE MARIA
                Am
-Que em Cristo tudo
+QUE EM CRISTO TUDO
            C
-Novo se fará
+NOVO SE FARÁ
 
 ( Bb9  Dm  C )
 
 Bb9          Dm       C
-Eu sou todo dEla (oh, oh, oh)
+EU SOU TODO DELA (OH, OH, OH)
 Bb9          Dm      C
-O inferno treme (oh, oh, oh)
+O INFERNO TREME (OH, OH, OH)
 Bb9          Dm      C
-Meu futuro é dela (oh, oh, oh)
+MEU FUTURO É DELA (OH, OH, OH)
 Bb9             C
-Vou pro céu com Ela
+VOU PRO CÉU COM ELA
 
-[Final] F  Dm  Am  C
+[FINAL] F  Dm  Am  C
 ```
 [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/comunidade-catolica-colo-de-deus/profetiza-filho-de-maria/) | [YouTube](https://www.youtube.com/watch?v=kTvM0UvxFAA&list=RDkTvM0UvxFAA)
 
 ## O Meu Lugar É o Céu - Dunga
 ```
-[Intro] Em  D  C
-        Em  D  C
+[INTRO] Em  D  C (2X)
 
-[Tab - Intro]
-
-[Refrão]
+[REFRÃO]
 
                   G  G9  G4  G  G9  G
-O meu lugar é o céu
+O MEU LUGAR É O CÉU
                      D  D9  D  D4  D D9 D
-E lá que eu quero morar
+E LÁ QUE EU QUERO MORAR
                  Em  D  C9
-O meu lugar é o céu
+O MEU LUGAR É O CÉU
                      Cm6
-É lá que eu quero morar
+É LÁ QUE EU QUERO MORAR
                  G  G9  G4  G  G9 G
-O meu lugar é o céu
+O MEU LUGAR É O CÉU
                      D  D9  D  D4  D D9 D
-É lá que eu quero morar
+É LÁ QUE EU QUERO MORAR
                  Em  D  C9
-O meu lugar é o céu
+O MEU LUGAR É O CÉU
                      G  D/F#
-É lá que eu quero morar
+É LÁ QUE EU QUERO MORAR
 
    Em
-Eu sei  não vale a pena
+EU SEI  NÃO VALE A PENA
        D
-Tanta grana, poder, fama
+TANTA GRANA, PODER, FAMA
       C9
-Pois isso tudo aqui vou deixar
+POIS ISSO TUDO AQUI VOU DEIXAR
    Em                          D
-E sei que lá no céu só chega aquele que na terra
+E SEI QUE LÁ NO CÉU SÓ CHEGA AQUELE QUE NA TERRA
        C9
-Seus bens soube compartilhar
+SEUS BENS SOUBE COMPARTILHAR
      Em                   D
-Por isso todo dia, dia-a-dia, a cada hora
+POR ISSO TODO DIA, DIA-A-DIA, A CADA HORA
     C9
-Eu sei com Deus eu posso contar
+EU SEI COM DEUS EU POSSO CONTAR
      Em                      D
-E a cada passo certo que eu der aqui na terra
+E A CADA PASSO CERTO QUE EU DER AQUI NA TERRA
       C9
-Mais perto Dele eu vou ficar
+MAIS PERTO DELE EU VOU FICAR
 
-[Refrão]
-
-                 G  G9  G4  G  G9  G
-O meu lugar é o céu
-                     D  D9  D  D4  D9 D
-E lá que eu quero morar
-                 Em  D C9
-O meu lugar é o céu
-                     Cm6
-É lá que eu quero morar
-                 G  G9  G4  G  G9 G
-O meu lugar é o céu
-                     D  D9  D  D4  D9 D
-É lá que eu quero morar
-                 Em  D C9
-O meu lugar é o céu
-                     G  D/F#
-É lá que eu quero morar
-
-   Em
-Eu sei  não vale a pena
-       D
-Tanta grana, poder, fama
-      C9
-Pois isso tudo aqui vou deixar
-   Em                          D
-E sei que lá no céu só chega aquele que na terra
-       C9
-Seus bens soube compartilhar
-     Em                   D
-Por isso todo dia, dia-a-dia, a cada hora
-    C9
-Eu sei com Deus eu posso contar
-     Em                      D
-E a cada passo certo que eu der aqui na terra
-      C9
-Mais perto Dele eu vou ficar
-
-( Em  D  C )
-( Em  D  C )
+[REFRÃO] [INTRO]
 
 Am                      D     Am                G
-Buscar, bater, saber pedir... e até mesmo suplicar
+BUSCAR, BATER, SABER PEDIR... E ATÉ MESMO SUPLICAR
 Am              D
-Eu tenho um endereço
+EU TENHO UM ENDEREÇO
     G         F  C   F  C
-No céu vou morar
+NO CÉU VOU MORAR
     G         F      C
-Eu tenho um lugar
+EU TENHO UM LUGAR
 
-[Refrão]
+[REFRÃO]
 
-                G  G9  G4  G  G9  G
-O meu lugar é o céu
-                     D  D9  D  D4  D9 D
-E lá que eu quero morar
-                 Em  D  C9
-O meu lugar é o céu
-                     Cm6
-É lá que eu quero morar
-                 G  G9  G4  G  G9  G
-O meu lugar é o céu
-                     D  D9  D  D4  D9 D
-É lá que eu quero morar
-                 Em  D  C9
-O meu lugar é o céu
-
-[Final]
+[FINAL]
 
                      Am    G/B                     C9   D
-É lá que eu quero moraaaaar, é la que eu quero moraaaaar
+É LÁ QUE EU QUERO MORAAAAAR, É LA QUE EU QUERO MORAAAAAR
                      Am    G/B                     C9   D (G)
-É lá que eu quero moraaaaar, é lá que eu quero moraaaaar
+É LÁ QUE EU QUERO MORAAAAAR, É LÁ QUE EU QUERO MORAAAAAR
 ```
 [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/dunga/o-meu-lugar-o-ceu/) | [YouTube](https://www.youtube.com/watch?v=ckd9IRujeDk&list=RDckd9IRujeDk)
 
 
 ## Desperta - Colo de Deus
 ```
-[Intro] E9  B4  C#m7  A9
+[INTRO] E9  B4  C#m7  A9
 
-[Primeira Parte]
+[PRIMEIRA PARTE]
 
 E9    B4
-Aviva    o meu coração 
+AVIVA    O MEU CORAÇÃO 
     C#m7        A9
-Cansado de esperar
+CANSADO DE ESPERAR
                 E9     B4
-Religa Tua vida em mim      
+RELIGA TUA VIDA EM MIM      
  C#m7        A9
-Tua vida em mim
+TUA VIDA EM MIM
 
     E9   B4
-Desperta 
+DESPERTA 
                     C#m7   A9
-Tu que dormes na escuridão
+TU QUE DORMES NA ESCURIDÃO
                   E9           B4  C#m7  A9
-Vem ouvir as trombetas de Sião
+VEM OUVIR AS TROMBETAS DE SIÃO
 
-[Refrão]
-
-     C#m7(9)  B4
-Proclama         
-                      A9
-Que Jesus voltando está
-                     C#m7(9)  B4
-Que o Seu Reino não findará
-                     A9
-Que o cordeiro é o Leão 
-
-Que no trono está
+[REFRÃO]
 
      C#m7(9)  B4
-Proclama         
+PROCLAMA         
                       A9
-Que Jesus voltando está
+QUE JESUS VOLTANDO ESTÁ
                      C#m7(9)  B4
-Que o Seu Reino não findará
+QUE O SEU REINO NÃO FINDARÁ
                      A9
-Que o cordeiro é o Leão 
+QUE O CORDEIRO É O LEÃO 
+QUE NO TRONO ESTÁ (2X)
 
-Que no trono está
-
-[Segunda Parte]
+[SEGUNDA PARTE]
 
 C#m7(9)                 B4
-        Escuta povo meu
+        ESCUTA POVO MEU
 
-Sou a promessa das nações
+SOU A PROMESSA DAS NAÇÕES
 A9
-   Vou levantar você
+   VOU LEVANTAR VOCÊ
                   C#m7(9)
-Para ser a minha voz 
+PARA SER A MINHA VOZ 
                      B4
-E ser as minhas mãos
+E SER AS MINHAS MÃOS
                   A9
-E hoje nessa geração 
+E HOJE NESSA GERAÇÃO 
+Te escolhi, és meu! (2X)
 
-Te escolhi, és meu!
+[INTERLÚDIO] C#m7(9)  B4  A9  B4 (4X)
 
-C#m7(9)                 B4
-        Escuta povo meu
+[REFRÃO]
 
-Sou a promessa das nações
-A9
-   Vou levantar você
-                  C#m7(9)
-Para ser a minha voz 
-                     B4
-E ser as minhas mãos
-                  A9
-E hoje nessa geração 
-
-Te escolhi, és meu!
-
-[Interlúdio] C#m7(9)  B4  A9  B4
-             C#m7(9)  B4  A9  B4
-             C#m7(9)  B4  A9  B4
-             C#m7(9)  B4  A9  B4
-
-[Refrão]
-
-     C#m7(9)  B4
-Proclama         
-                      A9
-Que Jesus voltando está
-                     C#m7(9)  B4
-Que o Seu Reino não findará
-                     A9
-Que o cordeiro é o Leão 
-
-Que no trono está
-
-     C#m7(9)  B4
-Proclama         
-                      A9
-Que Jesus voltando está
-                     C#m7(9)  B4
-Que o Seu Reino não findará
-                     A9
-Que o cordeiro é o Leão 
-
-Que no trono está
-
-[Terceira Parte]
+[TERCEIRA PARTE]
 
     E9     B4
-Vou avivar    o teu coração
+VOU AVIVAR    O TEU CORAÇÃO
     C#m7(9)      A9 
-Cansado de esperar
+CANSADO DE ESPERAR
            E9             B4
-Vou te atrair, te conquistar
+VOU TE ATRAIR, TE CONQUISTAR
                    C#m7(9)  A9
-Desperta, é tempo de mudar
+DESPERTA, É TEMPO DE MUDAR
                    E9
-Desperta, é tempo de mudar
+DESPERTA, É TEMPO DE MUDAR
 ```
 [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/comunidade-catolica-colo-de-deus/desperta/) | [YouTube](https://www.youtube.com/watch?v=k9S0tcA3eD0)
 
 
 ## Estrangeiro Aqui - Missionário Shalom 
 ```
-[Intro] F  Gm7  A# C
-        F  Gm7  A# C
+[INTRO] F  Gm7  A# C (2X)
         F  Gm7  A# F
 
-[Primeira Parte]
+[PRIMEIRA PARTE]
 
 F                              Dm7
-Eu tenho os meus pés no chão
+EU TENHO OS MEUS PÉS NO CHÃO
                  C          Gm7      F/A
-Mas sei que o meu coração está muito além do céu
+MAS SEI QUE O MEU CORAÇÃO ESTÁ MUITO ALÉM DO CÉU
         A#           C
-E do que se possa ver
+E DO QUE SE POSSA VER
 F                        Dm7
-Busco o que no alto está
+BUSCO O QUE NO ALTO ESTÁ
                C          Gm7
-Busco o que não passará jamais
+BUSCO O QUE NÃO PASSARÁ JAMAIS
       F/A      A#      C
-Minha vida está  escondida
+MINHA VIDA ESTÁ  ESCONDIDA
          F
-Em Jesus
+EM JESUS
 
-[Refrão]
+[REFRÃO]
 
 F          C/E     Dm7            A#
-Sou estrangeiro aqui,   o Céu é o meu lugar
+SOU ESTRANGEIRO AQUI,   O CÉU É O MEU LUGAR
 Gm7          F/A           A#
-É de onde vim,  é pra onde vou
+É DE ONDE VIM,  É PRA ONDE VOU
       C             F
-É lá onde eu vou morar
-F          C/E     Dm7            A#
-Sou estrangeiro aqui,   o Céu é o meu lugar
-Gm7          F/A           A#
-É de onde vim,  é pra onde vou
-      C             F Gm7 A#
-É lá onde eu vou morar
+É LÁ ONDE EU VOU MORAR (2X)
 
-[Segunda Parte]
+[SEGUNDA PARTE]
 
 D                            Bm
-Eu tenho os meus pés no chão
+EU TENHO OS MEUS PÉS NO CHÃO
                  A         Em7      D/F#
-Mas sei que o meu coração está muito além do céu
+MAS SEI QUE O MEU CORAÇÃO ESTÁ MUITO ALÉM DO CÉU
         G          A7
-E do que se possa ver
+E DO QUE SE POSSA VER
  D                       Bm                A           Em7
-Busco o que no alto está,    busco o que não passará jamais
+BUSCO O QUE NO ALTO ESTÁ,    BUSCO O QUE NÃO PASSARÁ JAMAIS
       D/F#    G        A7
-Minha vida está  escondida
+MINHA VIDA ESTÁ  ESCONDIDA
        D
-Em Jesus
+EM JESUS
 
-[Refrão]
-
-D          A/C#     Bm7           G
-Sou estrangeiro aqui,   o Céu é o meu lugar
-Em7         D/F#              G      A              D
-É de onde vim,  é pra onde vou,  é lá onde eu vou morar
- D         A/C#     Bm7           G
-Sou estrangeiro aqui,   o céu é o meu lugar
-Em7         D/F#              G      A              D A G
-É de onde vim,  é pra onde vou,  é lá onde eu vou morar
+[REFRÃO]
 
 D                Em7           G               A
-O Senhor é minha Luz e Salvação, de quem terei medo?
+O SENHOR É MINHA LUZ E SALVAÇÃO, DE QUEM TEREI MEDO?
 Em              D/F#           G
-O Senhor é a segurança da minha vida
+O SENHOR É A SEGURANÇA DA MINHA VIDA
 D                Em7           G               A
-O Senhor é minha Luz e Salvação, de quem terei medo?
+O SENHOR É MINHA LUZ E SALVAÇÃO, DE QUEM TEREI MEDO?
 Em              D/F#           G
-O Senhor é a segurança da minha vida
+O SENHOR É A SEGURANÇA DA MINHA VIDA
    Bm          A
-A quem eu temerei?
+A QUEM EU TEMEREI?
 
-[Terceira Parte]
+[REFRÃO 2X]
 
-F          C/E     Dm7            A#
-Sou estrangeiro aqui,   o Céu é o meu lugar
-Gm7          F/A           A#
-É de onde vim,  é pra onde vou
-      C             F
-É lá onde eu vou morar
-F          C/E     Dm7            A#
-Sou estrangeiro aqui,   o Céu é o meu lugar
-Gm7          F/A           A#
-É de onde vim,  é pra onde vou
-      C             F Gm7 A#F
-É lá onde eu vou morar
-
-[Final]
-
-F          C/E     Dm7            A#
-Sou estrangeiro aqui,   o Céu é o meu lugar
-Gm7          F/A           A#
-É de onde vim,  é pra onde vou
-      C             F
-É lá onde eu vou morar
-F          C/E     Dm7            A#
-Sou estrangeiro aqui,   o Céu é o meu lugar
-Gm7          F/A           A#
-É de onde vim,  é pra onde vou
-      C             F  C/E  Dm7
-É lá onde eu vou morar
+[FINAL]
 
 A#             F  C/E  Dm7
-Onde eu vou morar
+ONDE EU VOU MORAR
 A#             F
-Onde eu vou morar
+ONDE EU VOU MORAR
 ```
 [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/comunidade-catolica-shalom/estrangeiro-aqui/) | [YouTube](https://www.youtube.com/watch?v=2FRnYALxqhk&list=RD2FRnYALxqhk)
 
