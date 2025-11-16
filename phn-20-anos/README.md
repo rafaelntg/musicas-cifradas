@@ -16,26 +16,24 @@ Acontecerá dia 13 de dezembro de 2025 na quadra do Lar da Criança Monsenhor No
 
 ## Repertório
 
-- TEMA: [Pescador de Homens - Frei Gilson](#pescador-de-homens---frei-gilson).
-
-- [O Teu Amor – Isadora Pompeo](#o-teu-amor---isadora-pompeo).
-- [Chuva de Graça – Eliana Ribeiro](#chuva-de-graca---eliana-ribeiro).
+- [Pescador de Homens - Frei Gilson (TEMA)](#pescador-de-homens---frei-gilson).
+- [O Teu Amor - Isadora Pompeo](#o-teu-amor---isadora-pompeo).
+- [Chuva de Graça – Eliana Ribeiro](#chuva-de-graça---eliana-ribeiro).
 - [Seja Elevado – Colo de Deus](#seja-elevado---colo-de-deus).
-- [Uma Revolução – Missionário Shalom](#uma-revolucao---missionario-shalom).
-- [Dança de Avivamento / O Senhor É Rei - Pot-Pourri](#danca-de-avivamento---o-senhor-e-rei---pot-pourri).
-- [Parapapa – Missionário Shalom](#parapapa---missionario-shalom).
-- [Como Não Falar do Seu Amor – Dunga](#como-nao-falar-do-seu-amor---dunga).
+- [Uma Revolução – Missionário Shalom](#uma-revolução---missionário-shalom).
+- [Dança de Avivamento / O Senhor É Rei - Pot-Pourri](#dança-de-avivamento--o-senhor-é-rei---pot-pourri).
+- [Parapapa – Missionário Shalom](#parapapa---missionário-shalom).
+- [Como Não Falar do Seu Amor - Dunga](#como-não-falar-do-seu-amor---dunga).
 
 - Derrama o Teu Amor – tom original (G) – Ele vem (G)
 - Vitoria no Deserto – (G)
 
-- [O Melhor pra Deus – Missionário Shalom](#o-melhor-pra-deus---missionario-shalom).
-- [Profetiza Filho de Maria - Missionário Shalom](#profetiza-filho-de-maria---missionario-shalom).
-- [Meu Lugar É o Céu - Dunga](#o-meu-luga-e-o-ceu---dunga).
+- [O Melhor pra Deus – Missionário Shalom](#o-melhor-pra-deus---missionário-shalom).
+- [Profetiza Filho de Maria - Colo de Deus](#profetiza-filho-de-maria---colo-de-deus).
+- [Meu Lugar É o Céu - Dunga](#o-meu-lugar-é-o-céu---dunga).
 - [Desperta - Colo de Deus](#desperta---colo-de-deus).
-- [Estrangeiro Aqui - Missionário Shalom](#estrangeiro-aqui---missionario-shalom).
+- [Estrangeiro Aqui - Missionário Shalom](#estrangeiro-aqui---missionário-shalom).
 - [Templo Vivo - Diego Fernandes](#templo-vivo---diego-fernandes).
-
 
 ### Links úteis
 
@@ -125,7 +123,7 @@ Eu te amo, Jesus
 ```
 [Cifra Club](https://www.cifraclub.com.br/frei-gilson/pescador-de-homens/) | [YouTube](https://www.youtube.com/watch?v=qlQRemx0_C0)
 
-## O Teu Amor – Isadora Pompeo
+## O Teu Amor - Isadora Pompeo
 ```
 [INTRO] D  D4  D  C  G/B (2X)
            
@@ -378,7 +376,7 @@ TUDO O QUE DEUS FAZ TEM O SEU TEMPO E TRAZ A PAZ
 ```
 [Cifra Club](https://www.cifraclub.com.br/missionario-shalom/parapapa) | [YouTube](https://www.youtube.com/watch?v=-mGPArLw9-s&list=RD-mGPArLw9-s)
 
-## Como Não Falar do Seu Amor – Dunga
+## Como Não Falar do Seu Amor - Dunga
 ```
 [INTRO]  G  G/B  A/C#  D4  D
 
@@ -519,7 +517,7 @@ Vou pro céu com Ela
 ```
 [Cifra Club](https://www.cifraclub.com.br/comunidade-catolica-colo-de-deus/profetiza-filho-de-maria/) | [YouTube](https://www.youtube.com/watch?v=kTvM0UvxFAA&list=RDkTvM0UvxFAA)
 
-## O Meu Lugar É o Céu - Dunga 
+## O Meu Lugar É o Céu - Dunga
 ```
 [Intro] Em  D  C
         Em  D  C
