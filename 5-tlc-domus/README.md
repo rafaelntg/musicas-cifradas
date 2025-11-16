@@ -16,8 +16,8 @@ Será realizado em Santa Rita do Sapucaí-MG, na Casa da Paz, dentro da ETE-FMC,
 
 ### Sexta-feira
 
-- [Na Frente do Reto](#na-frente-do-reto---o-rappa) - Gm
-- [Anjos - O Rappa](#anjos---o-rappa) - Bbm
+- [Na Frente do Reto](#na-frente-do-reto---o-rappa).
+- [Anjos - O Rappa](#anjos---o-rappa).:
 - Falta você - E
 - Eva - G
 - Esperando na Janela - D
@@ -56,6 +56,157 @@ Será realizado em Santa Rita do Sapucaí-MG, na Casa da Paz, dentro da ETE-FMC,
 # Músicas
 
 ## Na Frente do Reto - O Rappa
+```
+[INTRO] Gm7  Bb  Eb7M  D7 (4X)
+
+[REFRÃO]
+
+        Gm7 Bb7 Eb7M D7
+O SHOW TÁ  COMEÇANDO
+        Gm7 Bb7 Eb7M D7
+O SHOW TÁ  COMEÇANDO
+
+[PRIMEIRA PARTE]
+
+       Gm7
+ANOTE TUDO QUE PUDER
+
+ANOTE TUDO QUE VER
+                Eb7M
+NÃO SE SABE O QUE SUCEDE
+             D7
+O QUE PODE ACONTECER
+          Gm7
+DETALHES FAZEM DIFERENÇA
+
+DETALHES FAZEM TODA A DIFERENÇA
+     Eb7M        D7
+E BOBAGEM, JÁ É TARDE, ESQUEÇA
+
+[SEGUNDA PARTE]
+
+  Cm7
+QUANDO ESTIVERMOS NA FRENTE DO RETO
+         Gm7
+FIQUE ESPERTO
+
+CALADO E QUIETO
+  Cm7
+QUANDO ESTIVERMOS NA FRENTE DO RETO
+         Gm7
+FIQUE ESPERTO
+           D7
+CALADO E QUIETO, QUIETO
+
+[REFRÃO]
+
+[TERCEIRA PARTE]
+
+            Gm7
+DE CARA INCHADA, VOCÊ AINDA ENXERGA
+
+É TEU O VACILO, SE FICOU TUDO ROXO
+
+TEU DESTINO É ACABAR FRIO
+             Eb7M             D7
+SE FOI DEUS, ALGUÉM QUE INVENTOU
+ Gm7
+SETE VENTOS DE PALAVRA-CHAVE
+
+NÃO INTERESSA O JOGO ANDOU
+                Eb7M                 D7
+VOCÊ ESTÁ NO DOMÍNIO, AGORA TÁ NO DOMÍNIO
+
+[segunda parte]
+
+  Cm7
+Quando estivermos na frente do reto
+         Gm7
+Fique esperto
+
+Calado e quieto
+  Cm7
+Quando estivermos na frente do reto
+         Gm7
+Fique esperto
+           D7
+Calado e quieto, quieto
+
+[ponte]
+
+       Gm7                  
+O seu banco afundou, foi demais
+    Eb7M      Dm7
+Tu rodou, tu rodou     
+       Gm7                  
+O seu banco afundou, foi demais
+    Eb7M      Dm7
+Tu rodou, tu rodou  
+
+      Gm7 
+Se a noite é calada
+Fm7  Gm7
+O lugar é de fuga
+    Gm7
+Acabou pro raja
+     Fm7   Gm7
+A vida passou toda junta
+       Gm7         Fm7 Gm7
+Tu não é alemão, mas  parece
+       Gm7             Fm7 Gm7
+Professor do medo, da dissimulação
+
+        Gm7         
+É isso mesmo, é o cerol
+   Fm7     Gm7
+É nós que somos escrotos
+        Gm7       
+Os que fazem o serviço
+   Fm7  Gm7
+E todo serviço porco
+ 
+      Gm7         
+Praticantes do vício
+    Fm7 Gm7
+Tu não viu, nem imagina
+       Gm7     
+Não é vício, novela
+       Fm7       Gm7
+Não é coisa da china
+
+[segunda parte]
+
+  Cm7
+Quando estivermos na frente do reto
+         Gm7
+Fique esperto
+
+Calado e quieto
+  Cm7
+Quando estivermos na frente do reto
+         Gm7
+Fique esperto
+           D7
+Calado e quieto, quieto
+
+[refrão]
+
+        Gm7 Bb7 Eb7M D7
+O show tá  começando
+        Gm7 Bb7 Eb7M D7
+O show tá  começando
+
+[ponte]
+
+       Gm7                  F7
+O seu banco afundou, foi demais
+    Eb7M      Dm7
+Tu rodou, tu rodou     
+       Gm7                  F7
+O seu banco afundou, foi demais
+    Eb7M      Dm7
+Tu rodou, tu rodou
+```
 
 ## Anjos - O Rappa
 
