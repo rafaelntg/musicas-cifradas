@@ -187,8 +187,6 @@ CHUVA DE GRAÇA NESTE LUGAR DERRAMA!
 
 ## Seja Elevado - Colo de Deus
 ```
-[ESTROFE]
-
 D                                    D/F#  
 NADA SE COMPARA AO SEU OLHAR, REI DA GLÓRIA
       Bm          G    
@@ -227,50 +225,50 @@ SEJA ELEVADO NO TRONO MAIS ALTO     (2X)
 
 ## Uma Revolução - Missionário Shalom 
 ```
-[INTRO] C#m  C#m  B9  F#m / F#m  B9  C#m (2X)
+[INTRO] Bm  Bm  A9  Em / Em  A9  Bm (2X)
 
 [ESTROFE]
 
-C#m                C#m     B9    C#m   C#m B9
+Bm                Bm     A9    Bm   Bm A9
 QUANTOS MOTIVOS EU TENHO PARA LOUVAR
-C#m         C#m  B9    C#m   C#m B9
+Bm         Bm  A9    Bm   Bm A9
 E EXALTAR O NOME DO SENHOR
-    F#m          F#m   E
+    Em          Em   D
 COM TODO MEU SER QUERO ESPALHAR
-A           A    E           C#m
+G           G    D           Bm
 O SEU AMOR AONDE QUER QUE EU VÁ
-C#m           C#m  B9   C#m
+Bm           Bm  A9   Bm
 NADA NO MUNDO PODE ME PARAR
 
 [PONTE]
 
-  C#m    B9   A    A   G#m  F#m
+  Bm    A9   G    G   F#m  Em
 JESUS ME ALCANÇOU, ME  ATRA_IU
-F#m    G#m  A     A  B9  C#m
+Em    F#m  G     G  A9  Bm
     ME LIBERTOU E ME FEZ SEU
-C#m B9 A     A  G#m      F#m
+Bm A9 G     G  F#m      Em
    ELE ME FORMOU, ME ENVIOU
-F#m G#m A           A F#m G#
+Em F#m G           G Em F#
       E HOJE EU VIVO PARA CELEBRAR O SEU AMOR
 
 [REFRÃO]
 
-   C#m       B/D#    E                F#m
+   Bm       A/C#    D                Em
 EU CANTO, EU GRITO E NÃO CONSIGO MAIS PARAR
-  C#m       B/D#   E          F#m
+  Bm       A/C#   D          Em
 É FORTE, É VIVO O SEU AMOR NESTE LUGAR
 
 [INTRO] [ESTROFE] [PONTE] [REFRÃO]
 
-[PRELÚDIO] (C#m B E F# | A F#m | G#4 G#) (C#m B/D# E F# | A F#m | G#7)
+[PRELÚDIO] (C#m A D E | G Em | F#4 F#) (C#m A/C# D E | G Em | F#7)
 
 [REFRÃO]
 
-[FINAL]
+[D#INAL]
 
-C#m              B/D#        E              F#m
+Bm              A/C#        D              Em
 DEIXA DEUS TE SURPREENDER, ASSIM COMO MUDOU MEU VIVER
-A                 B            C#m             G#7
+G                 A            Bm             F#7
 BASTA ABRIR O TEU CORAÇÃO E EM TI FARÁ UMA REVOLUÇÃO. (2X)
 ```
 [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/missionario-shalom/uma-revolucao) | [YouTube](https://www.youtube.com/watch?v=Nr1ff0zVKIE&list=RDNr1ff0zVKIE)
