@@ -16,11 +16,11 @@ Será realizado em Santa Rita do Sapucaí-MG, na Casa da Paz, dentro da ETE-FMC,
 
 ### Sexta-feira
 
-- [Na Frente do Reto](#na-frente-do-reto---o-rappa).
-- [Anjos - O Rappa](#anjos---o-rappa).:
+- [Na Frente do Reto - O Rappa](#na-frente-do-reto---o-rappa).
+- [Anjos - O Rappa](#anjos---o-rappa).
 - [Falta Você - Thiaguinho](#falta-você---thiaguinho).
 - [Eva - Banda Eva](#eva---banda-eva).
-- [Esperando na Janela - Cogumelo Plutão](#esperando-na-janela---cogumelo-plutão).
+- [Esperando na Janela - Cogumelo Plutão](#esperando-na-janela--cogumelo-plutão).
 - [Mulher de Fases - Raimundos](#mulher-de-fases---raimundos).
 - [A Hora É Agora - Jorge & Mateus](#a-hora-é-agora---jorge---mateus).
 - [Evidências - Chitãozinho & Xororó](#evidências---chitãozinho---xororó).
@@ -603,7 +603,7 @@ SE AGUENTE, QUE LÁ VEM CHUMBO QUENTE
 
 [REFRÃO]
 ```
-[Repertório](#repertório) | [Cifra Club]() | [YouTube](https://www.youtube.com/watch?v=RkNp74T01MI&list=RDRkNp74T01MI)
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/raimundos/mulher-de-fases) | [YouTube](https://www.youtube.com/watch?v=FkXWfreN2QA&list=RDFkXWfreN2QA)
 
 ## A Hora É Agora - Jorge & Mateus
 ```
