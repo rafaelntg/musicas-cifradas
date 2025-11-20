@@ -42,7 +42,7 @@ Será realizado em Santa Rita do Sapucaí-MG, na Casa da Paz, dentro da ETE-FMC,
 - [Ninguém Te Ama Como Eu](#ninguém-te-ama-como-eu).
 - [Queima de Novo - Colo de Deus](#queima-de-novo---colo-de-deus).
 - [Terra Seca - Fraternidade São João Paulo II](#terra-seca---fraternidade-são-joão-paulo-ii). 
-- [Noites Traiçoeiras - Padre Marcelo Rossi](#noites-traiçoeiras---padre-marcelo-rossi)
+- [Noites Traiçoeiras - Padre Marcelo Rossi](#noites-traiçoeiras---padre-marcelo-rossi).
 
 ##### Sala
 
