@@ -20,10 +20,10 @@ Será realizado em Santa Rita do Sapucaí-MG, na Casa da Paz, dentro da ETE-FMC,
 - [Anjos - O Rappa](#anjos---o-rappa).
 - [Falta Você - Thiaguinho](#falta-você---thiaguinho).
 - [Eva - Banda Eva](#eva---banda-eva).
-- [Esperando na Janela - Cogumelo Plutão](#esperando-na-janela--cogumelo-plutão).
+- [Esperando na Janela - Cogumelo Plutão](#esperando-na-janela---cogumelo-plutão).
 - [Mulher de Fases - Raimundos](#mulher-de-fases---raimundos).
-- [A Hora É Agora - Jorge & Mateus](#a-hora-é-agora---jorge---mateus).
-- [Evidências - Chitãozinho & Xororó](#evidências---chitãozinho---xororó).
+- [A Hora É Agora - Jorge & Mateus](#a-hora-é-agora---jorge--mateus).
+- [Evidências - Chitãozinho & Xororó](#evidências---chitãozinho--xororó).
 
 ### Sábado e Domingo
 
@@ -673,7 +673,7 @@ OH OH,  NA NA   NA NA NA NA   NA NANA
 ```
 [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/jorge-mateus/agora-e-a-hora/) | [YouTube](https://www.youtube.com/watch?v=hodnntAN-Z4)
 
-## Evidências - Chitãozinho e Xororó
+## Evidências - Chitãozinho & Xororó
 ```
 [INTRO] C  C5+  F  Dm  F/G
         C  C5+  F  C/E  Dm  
