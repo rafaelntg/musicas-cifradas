@@ -27,27 +27,26 @@ Será realizado em Santa Rita do Sapucaí-MG, na Casa da Paz, dentro da ETE-FMC,
 
 ### Sábado e Domingo
 
-- TEMA: Coração Igual ao Teu
-
-- Let Me Know You - E
-- Jesus - F#m
-- Dança de Avivamento - D
-- O Senhor É Rei - Em
-- Uma Revolução - E
-- Seja Elevado - F
+- [TEMA: Coração Igual ao Teu - Diante do Trono](#coração-igual-ao-teu---diante-do-trono). 
+- [Let Me Know You - Colo de Deus](#let-me-know-you---colo-de-deus).
+- [Jesus - Colo de Deus](#jesus---colo-de-deus).
+- [Dança de Avivamento - Diego Fernandes](#dança-de-avivamento---diego-fernandes).
+- [O Senhor É Rei - Padre Zeca](#o-senhor-é-rei---padre-zeca).
+- [Uma Revolução - Missionário Shalom](#uma-revolução---missionário-shalom).
+- [Seja Elevado - Colo de Deus](#seja-elevado---colo-de-deus).
 
 #### Religiosidade
 
 ##### Capela
 
-- Ninguém Te Ama Como Eu
-- Queima de Novo 
-- Terra Seca 
-- Noites Traiçoeiras 
+- [Ninguém Te Ama Como Eu](#ninguém-te-ama-como-eu).
+- [Queima de Novo - Colo de Deus](#queima-de-novo---colo-de-deus).
+- [Terra Seca - Fraternidade São João Paulo II](#terra-seca---fraternidade-são-joão-paulo-ii). 
+- [Noites Traiçoeiras - Padre Marcelo Rossi](#noites-traiçoeiras---padre-marcelo-rossi)
 
 ##### Sala
 
-- Incendeia Minha Alma
+- [Incendeia Minha Alma - Padre Fábio de Melo](#incendeia-minha-alma---padre-fábio-de-melo).
 
 ### Links úteis
 
@@ -792,4 +791,652 @@ PRA MIM
 [SEGUNDA PARTE] [REFRÃO]
 ```
 [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/chitaozinho-e-xororo/evidencias/) | [YouTube](https://www.youtube.com/watch?v=ePjtnSPFWK8&list=RDePjtnSPFWK8)
+
+## Coração Igual ao Teu - Diante do Trono
+```
+[INTRO] Bb7M  F/A  Dm7  Am7
+        Bb7M  Dm7  Eb/G  F
+
+[PRIMEIRA PARTE]
+
+         Bb                         F/A
+SE TU OLHARES SENHOR PRA DENTRO DE MIM
+        Gm7         C7(4)  C7
+NADA ENCONTRARÁ DE BOM
+    Bb            C/Bb
+MAS UM DESEJO EU TENHO
+    F    C/E    Dm7
+DE SER TRANSFORMADO
+    Gm7           F/A
+PRECISO TANTO DO TEU PERDÃO
+ Bb7M          C7(4)  C7
+DÁ-ME UM NOVO CORAÇÃO
+
+[REFRÃO]
+
+ F                  F/A    Bb9      Gm7  C7
+DÁ-ME UM CORAÇÃO IGUAL AO TEU, MEU MES_TRE
+ F            Gm7   F/A    Bb
+DÁ-ME UM CORAÇÃO IGUAL AO TEU
+     C      C/Bb     Am7  Dm7
+CORAÇÃO DISPOSTO A OBEDE_CER
+     Am7               Dm7
+CUMPRIR TODO O TEU QUERER
+ Gm7        F/A  Bb9   C7(4)  Bb7M
+DÁ-ME UM CORA___ÇÃO IGUAL AO TEU
+
+( F/C  F/A  Dm7  Am7 )
+( Bb7M  Dm7  Eb/G  F )
+
+[PONTE]
+
+   C/E                    Dm7
+ENSINA-ME A AMAR O MEU IRMÃO
+     C
+A OLHAR COM TEUS OLHOS
+     F                 F/A
+PERDOAR COM TEU PERDÃO
+Bb            C/Bb
+ENCHE-ME COM TEU ESPÍRITO
+Am7           Dm7
+ENDIREITA OS MEUS CAMINHOS
+C   Bb
+OH DEUS, DAI-ME
+    C    F      F7
+UM NOVO CORAÇÃO
+
+Bb            C/Bb
+ENCHE-ME COM TEU ESPÍRITO
+Am7           Dm7
+ENDIREITA OS MEUS CAMINHOS
+C   Bb
+OH DEUS, DAI-ME
+    C    D7(4)  D7
+UM NOVO CORAÇÃO
+
+[REFRÃO COM SUBIDA DE TOM]
+
+ G          Am7    G/B     C9       Am7  D7
+DÁ-ME UM CORAÇÃO IGUAL AO TEU, MEU MES_TRE
+ G          Am7     G/B    C
+DÁ-ME UM CORAÇÃO IGUAL AO TEU
+     D      D/C      Bm7  Em7
+CORAÇÃO DISPOSTO A OBEDE_CER
+     Bm7               Em7
+CUMPRIR TODO O TEU QUERER
+ Am       G/B  C     D7(9)  Em  Em7/D
+DÁ-ME UM CORA_ÇÃO IGUAL AO TEU
+
+ G          Am7    G/B     C9       Am7  D7
+DÁ-ME UM CORAÇÃO IGUAL AO TEU, MEU MES_TRE
+ G          Am7     G/B    C
+DÁ-ME UM CORAÇÃO IGUAL AO TEU
+     D      D/C      Bm7  Em7
+CORAÇÃO DISPOSTO A OBEDE_CER
+     Bm7               Em7
+CUMPRIR TODO O TEU QUERER
+ Am       G/B  C     D7(9)  Em  Em7/D
+DÁ-ME UM CORA_ÇÃO IGUAL AO TEU
+
+ C            C/D          G
+DÁ-ME UM CORAÇÃO IGUAL AO TEU
+     D      D/C      Bm7  Em7
+CORAÇÃO DISPOSTO A OBEDE_CER
+     Bm7               Em7
+CUMPRIR TODO O TEU QUERER
+ Am7          C/D   D7     G
+DÁ-ME UM CORAÇÃO IGUAL AO TEU
+```
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/diante-do-trono/coracao-igual-ao-teu) | [YouTube](https://www.youtube.com/watch?v=YKOU5lqwxHc&list=RDYKOU5lqwxHc)
+
+## Let Me Know You - Colo de Deus
+```
+[INTRO] E 
+
+   E
+HEY! (3X)
+
+E                             C#
+QUEM É JESUS ALÉM DO QUE EU VI
+                       A
+ALÉM DO QUE EU JÁ SENTI
+           B
+EU SEI QUE EXISTE MAIS
+                              E
+NO MEIO DO TEU FOGO EU SEI QUE EXISTE MAIS (2X)
+
+[REPETE TUDO]
+
+[REFRÃO]
+
+A                    B
+EU AINDA NÃO SEI NADA SOBRE VOCÊ JESUS
+      C#
+LET ME KNOW YOU (4x)
+
+( A B C# )
+( A B C# )
+
+A                 B
+EU QUERO A GLÓRIA, EU QUERO A GLÓRIA
+C#
+QUANDO EU TE VER SÓ VOU QUERER A TUA GLÓRIA
+
+( A B C# )
+( A B C# )
+
+[REFRÃO]
+
+( A B C# )
+( A B C# )
+```
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/comunidade-catolica-colo-de-deus/let-me-know-you/) | [YouTube](https://www.youtube.com/watch?v=AzJTsFPm8Fk)
+
+## Jesus - Colo de Deus
+```
+[INTRO - GUITARRA] F#m
+
+[PRIMEIRA PARTE]
+
+F#m7                 D9
+SE PRA ENTRAR EM TUA PRESENÇA
+     A9
+EU PRECISO DE UM CORAÇÃO PURO
+F#m7                D9
+DÁ-ME A GRAÇA DE ESTAR BEM LAVADO
+       A9
+EM TEU SANGUE PURIFICAR
+
+[PRÉ-REFRÃO]
+
+D9
+SEM TUA GRAÇA EU NÃO POSSO
+F#m7
+SEM TEU PODER NÃO ME SUSTENTO
+A9                    E9
+CARREGO UM DESEJO FURIOSO DE TE VER
+
+D9
+SEM TUA GRAÇA EU NÃO POSSO
+F#m7
+SEM TEU PODER NÃO ME SUSTENTO
+A9                    E9
+CARREGO UM DESEJO FURIOSO DE TE VER
+
+[PONTE]
+
+F#m7  D9   A9   E9
+JEEEEEESUUUUUSSSSS (2x)
+
+[REFRÃO]
+
+              F#m7
+DAI-NOS MÃOS LIMPAS
+             D9
+E UM CORAÇÃO PURO
+             A9                  E9
+DEIXA-NOS ENTRAR NA TUA CASA E ADORAR (3x)
+
+[PONTE 3X]
+```
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/comunidade-catolica-colo-de-deus/jesus-feat-missionario-shalom/) | [YouTube](https://www.youtube.com/watch?v=QkSp3AMNung)
+
+## Dança de Avivamento - Diego Fernandes
+```
+  D                   C            D  C
+NAQUELE DIA EM QUE GRITEI ELE ME OUVIU  
+    D            C          D   C
+E A TEMPESTADE ENTÃO SE ACALMOU  (2X)
+
+A                      Bm
+  LIVROU MINHA ALMA DA MORTE
+
+JESUS MUDOU MINHA SORTE
+ A                      G
+SOU UM MILAGRE...AQUI ESTOU (2X)
+
+[REFRÃO]
+
+   Em  G           D           A
+ALELUI_A...TRANSFORMOU O MEU LAMENTO
+   Em  G      D             A
+ALELUI_A...EM DANÇA DE AVIVAMENTO (2X)
+
+[REPETE TUDO]
+
+         Em               G               D
+E EU NÃO VOU PARAR...NÃO VOU PARAR DE CANTAR
+       Em               G               D
+EU NÃO VOU PARAR...NÃO VOU PARAR DE DANÇAR
+
+[REFRÃO]
+```
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/diego-fernandes/danca-de-avivamento/) | [YouTube](https://www.youtube.com/watch?v=Knf_LdTBs3I)
+
+
+## O Senhor É Rei - Padre Zeca
+```
+Em              Em  D  G                           D
+  O SENHOR É REI,        O SENHOR É MEU PASTOR E REI (2X)
+
+Em                     Em  D  G            D
+  O SENHOR ESTÁ NO CÉU,         O SENHOR ESTÁ NO MAR
+        C          D
+NA EXTENSÃO DO INFINITO (2X)
+
+G         D              D#º Em          C          D
+ ESTÁ NO CÉU, ESTÁ NO MAAA___AR, NA EXTENSÃO DO INFINITO (2X)
+
+Em               Em  D  G            D
+QUANDO EU VACILAR,        EU NÃO TEMEREI
+          C          D
+POIS O SENHOR ESTÁ COMIGO (2X)
+```
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/padre-zeca/o-senhor-rei/) | [YouTube](https://www.youtube.com/watch?v=AousKZ4qtuo)
+
+## Uma Revolução - Missionário Shalom
+```
+[INTRO] C#m  C#m  B9  F#m / F#m  B9  C#m (2X)
+
+[ESTROFE]
+
+C#m                C#m     B9    C#m   C#m B9
+QUANTOS MOTIVOS EU TENHO PARA LOUVAR
+C#m         C#m  B9    C#m   C#m B9
+E EXALTAR O NOME DO SENHOR
+    F#m          F#m   E
+COM TODO MEU SER QUERO ESPALHAR
+A           A    E           C#m
+O SEU AMOR AONDE QUER QUE EU VÁ
+C#m           C#m  B9   C#m
+NADA NO MUNDO PODE ME PARAR
+
+[PONTE]
+
+  C#m    B9   A    A   G#m  F#m
+JESUS ME ALCANÇOU, ME  ATRA_IU
+F#m    G#m  A     A  B9  C#m
+    ME LIBERTOU E ME FEZ SEU
+C#m B9 A     A  G#m      F#m
+   ELE ME FORMOU, ME ENVIOU
+F#m G#m A           A F#m G#
+      E HOJE EU VIVO PARA CELEBRAR O SEU AMOR
+
+[REFRÃO]
+
+   C#m       B/D#    E                F#m
+EU CANTO, EU GRITO E NÃO CONSIGO MAIS PARAR
+  C#m       B/D#   E          F#m
+É FORTE, É VIVO O SEU AMOR NESTE LUGAR
+
+[INTRO] [ESTROFE] [PONTE] [REFRÃO]
+
+[PRELÚDIO] (C#m B E F# | A F#m | G#4 G#) (C#m B/D# E F# | A F#m | G#7)
+
+[REFRÃO]
+
+[FINAL]
+
+C#m              B/D#        E              F#m
+DEIXA DEUS TE SURPREENDER, ASSIM COMO MUDOU MEU VIVER
+A                 B            C#m             G#7
+BASTA ABRIR O TEU CORAÇÃO E EM TI FARÁ UMA REVOLUÇÃO. (2X)
+```
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/missionario-shalom/uma-revolucao/) | [YouTube](https://www.youtube.com/watch?v=Nr1ff0zVKIE&list=RDNr1ff0zVKIE)
+
+## Seja Elevado - Colo de Deus
+```
+F                                    F/A  
+NADA SE COMPARA AO SEU OLHAR, REI DA GLÓRIA
+      Dm          A#    
+TU ÉS LINDO POR INTEIRO
+F
+SANTO É O SEU NOME ÉS PODEROSO
+           Dm           A#    
+REI DO MEU SER, REI DA GLÓRIA
+
+[PONTE]
+
+Gm            A#            Dm
+CÉUS E TERRAS CANTAM SANTO ÉS
+               C               Gm  A#  Dm  C
+O MEU DEUS É O MESMO E NÃO MUDARÁ           (5X)
+
+[REFRÃO]
+
+Gm              A#
+SEJA ELEVADO NO TRONO MAIS ALTO
+Dm               C
+SEJA ELEVADO NO TRONO MAIS ALTO
+Gm              A#             Dm  C
+SEJA ELEVADO NO TRONO MAIS ALTO     (2X)
+
+( D5  Eb5  C5 ) (2X)
+( A#5  C5  D5 ) (2X)
+
+[REFRÃO]
+
+[PONTE COM 2 REPETIÇÕES SOMENTE]
+
+[REFRÃO]
+```
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/comunidade-catolica-colo-de-deus/seja-elevado/) | [YouTube](https://www.youtube.com/watch?v=ANlcJgj7c9s)
+
+## Ninguém Te Ama Como Eu
+```
+Tom C: C  G/B  Am   Am/G   Dm  F  G  G7...
+Tom A: A  E/G# F#m  F#m/E  Bm  D  E  E7...
+
+[PRIMEIRA PARTE]
+
+TENHO ESPERADO ESTE MOMENTO
+TENHO ESPERADO QUE VIESSES A MIM
+TENHO ESPERADO QUE ME FALES
+TENHO ESPERADO 
+QUE ESTIVESSES ASSIM
+
+EU SEI BEM QUE TENS VIVIDO
+SEI TAMBÉM QUE TENS CHORADO
+EU SEI BEM QUE TENS SOFRIDO
+POIS PERMANEÇO AO TEU LADO
+
+[REFRÃO]
+
+NINGUÉM TE AMA COMO EU
+NINGUÉM TE AMA COMO  EU
+OLHE PRA CRUZ
+ESTA É A MINHA GRANDE PROVA
+NINGUÉM TE AMA COMO EU
+
+NINGUÉM TE AMA COMO EU
+NINGUÉM TE AMA COMO EU
+OLHE PRA CRUZ
+FOI POR TI PORQUE TE AMO
+NINGUÉM TE AMA COMO EU
+
+[SEGUNDA PARTE]
+
+EU SEI BEM O QUE ME DIZES
+AINDA QUE NUNCA ME FALES
+EU SEI BEM O QUE TENS SENTIDO
+AINDA QUE NUNCA ME REVELES
+
+TENHO ANDADO AO TEU LADO
+JUNTO A TI PERMANECIDO
+EU TE LEVO EM MEUS BRAÇOS
+POIS SOU TEU MELHOR AMIGO
+
+[REFRÃO]
+```
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/catolicas/ninguem-te-ama-como-eu/) | [YouTube](https://www.youtube.com/watch?v=2n0h6DUKcTU)
+
+## Queima de Novo - Colo de Deus
+```
+[INTRO] G  Em7  G  Em7
+
+[PRIMEIRA PARTE]
+
+               Em7                C9
+SARÇA QUE SÓ QUEIMA, QUE NÃO SE APAGA
+             G                  D/F#
+SOMOS TUA IGREJA, VIEMOS TE ADORAR
+             Em7             C9
+NESTE TEU ALTAR, SOMOS SACRIFÍCIO
+              G           D/F#  Am7  D
+VEM NOS CONSUMIR, ESTAMOS AQUI, AQU__I
+
+[REFRÃO]
+
+              G
+FOI A TUA PRESENÇA
+                  D
+QUE NOS TROUXE AQUI, SENHOR
+            C9
+NÃO DESISTIREMOS
+             Em7       D/F#
+DE TE PERSEGUIR ATÉ TE ENCONTRAR
+
+                G
+DIANTE DA TUA GLÓRIA
+            D
+NÃO PODEMOS   FICAR DE PÉ
+               C9              Em7
+MOSTRA QUEM TU ÉS VEM NOS VISITAR
+             D/F#        G  Em7
+NOS FAZER QUEIMAR, DE NOVO
+
+[PRIMEIRA PARTE] [REFRÃO]
+
+[SEGUNDA PARTE]
+
+G
+  MANDA TEU FOGO, MANDA TEU FOGO
+Em7
+    QUEIMA DE NOVO, QUEIMA DE NOVO
+G
+  MANDA TEU FOGO, MANDA TEU FOGO
+Em7
+    QUEIMA DE NOVO, QUEIMA DE NOVO
+
+G
+  MANDA TEU FOGO, MANDA TEU FOGO
+Em7
+    QUEIMA DE NOVO, QUEIMA DE NOVO
+G
+  MANDA TEU FOGO, MANDA TEU FOGO
+Em7
+    QUEIMA DE NOVO
+
+[REFRÃO]
+```
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/comunidade-catolica-colo-de-deus/queima-de-novo/) | [YouTube](https://www.youtube.com/watch?v=WdG3GCiQgMo)
+
+## Terra Seca - Fraternidade São João Paulo II
+```
+[INTRO] G  A  F#m  Bm
+        Em  A
+        D2  D9/F#  G6(9)
+        D2  D9/F#  G6(9)
+
+[PRIMEIRA PARTE]
+
+            D2         D9/F#       G6(9)
+SOMENTE EM TI CONSTRUIREI A MINHA CASA
+            D2       D9/F#         G6(9)
+SOMENTE EM TI COLOCAREI MINHA ESPERANÇA (2X)
+
+[PRÉ-REFRÃO]
+
+            Bm7
+POIS SÓ EM TI
+                    A
+MINH'ALMA ACHOU DESCANSO
+ D9/F#  G
+SÓ EM  TI
+    A         D2
+EU PUDE RESPIRAR
+
+ D9/F#  Bm7
+SÓ EM  TI
+                    A2
+MINH'ALMA ACHOU DESCANSO
+       G
+SÓ EM TI
+    A         D2  D9/F#
+EU PUDE RESPIRAR
+
+[REFRÃO]
+
+           G                   A
+O MEU CORAÇÃO DESEJA TE ENCONTRAR
+        A/G   F#m                 Bm7
+COMO A TERRA SECA ANSEIA PELA CHUVA
+           Em7
+VEM ME SACIAR
+               A
+POIS EU DESCOBRI
+                    D  D7M(2) D  D9/F#
+QUE AQUI É O MEU LUGAR
+
+           G                   A
+O MEU CORAÇÃO DESEJA TE ENCONTRAR
+        A/G   F#m                 Bm7
+COMO A TERRA SECA ANSEIA PELA CHUVA
+           Em7
+VEM ME SACIAR
+               A
+POIS EU DESCOBRI
+                    D2  D9/F#  G6(9)
+QUE AQUI É O MEU LUGAR
+
+( G9  G6  D  D/F#  G9  G )
+
+[PRIMEIRA PARTE]
+
+[PRÉ-REFRÃO]
+
+[REFRÃO]
+
+[Final] D2  D9/F#  G6(9) (3X)
+```
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/fraternidade-sao-joao-paulo-ii/terra-seca/) | [YouTube](https://www.youtube.com/watch?v=7AU4KXimRbY)
+
+## Noites Traiçoeiras - Padre Marcelo Rossi
+```
+[Intro]  G  Cm6/G  G  Cm6/G  
+         Em7  D2  
+         A/C#  C  D#º
+
+[PRIMEIRA PARTE]
+
+ G                      Bm7
+DEUS ESTÁ AQUI NESSE MOMENTO
+        C       C/D         G    C/D  
+SUA PRESENÇA É REAL EM MEU VIVER
+    G                         Bm7
+ENTREGUE SUA VIDA E SEUS PROBLEMAS
+          C            C/D       G C/D   
+FALE COM DEUS, ELE VAI AJUDAR VOCÊ  
+
+[PRÉ-REFRÃO]
+
+    C7M
+OH, OH
+                  Am7
+DEUS TE TROUXE AQUI
+          C/D  D7            G
+PARA ALIVIAR   OS TEUS SOFRIMENTOS
+    C7M
+OH, OH
+                  Am7
+É ELE O AUTOR DA FÉ
+                 C/D
+DO PRINCÍPIO AO FIM
+    D7           G     G7
+EM TODOS TEUS MOMENTOS
+
+[REFRÃO]
+
+             C               D/C
+E AINDA SE VIER NOITE  TRAIÇOEIRA
+                  G/B        
+SE A CRUZ PESADA FOR, CRISTO ESTARÁ 
+    C7M
+CONTIGO
+           G/B  F                C/D
+E O MUNDO PODE ATÉ FAZER VOCÊ CHORAR
+     D7              G    G7
+MAS DEUS TE QUER SORRINDO
+             C              D/C
+E AINDA SE VIER NOITE TRAIÇOEIRA
+                  G/B             
+SE A CRUZ PESADA FOR, CRISTO ESTARÁ 
+    
+    C7M
+CONTIGO
+           G/B  F                C/D
+E O MUNDO PODE ATÉ FAZER VOCÊ CHORAR
+     D7              G    C/D  Db/D#
+MAS DEUS TE QUER SORRINDO
+
+[SEGUNDA PARTE]
+
+ G                      Bm7             C   
+SEJA QUAL FOR O SEU PROBLEMA, FALE COM DEUS
+
+        C/D      G   C/D   
+ELE VAI AJUDAR VOCÊ
+  G                Bm7
+APÓS A DOR VEM ALEGRIA
+             C             C/D       G    C/D
+POIS DEUS É AMOR, E NÃO TE DEIXARÁ SOFRER    
+
+[PRÉ-REFRÃO]
+
+[REFRÃO]
+```
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/padre-marcelo-rossi/noite-traicoeira/) | [YouTube](https://www.youtube.com/watch?v=xV7ZzeBR3oc)
+
+## Incendeia Minha Alma - Padre Fábio de Melo
+```
+[INTRO] C  Am  Dm7  G4
+        C  Am  Dm7  G  G4 
+
+[PRIMEIRA PARTE]
+
+C           G/B         Am
+  ESPÍRITO SANTO, VINDE
+          G
+FALAR EM MIM
+C           G/B         Am
+  ESPÍRITO SANTO, VINDE
+          G
+FALAR EM MIM
+
+C           G/B         Am
+  ESPÍRITO SANTO, VINDE
+         G
+ORAR EM MIM
+C           G/B         Am
+  ESPÍRITO SANTO, VINDE
+         G
+ORAR EM MIM
+
+[PRÉ-REFRÃO]
+
+    C/E  F               Am
+VINDE CURAR, VINDE LIBERTAR
+            Dm      C/E  G
+NOSSOS CORAÇÕES DE TODA  OPRESSÃO
+    C/E        F              Am
+VINDE TRANSFORMAR, VEM INCENDIAR
+              D           G
+TRAZ FOGO DO CÉU NESSE LUGAR
+
+[REFRÃO]
+
+      C              G/B
+INCENDEIA MINHA ALMA
+      Am             Am/G
+INCENDEIA MINHA ALMA
+      F         C/E       G4  G
+INCENDEIA MINHA ALMA, SENHOR
+
+      C              G/B
+INCENDEIA MINHA ALMA
+      Am             Am/G
+INCENDEIA MINHA ALMA
+      F         C/E       G4  G
+INCENDEIA MINHA ALMA, SENHOR
+
+[SOLO] Am  Am7/G  F  G
+       Am  Am7/G  C/E  F/C
+       F/G  F5-/G
+
+[PRIMEIRA PARTE]
+
+[REFRÃO]
+```
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/pe-fabio-de-melo/incendei-minha-alma/) | [YouTube](https://www.youtube.com/watch?v=BhkLXzE0KHA)
+
 
