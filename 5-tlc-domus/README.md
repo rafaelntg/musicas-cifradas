@@ -897,7 +897,7 @@ DÁ-ME UM CORAÇÃO IGUAL AO TEU
    E
 HEY! (3X)
 
-E                             C#
+E                             C#m
 QUEM É JESUS ALÉM DO QUE EU VI
                        A
 ALÉM DO QUE EU JÁ SENTI
@@ -912,7 +912,7 @@ NO MEIO DO TEU FOGO EU SEI QUE EXISTE MAIS (2X)
 
 A                    B
 EU AINDA NÃO SEI NADA SOBRE VOCÊ JESUS
-      C#
+      C#m
 LET ME KNOW YOU (4x)
 
 ( A B C# )
@@ -1277,18 +1277,7 @@ VEM ME SACIAR
                A
 POIS EU DESCOBRI
                     D  D7M(2) D  D9/F#
-QUE AQUI É O MEU LUGAR
-
-           G                   A
-O MEU CORAÇÃO DESEJA TE ENCONTRAR
-        A/G   F#m                 Bm7
-COMO A TERRA SECA ANSEIA PELA CHUVA
-           Em7
-VEM ME SACIAR
-               A
-POIS EU DESCOBRI
-                    D2  D9/F#  G6(9)
-QUE AQUI É O MEU LUGAR
+QUE AQUI É O MEU LUGAR (2X)
 
 ( G9  G6  D  D/F#  G9  G )
 
@@ -1298,13 +1287,13 @@ QUE AQUI É O MEU LUGAR
 
 [REFRÃO]
 
-[Final] D2  D9/F#  G6(9) (3X)
+[FINAL] D2  D9/F#  G6(9) (3X)
 ```
 [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/fraternidade-sao-joao-paulo-ii/terra-seca/) | [YouTube](https://www.youtube.com/watch?v=7AU4KXimRbY)
 
 ## Noites Traiçoeiras - Padre Marcelo Rossi
 ```
-[Intro]  G  Cm6/G  G  Cm6/G  
+[INTRO]  G  Cm6/G  G  Cm6/G  
          Em7  D2  
          A/C#  C  D#º
 
@@ -1346,19 +1335,7 @@ SE A CRUZ PESADA FOR, CRISTO ESTARÁ
 CONTIGO
            G/B  F                C/D
 E O MUNDO PODE ATÉ FAZER VOCÊ CHORAR
-     D7              G    G7
-MAS DEUS TE QUER SORRINDO
-             C              D/C
-E AINDA SE VIER NOITE TRAIÇOEIRA
-                  G/B             
-SE A CRUZ PESADA FOR, CRISTO ESTARÁ 
-    
-    C7M
-CONTIGO
-           G/B  F                C/D
-E O MUNDO PODE ATÉ FAZER VOCÊ CHORAR
-     D7              G    C/D  Db/D#
-MAS DEUS TE QUER SORRINDO
+     D7              G    G7 (C/D  Db/D#) (2X)
 
 [SEGUNDA PARTE]
 
@@ -1388,20 +1365,12 @@ POIS DEUS É AMOR, E NÃO TE DEIXARÁ SOFRER
 C           G/B         Am
   ESPÍRITO SANTO, VINDE
           G
-FALAR EM MIM
-C           G/B         Am
-  ESPÍRITO SANTO, VINDE
-          G
-FALAR EM MIM
+FALAR EM MIM (2X)
 
 C           G/B         Am
   ESPÍRITO SANTO, VINDE
          G
-ORAR EM MIM
-C           G/B         Am
-  ESPÍRITO SANTO, VINDE
-         G
-ORAR EM MIM
+ORAR EM MIM (2X)
 
 [PRÉ-REFRÃO]
 
@@ -1421,14 +1390,7 @@ INCENDEIA MINHA ALMA
       Am             Am/G
 INCENDEIA MINHA ALMA
       F         C/E       G4  G
-INCENDEIA MINHA ALMA, SENHOR
-
-      C              G/B
-INCENDEIA MINHA ALMA
-      Am             Am/G
-INCENDEIA MINHA ALMA
-      F         C/E       G4  G
-INCENDEIA MINHA ALMA, SENHOR
+INCENDEIA MINHA ALMA, SENHOR    (2X)
 
 [SOLO] Am  Am7/G  F  G
        Am  Am7/G  C/E  F/C
