@@ -34,6 +34,7 @@ Será realizado em Santa Rita do Sapucaí-MG, na Casa da Paz, dentro da ETE-FMC,
 - [O Senhor É Rei - Padre Zeca](#o-senhor-é-rei---padre-zeca).
 - [Uma Revolução - Missionário Shalom](#uma-revolução---missionário-shalom).
 - [Seja Elevado - Colo de Deus](#seja-elevado---colo-de-deus).
+- [Tenda de Davi - Gerados pela Imaculada](#tenda-de-davi---gerados-pela-imaculada).
 
 #### Religiosidade
 
@@ -1439,4 +1440,33 @@ INCENDEIA MINHA ALMA, SENHOR
 ```
 [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/pe-fabio-de-melo/incendei-minha-alma/) | [YouTube](https://www.youtube.com/watch?v=BhkLXzE0KHA)
 
+## Tenda de Davi - Gerados pela Imaculada
+```
+[INTRO] A9  G9  D  D9
+
+           A
+A CASA DO SENHOR
+ D                        A9    E
+SE ENCHEU COM A NUVEM DA GLÓRIA   (2X)
+
+     F#m      D
+EU QUERO IR, MAIS PROFUNDO
+       A9   E
+NA ADORAÇÃO  (2X)
+
+             A                   D
+EU NASCI DO FOGO, SOU FILHO DO FOGO
+            F#m             E
+NA TENDA DE DAVI, VOU MEU CONSUMIR
+      D          D9
+EM LOUVOR E ADORAÇÃO  (2X)
+
+          F#m
+EU QUERO QUEIMAR EM TUA PRESENÇA
+E  D               D9
+QUEIMAR NA TUA PRESENÇA
+   A9               E
+E DANÇAR NA TENDA DO REI (2X)
+```
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/comunidade-gerados-pela-imaculada/tenda-de-davi/) | [YouTube](https://www.youtube.com/watch?v=LE_qFEyK1NY)
 
