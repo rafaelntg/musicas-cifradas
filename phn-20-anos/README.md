@@ -31,6 +31,8 @@ Acontecerá dia 13 de dezembro de 2025 na quadra do Lar da Criança Monsenhor No
 - [Desperta - Colo de Deus](#desperta---colo-de-deus).
 - [Estrangeiro Aqui - Missionário Shalom](#estrangeiro-aqui---missionário-shalom).
 - [Templo Vivo - Diego Fernandes](#templo-vivo---diego-fernandes).
+- [Vitória no Deserto - Aline Barros](#vitória-no-deserto---aline-barros).
+- [Ele Vem - David Quinlan](#ele-vem---david-quinlan).
 
 ### Links úteis
 
@@ -115,38 +117,40 @@ EU TE AMO, JESUS
 
 ## O Teu Amor - Isadora Pompeo
 ```
-[INTRO] D  D4  D  C  G/B (2X)
+[INTRO TODOS INTRUMENTOS] D  D4  D  C  G/B (2X)
            
-[PRIMEIRA PARTE]
-
+[PRIMEIRA PARTE - SUAVE VIOLÃO E BAIXO]
 Bm                   D   Bm                D
    POR MUITO TEMPO ANDEI    SEM CONHECER VOCÊ  
 Em                G   Em               G
    VIVIA PRESO EM MIM    PRA ME SATISFAZER
+  
+[ENTRA PIANO E GUITARRA]
 Bm                D  Bm             D 
    MESMO SEM MERECER   VOCÊ ME ENCONTROU
 Em                   G  Em             G 
    E ACHOU GRAÇA EM MIM   VOCÊ ME LIBERTOU
 
-[REFRÃO]
+[REFRÃO TODOS INTRUMENTOS]
 
 D                                  A  
 O TEU AMOR ENCONTROU E MUDOU MINHA VIDA
                Em                     G       
 TUDO EM MINHA VIDA E EU JAMAIS VOU VOLTAR ATRÁS (2X)
 
-[INTRO] [PRIMEIRA PARTE] [REFRÃO]
+[INTRO] [PRIMEIRA PARTE - COM TODOS INTRUMENTOS] [REFRÃO 4X PRA IR PARA PONTE]
 
-[PONTE]
-
+[PONTE - SUAVE BAIXO/PIANO/VIOLÃO] 
 Em                          G                        D 
    SEU AMOR PERFEITO EM MIM   NÃO ME DEIXARÁ VOLTAR ATRÁS
     G  D  A  Em                   
 EU NO_VO SOU   SEMPRE VOU TE AMAR
 G                          D      G  D  A 
-  POIS MINHA VIDA TRANSFORMOU EU NO_VO SOU (2X)
+  POIS MINHA VIDA TRANSFORMOU EU NO_VO SOU (2X) [REPETE ENTRANDO OUTROS INSTRUMENTOS]
 
-[REFRÃO]
+[REFRÃO 2X SOMENTE PRA ACABAR]
+
+[INTRO]
 
 [FINAL] D
 ```
@@ -154,6 +158,8 @@ G                          D      G  D  A
 
 ## Chuva de Graça - Eliana Ribeiro
 ```
+[PRE-INTRO] (Ô Ô Ô Ô, DERRAMA) B F# G#m E (2x)
+
 [INTRO] B  F# G#m E (2X)
 
 [ESTROFE]
@@ -172,15 +178,17 @@ NA TERRA DO CORAÇÃO DERRAMA TUA GRAÇA
          B               F#          G#m              E
 CHUVA DE GRAÇA PEDIMOS A TI CHUVA DE GRAÇA DERRAMA EM NÓS
          B             F#    E     ( G#m F# )
-CHUVA DE GRAÇA NESTE LUGAR DERRAMA!          
+CHUVA DE GRAÇA NESTE LUGAR DERRAMA!           (2x)
 
-[SOLO] B  F# G#m E (VERSÃO EROS BIONDINI: G#m E G#m E C#m B/D# E F#)
+[INTRO] [ESTROFE] [REFRÃO]
 
+[SOLO GUITARRA] B  F# G#m E (VERSÃO EROS BIONDINI: G#m E G#m E C#m B/D# E F#)
 
-[ESTROFE] [REFRÃO]
+[REFRÃO]
 
-[FINAL] B  F# G#m E
-        B  F# E ( G#m F# )
+[FINAL] (Ô Ô Ô Ô, DERRAMA)
+B  F# G#m E
+B  F# E ( G#m F# ) B
 ```
 [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/eliana-ribeiro/chuva-de-graca-/) | [YouTube](https://www.youtube.com/watch?v=EQj1GzLkicU&t=3s)
 
@@ -227,7 +235,7 @@ SEJA ELEVADO NO TRONO MAIS ALTO     (2X)
 ```
 [INTRO] Bm  Bm  A9  Em / Em  A9  Bm (2X)
 
-[ESTROFE]
+[ESTROFE SOMENTE VIOLÃO E BAIXO]
 
 Bm                Bm     A9    Bm   Bm A9
 QUANTOS MOTIVOS EU TENHO PARA LOUVAR
@@ -240,7 +248,7 @@ O SEU AMOR AONDE QUER QUE EU VÁ
 Bm           Bm  A9   Bm
 NADA NO MUNDO PODE ME PARAR
 
-[PONTE]
+[PONTE] [ENTRA BATERIA/GUITARRA/TECLADO]
 
   Bm    A9   G    G   F#m  Em
 JESUS ME ALCANÇOU, ME  ATRA_IU
@@ -256,30 +264,30 @@ Em F#m G           G Em F#
    Bm       A/C#    D                Em
 EU CANTO, EU GRITO E NÃO CONSIGO MAIS PARAR
   Bm       A/C#   D          Em
-É FORTE, É VIVO O SEU AMOR NESTE LUGAR
+É FORTE, É VIVO O SEU AMOR NESTE LUGAR (2X)
 
 [INTRO] [ESTROFE] [PONTE] [REFRÃO]
 
-[PRELÚDIO] (C#m A D E | G Em | F#4 F#) (C#m A/C# D E | G Em | F#7)
-
-[REFRÃO]
-
-[D#INAL]
-
+[FINAL]
 Bm              A/C#        D              Em
 DEIXA DEUS TE SURPREENDER, ASSIM COMO MUDOU MEU VIVER
 G                 A            Bm             F#7
 BASTA ABRIR O TEU CORAÇÃO E EM TI FARÁ UMA REVOLUÇÃO. (2X)
+
+[INTRO 2X] ACABA NO PARAPAPA DA BATERIA
 ```
 [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/missionario-shalom/uma-revolucao) | [YouTube](https://www.youtube.com/watch?v=Nr1ff0zVKIE&list=RDNr1ff0zVKIE)
 
 ## Dança de Avivamento / O Senhor É Rei - Pot-Pourri
 ```
+[INTRO BAIXO] D C
+
   D                   C            D  C
 NAQUELE DIA EM QUE GRITEI ELE ME OUVIU  
     D            C          D   C
 E A TEMPESTADE ENTÃO SE ACALMOU  (2X)
 
+[PRIMEIRA VEZ NORMAL/SEGUNDA VEZ QUEBRA EM REGGAE]
 A                      Bm
   LIVROU MINHA ALMA DA MORTE
 
@@ -294,14 +302,23 @@ ALELUI_A...TRANSFORMOU O MEU LAMENTO
    Em  G      D             A
 ALELUI_A...EM DANÇA DE AVIVAMENTO (2X)
 
+[INTERLUDIO BAIXO] D C (2x)
+
 [REPETE TUDO]
 
+[INTERLUDIO BAIXO] D C (2x)
          Em               G               D
 E EU NÃO VOU PARAR...NÃO VOU PARAR DE CANTAR
        Em               G               D
 EU NÃO VOU PARAR...NÃO VOU PARAR DE DANÇAR
+         Em               G               D
+E EU NÃO VOU PARAR...NÃO VOU PARAR DE PULAR
+       Em               G               D
+EU NÃO VOU PARAR...NÃO VOU PARAR DE GRITAR
 
 [REFRÃO]
+
+[INTERLUDIO BAIXO] D C (2x) Em (SENHOR É REI)
 
 ---
 
@@ -313,6 +330,7 @@ Em                     Em  D  G            D
         C          D
 NA EXTENSÃO DO INFINITO (2X)
 
+[CRESCE TODOS INSTRUMENTOS NO REFRÃO]
 G         D              D#º Em          C          D
  ESTÁ NO CÉU, ESTÁ NO MAAA___AR, NA EXTENSÃO DO INFINITO (2X)
 
@@ -320,6 +338,18 @@ Em               Em  D  G            D
 QUANDO EU VACILAR,        EU NÃO TEMEREI
           C          D
 POIS O SENHOR ESTÁ COMIGO (2X)
+
+G         D              D#º Em          C          D
+ESTÁ NO CÉU, ESTÁ NO MAAA___AR, NA EXTENSÃO DO INFINITO (2X)
+
+[QUEBRA EM REGGAE]
+G         D       D#º Em          C          D
+ESTÁ EM MIM, ESTÁ EM TI, NA EXTENSÃO DO SEU SORRISO (2X) AONDE ELE ESTÁ
+
+[VOLTA NA VELOCIDADE NORMAL]
+G         D              D#º Em          C          D         G
+ESTÁ NO CÉU, ESTÁ NO MAAA___AR, NA EXTENSÃO DO INFINITO (2X)
+
 ```
 - Dança de Avivamento - Diego Fernandes: [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/diego-fernandes/danca-de-avivamento) | [YouTube](https://www.youtube.com/watch?v=Knf_LdTBs3I).
 - O Senhor É Rei - Padre Zeca: [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/padre-zeca/o-senhor-rei/) | [YouTube](https://www.youtube.com/watch?v=AousKZ4qtuo).
@@ -327,30 +357,39 @@ POIS O SENHOR ESTÁ COMIGO (2X)
 
 ## Parapapa - Missionário Shalom
 ```
+[SOMENTE VIOLÃO NO COMEÇO] Gm
+
+[PRIMEIRA PARTE]
+[ROBSON]
 Gm                           D#                     Cm
   PRA TUDO EXISTE UM TEMPO AQUI, PRA PLANTAR E ARRANCAR
                     D                Gm
 PRA CHORAR E PRA SORRIR, PARAPAPAPAPAPA
 
+[IZA]
 Gm                    D#                     Cm
   PRA NASCER E PRA MORRER, PRA SARAR E PRA FERIR
                   D                 D#
 DESFAZER E CONSTRUIR, PARAPAPAPAPAPAPA 
 
+[TODOS INSTRUMENTOS]
 D#                   D             D#
  MAS TUDO O QUE DEUS FAZ SENTIDO TERÁ
                 D                            Gm
 TUDO O QUE DEUS FAZ TEM O SEU TEMPO E TRAZ A PAZ
 
 [REFRÃO]
-
 Gm              D#              Cm          D
-  PAPARAPAPAPAPAPA, PARAPAPAPAPAPA, PAPARAPAPA
+  PAPARAPAPAPAPAPA, PARAPAPAPAPAPA, PAPARAPAPA (2X)
 
+[SEGUNDA PARTE]
+[CARLA]
 Gm                        D#d                       Cm
   EXISTE UM TEMPO QUE CONVÉM, PRA ABRAÇAR OU SE AFASTAR
                     D                Gm
 PRA PERDER E PRA GANHAR, PARAPAPAPAPAPA
+
+[XICO]
 Gm                    D#                   Cm
   PRA RASGAR OU REPARAR, PRA CALAR E PRA FALAR
                      D                 D#
@@ -362,6 +401,11 @@ D#                   D             D#
 TUDO O QUE DEUS FAZ TEM O SEU TEMPO E TRAZ A PAZ
 
 [REFRÃO]
+
+[VOLTA NA PRIMEIRA PARTE]
+
+[REFRÃO E ACABA EM Gm]
+
 ```
 [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/missionario-shalom/parapapa) | [YouTube](https://www.youtube.com/watch?v=-mGPArLw9-s&list=RD-mGPArLw9-s)
 
@@ -433,8 +477,8 @@ G              Em7                     A     A7
 QUERO CANTAR, QUERO LEVANTAR AS MINHAS MÃOS A TI!
 
 ---
-
-[INTRO] D Bm G Em A
+[ACELERA]
+[INTRO] D Bm G Em A 
 
 D
 OLHA SÓ QUEM VEM LÁ
@@ -480,32 +524,7 @@ PELA ÁGUA E PELO FOGO
 
 [REFRÃO]
 
-[SEGUNDA PARTE]
-
-     D
-POR AQUELES QUE AGORA SÃO FELIZES
-     Bm
-POR AQUELES QUE AGORA CHORAM
-     G              
-POR AQUELES QUE AGORA NASCEM
-     A              
-POR AQUELES QUE AGORA MORREM
-
-[REFRÃO]
-
-[TERCEIRA PARTE]
-
-      D
-O QUE DÁ SENTIDO A VIDA
-   Bm
-É AMAR-TE E LOUVAR-TE
-     G          
-PARA QUE A NOSSA VIDA
-      A             
-SEJA SEMPRE UMA CANÇÃO
-
-[REFRÃO]
-
+[NAO FAZ AS OUTRAS LETRAS - REFRAO JÁ ENTRA NA ALEGRIA]
 ---
 
 [PRIMEIRA PARTE]
@@ -517,13 +536,13 @@ DE QUEM JÁ CONHECE A JESUS
 D             
 A VERDADEIRA PAZ SÓ TEM AQUELE
      E7             A
-QUE JÁ CONHECE A JESUS
+QUE JÁ CONHECE A JESUS 
 
 [REFRÃO]
 
 D                   D7
 O SENTIMENTO MAIS PRECIOSO
-     G               A#
+     G               Gm
 QUE VEM DO NOSSO SENHOR
       D          A       
 É O AMOR QUE SÓ TEM QUEM
@@ -538,36 +557,36 @@ JÁ CONHECE A JESUS
 POSSO PISAR NUMA TROPA
       D7
 E SALTAR AS MURALHAS
-    G        A#
+    G        Gm
 ALELUIA! ALELUIA!
          D           
 POSSO PISAR NUMA TROPA
       D7
 E SALTAR AS MURALHAS
-    G        A#
+    G        Gm
 ALELUIA! ALELUIA!
 
   D                 D7
 E ELE É A ROCHA DA MINHA SALVAÇÃO
-    G                A#
+    G                Gm
 COM ELE NÃO HÁ MAIS CONDENAÇÃO
          D      
 POSSO PISAR NUMA TROPA
-   A
+   D7
 E SALTAR AS MURALHAS
-    D    A
+    G       Gm
 ALELUIA! 
 
     D        G  D
 ALELUIA! ALELUI_A!
-             E7  A
+             G
 ALELUIA! ALELUI__A!
-    D        G  D
+    D       
 ALELUIA! ALELUI_A!
              E7  A
 ALELUIA! ALELUI__A!
 
-[REFRÃO]
+[REFRÃO 1X]
 
       D          A      
 É O AMOR QUE SÓ TEM QUEM
@@ -592,8 +611,9 @@ BRAÇO DIREITO...
 
 ## O Melhor Pra Deus - Missionário Shalom
 ```
-[INTRO] F C Dm Bb (2X)
+[INTRO PIANO/GUITARRA] F C Dm Bb (2X)
 
+[ESTROFE]
 F                     C
 TUDO EM MINHA VIDA MUDOU QUANDO TE ENCONTREI
 Dm              Bb
@@ -601,7 +621,7 @@ Dm              Bb
 F                   C
   PRA TE AMAR FAÇO TUDO, ATÉ O QUE EU NÃO SEI
 Dm               Bb
-FAÇO, FAÇO, FAÇO TUDO!
+FAÇO, FAÇO, FAÇO TUDO! (2X) [ENTRA TODOS INSTRUMENTOS]
 
 F                        C
   SE FOR PRECISO DANÇAR REGGAE, EU SOU REGUEIRO
@@ -612,10 +632,19 @@ F                        C                        Dm
                          Bb                  C
 EU CANTO, PULO E DANÇO A MÚSICA QUE DEUS CANTAR!
 
+[SILENCIO - TODOS ABAIXANDO] CONTA [1, 2 -> 1, 2, 3, 4]
+[REFRAO]
+
 Dm   C                Dm   C
 ÔÔÔÔÔÔ EU VOU CANTAR! ÔÔÔÔÔÔ EU VOU PULAR!
 Dm   C                Bb                        C
 ÔÔÔÔÔÔ EU VOU GRITAR! O MELHOR PRA DEUS EU VOU DAR!
+
+[INTRO]
+
+[ESTROFE]
+
+[ENTRA NO REFRAO SEM ABAIXAR]
 
 [SOLO] Dm C Dm C Gm Bb C
 
@@ -625,7 +654,7 @@ Dm   C                Bb                        C
 ÔÔÔÔÔÔ EU VOU GRITAR! O MELHOR PRA DEUS EU VOU DAR!
 Dm                       Em
 O MELHOR PRA DEUS EU VOU DAR!
-Bb                        C      Dm
+Bb                        C      
 O MELHOR PRA DEUS EU VOU DAR!
 ```
 [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/missionario-shalom/o-melhor-para-deus/) | [YouTube](https://www.youtube.com/watch?v=kTvM0UvxFAA&list=RDkTvM0UvxFAA)
@@ -635,6 +664,7 @@ O MELHOR PRA DEUS EU VOU DAR!
 ```
 [INTRO] Bb9  Dm  C (8X)
 
+[ESTROFE]
           F
 QUE SE LEVANTE A GERAÇÃO
            Dm
@@ -652,7 +682,11 @@ PARA AO MUNDO ANUNCIAR QUE ÉS
    C
 A PORTA ESTREITA
 
-( Bb9  Dm  C )
+[INTRO 4X]
+
+[ESTROFE]
+
+[REFRÃO]
 
       F                Dm
 PROFETIZA, FILHO DE MARIA
@@ -667,7 +701,7 @@ QUE EM CRISTO TUDO
            C
 NOVO SE FARÁ
 
-( Bb9  Dm  C )
+[INTRO 4X]
 
 Bb9          Dm       C
 EU SOU TODO DELA (OH, OH, OH)
@@ -675,15 +709,31 @@ Bb9          Dm      C
 O INFERNO TREME (OH, OH, OH)
 Bb9          Dm      C
 MEU FUTURO É DELA (OH, OH, OH)
-Bb9             C
+Bb9             C    F    Dm   Am    C7
 VOU PRO CÉU COM ELA
 
-[FINAL] F  Dm  Am  C
+[REFRAO SOMENTE VOZ]
+      F                Dm
+PROFETIZA, FILHO DE MARIA
+                 Am
+QUE O INFERNO INTEIRO
+           C
+VAI SE ABALAR
+
+[VOLTA OS INSTRUMENTOS]
+      F              Dm
+PROFETIZA, FILHO DE MARIA
+               Am
+QUE EM CRISTO TUDO
+           C
+NOVO SE FARÁ
+
+[INTRO 4X] PRA ACABAR 
 ```
 [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/comunidade-catolica-colo-de-deus/profetiza-filho-de-maria/) | [YouTube](https://www.youtube.com/watch?v=kTvM0UvxFAA&list=RDkTvM0UvxFAA)
 
 ## O Meu Lugar É o Céu - Dunga
-```
+``` 
 [INTRO] Em  D  C (2X)
 
 [REFRÃO]
@@ -705,6 +755,8 @@ O MEU LUGAR É O CÉU
                      G  D/F#
 É LÁ QUE EU QUERO MORAR
 
+[ESTROFE]
+
    Em
 EU SEI  NÃO VALE A PENA
        D
@@ -721,11 +773,16 @@ POR ISSO TODO DIA, DIA-A-DIA, A CADA HORA
 EU SEI COM DEUS EU POSSO CONTAR
      Em                      D
 E A CADA PASSO CERTO QUE EU DER AQUI NA TERRA
-      C9
+      C9                Cm
 MAIS PERTO DELE EU VOU FICAR
 
-[REFRÃO] [INTRO]
+[REFRÃO] 
 
+[ESTROFE]
+
+[INTRO]
+
+[PONTE]
 Am                      D     Am                G
 BUSCAR, BATER, SABER PEDIR... E ATÉ MESMO SUPLICAR
 Am              D
@@ -738,7 +795,6 @@ EU TENHO UM LUGAR
 [REFRÃO]
 
 [FINAL]
-
                      Am    G/B                     C9   D
 É LÁ QUE EU QUERO MORAAAAAR, É LA QUE EU QUERO MORAAAAAR
                      Am    G/B                     C9   D (G)
@@ -751,7 +807,7 @@ EU TENHO UM LUGAR
 ```
 [INTRO] E9  B4  C#m7  A9
 
-[PRIMEIRA PARTE]
+[PRIMEIRA PARTE - GUITARRA COM DISTORÇÃO]
 
 E9    B4
 AVIVA    O MEU CORAÇÃO 
@@ -762,14 +818,16 @@ RELIGA TUA VIDA EM MIM
  C#m7        A9
 TUA VIDA EM MIM
 
+[ENTRA BAIXO + TECLADO]
     E9   B4
 DESPERTA 
                     C#m7   A9
 TU QUE DORMES NA ESCURIDÃO
                   E9           B4  C#m7  A9
-VEM OUVIR AS TROMBETAS DE SIÃO
+VEM OUVIR AS TROMBETAS DE SIÃO  OOOOOOOOO
 
-[REFRÃO]
+
+[REFRÃO - TODOS INSTRUMENTOS]
 
      C#m7(9)  B4
 PROCLAMA         
@@ -780,6 +838,10 @@ QUE O SEU REINO NÃO FINDARÁ
                      A9
 QUE O CORDEIRO É O LEÃO 
 QUE NO TRONO ESTÁ (2X)
+
+[PRIMEIRA PARTE]
+
+[REFRÃO 2X]
 
 [SEGUNDA PARTE]
 
@@ -797,11 +859,9 @@ E SER AS MINHAS MÃOS
 E HOJE NESSA GERAÇÃO 
 Te escolhi, és meu! (2X)
 
-[INTERLÚDIO] C#m7(9)  B4  A9  B4 (4X)
+[REFRÃO 2X]
 
-[REFRÃO]
-
-[TERCEIRA PARTE]
+[FINAL]
 
     E9     B4
 VOU AVIVAR    O TEU CORAÇÃO
@@ -822,7 +882,7 @@ DESPERTA, É TEMPO DE MUDAR
 [INTRO] F  Gm7  A# C (2X)
         F  Gm7  A# F
 
-[PRIMEIRA PARTE]
+[PRIMEIRA PARTE - HOMENS]
 
 F                              Dm7
 EU TENHO OS MEUS PÉS NO CHÃO
@@ -848,7 +908,7 @@ Gm7          F/A           A#
       C             F
 É LÁ ONDE EU VOU MORAR (2X)
 
-[SEGUNDA PARTE]
+[SEGUNDA PARTE - MULHERES]
 
 D                            Bm
 EU TENHO OS MEUS PÉS NO CHÃO
@@ -863,7 +923,16 @@ MINHA VIDA ESTÁ  ESCONDIDA
        D
 EM JESUS
 
-[REFRÃO]
+[REFRÃO EM D]
+
+D          A/C#     Bm7            G
+SOU ESTRANGEIRO AQUI,   O CÉU É O MEU LUGAR
+Em7          D/F#           G
+É DE ONDE VIM,  É PRA ONDE VOU
+      A             D        
+É LÁ ONDE EU VOU MORAR (2X) 
+D   A   Em  A
+MORAAAAAAAAAR
 
 D                Em7           G               A
 O SENHOR É MINHA LUZ E SALVAÇÃO, DE QUEM TEREI MEDO?
@@ -873,10 +942,17 @@ D                Em7           G               A
 O SENHOR É MINHA LUZ E SALVAÇÃO, DE QUEM TEREI MEDO?
 Em              D/F#           G
 O SENHOR É A SEGURANÇA DA MINHA VIDA
-   Bm          A
-A QUEM EU TEMEREI?
+   Bm          A    Bb   C    F
+A QUEM EU TEMEREI?            SOU ESTRANGEIRO...
 
-[REFRÃO 2X]
+[REFRÃO EM F 2X]
+[PRIMEIRA VEZ SÓ VOZES SEGUNDA VEZ TODOS PRA IR PRO FINAL E ACABAR]
+F          C/E     Dm7            A#
+SOU ESTRANGEIRO AQUI,   O CÉU É O MEU LUGAR
+Gm7          F/A           A#
+É DE ONDE VIM,  É PRA ONDE VOU
+      C             F         
+É LÁ ONDE EU VOU MORAR (2X)   
 
 [FINAL]
 
@@ -889,7 +965,7 @@ ONDE EU VOU MORAR
 
 ## Templo Vivo - Diego Fernandes 
 ```
-[INTRO] Bm  G  D  A  Bm  G
+[INTRO PIANO] Bm  G  D  A
 
 [PRIMEIRA PARTE]
 
@@ -943,10 +1019,122 @@ VEM EM MIM MORAR!
 
         D  A  G
 DO TEU AMOR
-         Bm  A
+         Bm  A  G  A  D
 DO TEU AMOR
-Bm  A  D/F#  G  D/F# Em   D
-OH OH  OH   OH  OOO___H  OHHHHHHHH
 ```
 [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/diego-fernandes/templo-vivo/) | [YouTube](https://www.youtube.com/watch?v=h30mJkglCRk&list=RDh30mJkglCRk)
 
+## Vitória no Deserto - Aline Barros
+```
+[INTRO SOMENTE VIOLÃO] G  D  Em  C (2X)
+
+[PRIMEIRA PARTE]
+
+G                      D       Em     C
+QUANDO A NOITE FRIA CAIR SOBRE MIM, NANANA
+G            D       Em     C
+E NUM DESERTO EU ME ENCONTRAR
+G                      D         [ENTRA TODOS INTRUMENTOS NO FARAÓ] Em C
+ME VER CERCADO POR EGÍPCIOS E POR FARAÓ, Ó, Ó, Ó
+G          D       Em     C
+SENDO IMPEDIDO DE PROSSEGUIR
+
+G                      D               Em     C
+EU SEI, SEI QUE O TEU FOGO CAIRÁ SOBRE MIM
+G                     D       Em     C
+SEI QUE O TEU FOGO CAIRÁ SOBRE MIM
+G                      D       Em     C
+E ME LEVARÁ A EM TI CONFIAR
+G                      D       Em     C
+E ME LEVARÁ A EM TI CONFIAR
+
+[REFRÃO]
+
+                G                   D           Em     C
+ENTÃO EU DIREI, ENTÃO EU DIREI: OH, OH, ABRA-SE O MAR
+          G                  D              Em     C
+E EU PASSAREI PULANDO E DANÇANDO EM SUA PRESENÇA
+                G                   D           Em     C
+ENTÃO EU DIREI, ENTÃO EU DIREI: OH, OH, ABRA-SE O MAR
+          G                  D              Em     C
+E EU PASSAREI PULANDO E DANÇANDO EM SUA PRESENÇA
+
+[PONTE]
+
+G                       D
+POR ISSO EU PULO, PULO, PULO, PULO, PULO
+                Em     C
+NA PRESENÇA DO REI
+G                                     D
+EU DANÇO, POR ISSO EU DANÇO, DANÇO, DANÇO, DANÇO, DANÇO
+                Em    C
+NA PRESENÇA DO REI         UM GRITO DE JÚBILO
+          G                  D              
+POR ISSO EU GRITO, GRITO, GRITO, GRITO, GRITO
+                Em   C
+NA PRESENÇA DO REI
+          G                  D             
+EU CORRO, POR ISSO EU CORRO, CORRO, CORRO, CORRO, CORRO
+       Em       C
+NA PRESENÇA DO REI
+
+[REFRÃO]
+
+[PONTE]
+
+[REFRÃO - QUEBRA REGGAE]
+
+          G
+[FINAL] SENHOOOOR!
+```
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/aline-barros/vitoria-no-deserto/) | [YouTube](https://www.youtube.com/watch?v=c90Esr-c_FA)
+
+## Ele Vem - David Quinlan
+```
+[INTRO] G5  F5
+
+[PRIMEIRA PARTE]
+
+G                D9
+O TEMPO DE LOUVAR CHEGOU
+C                  Em  D
+O TEMPO DE LOUVAR CHEGOU
+G                D9
+O TEMPO DE LOUVAR CHEGOU
+C                   Em  D
+O TEMPO DE LOUVAR CHEGOU
+
+G          D9                  C  Em  D9
+E ELE VEM, E ELE VEM SALTANDO PELOS MONTES
+G          D9                  C  Em  D9
+E ELE VEM, E ELE VEM SALTANDO PELOS MONTES
+G              D9                        C  Em  D
+E OS SEUS CABELOS, OS SEUS CABELOS SÃO BRANCOS COMO A NEVE
+G                D9                     C  Em  D
+E OS SEUS CABELOS, OS SEUS CABELOS SÃO BRANCOS COMO A NEVE
+G                 D9       Am  C  D
+E NOS SEUS OLHOS, E NOS SEUS OLHOS HÁ FOGO
+
+[REFRÃO]
+
+G                 D
+INCENDEIA SENHOR A SUA NOIVA
+C                       Em  D
+INCENDEIA SENHOR A SUA IGREJA
+G                D9
+INCENDEIA SENHOR A SUA CASA
+C            Am        D7
+VEM ME INCEN___DI____AR
+
+[PRIMEIRA PARTE]
+
+[REFRÃO 2X]
+
+[FINAL]
+         C    Am
+VEM INCENDIAR
+     Em      D7  G
+VEM INCENDIAAAAR
+
+```
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/david-quinlan/ele-vem/) | [YouTube](https://www.youtube.com/results?search_query=David+Quinlan+Ele+Vem)
