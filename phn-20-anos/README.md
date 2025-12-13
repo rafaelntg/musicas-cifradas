@@ -1730,10 +1730,7 @@ ME ACOLHER, ME ABRAÇAR
         E       B/D#    C#m7
 ME PERDOAR, ME COMPREENDER
 
-        A9          B9         C#m7 (Riff 1)
-ME ACALMAR, ME ENSINAR, ME EDUCAR
-       A9  B9    C#m7
-ME FORMAR,    ME AMAR
+
 
        A9  B9               E
 MINHA MÃE     É A VIRGEM MARIA
