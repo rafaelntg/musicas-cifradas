@@ -1662,3 +1662,169 @@ TEU AMOR ME SUSTENTA
 ```
 
 ## MOMENTO MARIANO
+### Maria de minha infância - Pe. Zezinho
+```
+  E                   B7
+EU ERA PEQUENO, NEM ME LEMBRO
+    A                            E
+SÓ LEMBRO QUE À NOITE, AO PÉ DA CAMA
+    E7                    A
+JUNTAVA AS MÃOZINHAS E REZAVA APRESSADO
+       B7                  E
+MAS REZAVA COMO ALGUÉM QUE AMAVA
+    E                      B
+NAS AVE - MARIAS QUE EU REZAVA
+    A                     E
+EU SEMPRE ENGOLIA UMAS PALAVRAS
+   E7              A
+E MUITO CANSADO ACABAVA DORMINDO
+       B7              E
+MAS DORMIA COMO QUEM AMAVA
+
+       E7          A
+AVE MARIA, MÃE DE JESUS
+         B7               E
+O TEMPO PASSA, NÃO VOLTA MAIS
+          E7           A
+TENHO SAUDADE DAQUELE TEMPO
+             B7             E
+QUE EU TE CHAMAVA DE MINHA MÃE
+      E7             A
+AVE MARIA, MÃE DE JESUS
+       B7            E
+AVE MARIA, MÃE DE JESUS
+````
+
+### Regaço acolhedor
+```
+        A9
+Ó, MINH'ALMA
+   B9          C#m7
+RETORNA À TUA PAZ
+        A9             B9
+COMO CRIANÇA BEM TRANQUILA
+            E    B/D#       C#m7
+NO REGAÇO ACOLHEDOR DE SUA MÃE
+
+        A9
+Ó, MINH'ALMA
+   B9          C#m
+RETORNA À TUA PAZ
+        A9             B9
+COMO CRIANÇA BEM TRANQUILA
+            E    B/D#       C#m7
+NO REGAÇO ACOLHEDOR DE SUA MÃE
+
+
+      A9  B9               E
+MINHA MÃE      É A VIRGEM MARIA
+    B/D#    C#m7 C#m7/B
+É ELA QUE AGORA VAI
+        A9          B9
+ME ACOLHER, ME ABRAÇAR
+        E       B/D#    C#m7
+ME PERDOAR, ME COMPREENDER
+
+        A9          B9         C#m7 (Riff 1)
+ME ACALMAR, ME ENSINAR, ME EDUCAR
+       A9  B9    C#m7
+ME FORMAR,    ME AMAR
+
+       A9  B9               E
+MINHA MÃE     É A VIRGEM MARIA
+    B/D#    C#m7 C#m7/B
+É ELA QUE AGORA VAI
+        A9          B9
+ME ACOLHER, ME ABRAÇAR
+        E       B/D#    C#m7
+ME PERDOAR, ME COMPREENDER
+
+        A9          B9         C#m7 C#m7/B
+ME ACALMAR, ME ENSINAR, ME EDUCAR
+       A9  B9    C#m7
+ME FORMAR,    ME AMAR
+````
+
+
+### Acaso não sabeis
+```
+
+             A7M(9)
+EU ME CON___SAGRO A TI
+ B/A           C#m7 B/D#  E
+MÃE DE DEUS E MINHA
+             A7M(9)
+EU ME CON___SAGRO A TI
+ B/A       C#m7 B/D#  E
+MESTRA E   RAINHA
+
+             A7M(9)
+EU ME CON___SAGRO A TI
+ B/A           C#m7 B/D#  E
+MÃE DE DEUS E MINHA
+             A7M(9)
+EU ME CON___SAGRO A TI
+ B/A       E
+MESTRA E RAINHA
+
+[Refrão]
+
+             E
+ACASO NÃO SABEIS
+                  C#m7
+QUE EU SOU DA IMACULADA?
+           A9    F#m7
+ACASO NÃO SABEIS
+             E
+TENHO UMA ADVOGADA?
+
+               A9
+SÓ QUEM JÁ FOI ÓRFÃO
+          B              C#m7 B/D#  E
+SABE O VALOR DO AMOR DE MÃE
+               A9
+SÓ QUEM JÁ FOI ÓRFÃO
+          B              E
+SABE O VALOR DO COLO DE MÃE
+
+[SOMENTE VOZES - SUMIR INSTRUMENTOS SUAVES]
+               A9
+SÓ QUEM JÁ FOI ÓRFÃO
+          B              C#m7 B/D#  E
+SABE O VALOR DO AMOR DE MÃE
+               A9
+SÓ QUEM JÁ FOI ÓRFÃO
+          B              E
+SABE O VALOR DO COLO DE MÃE
+
+```
+
+### A ESCOLHIDA - FINALIZAR MOMENTO MARIANO E VOLTAR EM PROFETIZA FILHO DE MARIA
+```
+[Primeira Parte]
+
+E                     B
+UMA ENTRE TODAS FOI A ESCOLHIDA
+ C#m                     G#m
+FOSTE TU MARIA A SERVA PREFERIDA
+ A             E
+MÃE DO MEU SENHOR
+ F#              B
+MÃE DO MEU SALVADOR
+
+[Refrão]
+
+   E     A                  E
+MARIA, CHEIA DE GRAÇA E CONSOLO
+ C#m                    F#
+VENHA CAMINHAR COM TEU POVO
+ A         B        E  B
+NOSSA MÃE SEMPRE SERÁ
+
+   E     A                  E
+MARIA, CHEIA DE GRAÇA E CONSOLO
+ C#m                    F#
+VENHA CAMINHAR COM TEU POVO
+ A         B        E  B
+NOSSA MÃE SEMPRE SERÁ
+```
