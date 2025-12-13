@@ -19,7 +19,6 @@ Acontecerá dia 13 de dezembro de 2025 na quadra do Lar da Criança Monsenhor No
 - [Pescador de Homens - Frei Gilson (TEMA)](#pescador-de-homens---frei-gilson).
 - [O Teu Amor - Isadora Pompeo](#o-teu-amor---isadora-pompeo).
 - [Chuva de Graça – Eliana Ribeiro](#chuva-de-graça---eliana-ribeiro).
-- [Seja Elevado – Colo de Deus](#seja-elevado---colo-de-deus).
 - [Uma Revolução – Missionário Shalom](#uma-revolução---missionário-shalom).
 - [Dança de Avivamento / O Senhor É Rei - Pot-Pourri](#dança-de-avivamento--o-senhor-é-rei---pot-pourri).
 - [Parapapa – Missionário Shalom](#parapapa---missionário-shalom).
@@ -191,45 +190,6 @@ B  F# G#m E
 B  F# E ( G#m F# ) B
 ```
 [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/eliana-ribeiro/chuva-de-graca-/) | [YouTube](https://www.youtube.com/watch?v=EQj1GzLkicU&t=3s)
-
-
-## Seja Elevado - Colo de Deus
-```
-D                                    D/F#  
-NADA SE COMPARA AO SEU OLHAR, REI DA GLÓRIA
-      Bm          G    
-TU ÉS LINDO POR INTEIRO
-D
-SANTO É O SEU NOME ÉS PODEROSO
-           Bm           G    
-REI DO MEU SER, REI DA GLÓRIA
-
-[PONTE]
-
-Em            G            Bm
-CÉUS E TERRAS CANTAM SANTO ÉS
-               A               Em  G  Bm  A
-O MEU DEUS É O MESMO E NÃO MUDARÁ           (5X)
-
-[REFRÃO]
-
-Em              G
-SEJA ELEVADO NO TRONO MAIS ALTO
-Bm               A
-SEJA ELEVADO NO TRONO MAIS ALTO
-Em              G             Bm  A
-SEJA ELEVADO NO TRONO MAIS ALTO     (2X)
-
-( B5  C5  A5 ) (2X)
-( G5  A5  B5 ) (2X)
-
-[REFRÃO]
-
-[PONTE COM 2 REPETIÇÕES SOMENTE]
-
-[REFRÃO]
-```
-[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/comunidade-catolica-colo-de-deus/seja-elevado) | [YouTube](https://www.youtube.com/watch?v=ANlcJgj7c9s&list=RDANlcJgj7c9s)
 
 ## Uma Revolução - Missionário Shalom 
 ```
@@ -1138,3 +1098,567 @@ VEM INCENDIAAAAR
 
 ```
 [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/david-quinlan/ele-vem/) | [YouTube](https://www.youtube.com/results?search_query=David+Quinlan+Ele+Vem)
+
+## Momento Acústico
+
+Ideia em fazer uma linha do tempo contando a história do PHN.
+
+### 2005: INICIO DO PHN
+
+#### Restauração - Dunga
+Tom: G (Estrofe e Refrão)
+```
+[INTRO] G  Am  C7M  C/D  Bm7  Em7  Am7  C/D  F7M  C/D  G7M
+
+G7M                   Em7
+DEUS VÊ O CORAÇÃO, SONDA COM A COMPAIXÃO
+    C7M   C/D           G  C/D
+E SABE O TAMANHO DA SUA DOR
+G7M              Em7
+ELE NÃO PODE PÔR LIMITES NO SEU AMOR
+      C7M     C/D            G  C/D
+POIS SABE ATÉ ONDE VAI TODO PECADOR
+
+G7M                  Em7
+  LÁGRIMAS SÃO SUOR DE ALMAS QUE LUTAM SÓ
+    C7M         C/D                G  C/D
+SÓ DEUS PODE ENTENDER O QUE LHE CAUSA A DOR
+
+[REFRÃO]
+G  Am7 Bm7     C7M           C/D
+PARE     DE    SE MALTRATAR
+                  Bm7     Em7
+  NÃO QUEIRA AOS OUTROS CULPAR
+            Am7     C/D
+  DIGA POR HOJE NÃO
+              G                G7
+  POR HOJE EU NÃO VOU MAIS PECAR
+
+G7          C7M      C/D
+  ESTENDA A SUA MÃO
+            Bm7        Em7
+  E ABRA O SEU CORAÇÃO
+            Am7          C/D
+  VOLTA PRO SEU SENHOR
+               G          G7
+  E SE ABRA À RESTAURAÇÃO
+
+G7               C7M     C/D
+  COM CRISTO VOCÊ VAI SUPERAR
+              Bm7           Em7
+  TODAS AS BARREIRAS PASSAR
+           Am7       C/D
+  TODO PECADO VENCER
+                Eb7M        C/D          G
+  UM NOVO HOMEM VAI NASCER
+```
+
+### 2009: ACAMPAMENTOS
+
+#### Em Santidade - Ministério Amor e Adoração
+Tom: G (Somente Refrão)
+```
+      G      D/F#      Em         C
+EM SANTIDADE, EM SANTIDADE, EM SANTIDADE
+           Am        C    D
+SOBRE A TERRA EU DEVO ANDAR
+        G     D/F#       Em      C9
+EM SANTIDADE, EM SANTIDADE, EM SANTIDADE
+      Am      C/G     D
+TUA GRAÇA POSSO ALCANÇAR
+     C9
+E ROMPER COM AS TREVAS
+```
+
+#### Zaqueu - Regis Danese
+Tom: G (Somente Refrão)
+```
+          G             D.           Em
+ENTRA NA MINHA CASA, ENTRA NA MINHA VIDA
+                C9                         G
+MEXE COM MINHA ESTRUTURA, SARA TODAS AS FERIDAS
+            G          D                    Em7
+ME ENSINA A TER SANTIDADE, QUERO AMAR SOMENTE A TI
+                            C9       D                G
+PORQUE O SENHOR É O MEU BEM MAIOR, FAZ UM MILAGRE EM MIM
+```
+
+#### Eu Escolho Deus - Thalles Roberto
+Tom: G (Até Refrão)
+```
+[INTRO] G  C9  Am7  C9  G
+
+    G5                           C9        
+SENHOR, EU NASCI PRA TE CHAMAR DE DEUS
+                          Am
+EU NASCI PRA TE CHAMAR DE PAI
+                C9       
+E ANDAR DO TEU LADO
+    G5                           C9
+SENHOR, DESDE O VENTRE DA MINHA MÃE
+                       Am7          
+EU SOU POVO EXCLUSIVO SEU
+             C9               G             
+EU SOU ABENÇOADO, SE VIVO OBEDIENTE
+
+    C7M               D6(11)            
+MAS TODO DIA O PECADO VEM
+    C7M.              D6(11)
+ME CHAMA, TODO DIA AS PROPOSTAS VEM
+    C7M               D6(11)           
+ME CHAMA, TODO DIA VEM AS TENTAÇÕES
+    C7M               D6(11)           
+ME CHAMA, TODO DIA O PECADO VEM
+
+[REFRÃO]
+               G                             C9 
+MAS EU ESCOLHO DEUS, EU ESCOLHO SER AMIGO DE DEUS
+                    Am7 
+EU ESCOLHO CRISTO TODO DIA
+                           
+JÁ MORRI PRA MINHA VIDA E AGORA VIVO
+  C9
+A VIDA DE DEUS
+```
+
+#### Teus Planos - Juninho Cassimiro
+Tom: G (Primeira estrofe + vai direto pré-refrão + refrão)
+```
+[INTRO] G  Am  Bm  Am  D
+
+G                     
+  EU ME ABRO AO TEU QUERER
+                   Am 
+EU ME RENDO A TUA VOZ
+                 Bm7
+QUERO ME SUBMETER
+                  Am    C/D   D
+QUERO CONHECER TEUS PLANOS
+
+[PRÉ-REFRÃO]
+     Am   C/G      D/F#
+SEM TI NADA POSSO FAZER
+         G/B  C
+ONDE EU POSSO IR
+      Am7
+SE O CÉU QUE EU PROCURO
+      Em         F  C  D  G
+SÓ VIRÁ POR TUA VOZ?
+
+[REFRÃO]
+G                     F7M
+   OS MEUS PASSOS SÃO TEUS
+                        C7M
+O MEU PRÓXIMO MINUTO É TEU
+ D                            G
+SE NÃO FOR ASSIM, NÃO ME DEIXE IR
+                    F7M
+DOU MINHA MÃO PARA TI
+                     G/B   C7M
+FECHO OS OLHOS E CONFIO EM TI
+ D          G  F7M  C  D4
+LEVA-ME, SENHOR
+```
+
+#### Minha Essência - Thiago Brado
+Tom: A (Até Refrão)
+```
+[INTRO] A  A7M  A  D  F#m  F#9  F#m  E
+
+A             A7M  A
+  VIM ATÉ AQUI
+D                  F#m  
+DERRAMAR O MEU PASSADO EM TI
+                         Bm
+  VIM BANHAR OS PÉS QUE ANDARAM POR AÍ
+                  E
+  SEM CARINHO RECEBER
+
+A              A7M  A
+  HOJE ESTOU AQUI
+D                 F#m  
+NÃO PORQUE MEREÇO EU SEI
+                    Bm
+  POIS TU SABES POR ONDE EU ANDEI
+                            E
+  CONHECES BEM O MEU PERFUME
+
+         F#m
+  MAS TU SABES TAMBÉM
+                     C#m
+  QUE O MEU CHORO É SINCERO PORÉM
+                     D               Bm
+NÃO TENHO NADA A OFERECER, MEU SENHOR
+               E            E7
+MAS TE DOU A MINHA VIDA
+
+[REFRÃO]
+               A  A7M  A
+É TUDO QUE TENHO
+     D7M     F#m  
+RECEBE O MEU NADA
+          D       Bm
+REFAZ A MORADA
+       E  E7
+HABITA EM MIM
+
+               A  A7M  A
+ME PEGA EM TEU COLO
+      D7M         F#m  
+ME ACALMA EM TEU PEITO
+        D       Bm
+SOU TEU, SOU ELEITO
+              E       E7           A
+E A MINHA ESSÊNCIA É EXALAR TEU CHEIRO
+```
+
+#### Verdades do Tempo - Thiago Brado
+Tom: D (Até Refrão)
+```
+[INTRO] D  A  Bm  G
+
+D9             F#m7    Bm
+ESSA É UMA CANÇÃO DE AMOR
+                      Em
+VEJA ONDE ESTÁ O SEU CORAÇÃO
+              A4    A
+COLOQUE-O NA PALMA DA MÃO
+               D9
+É PRECISO OFERTAR
+    F#m7        Bm
+O AMOR MAIS SINCERO
+                Gsus2  Em
+O SORRISO MAIS PURO
+                   A
+E O OLHAR MAIS FRATERNO
+
+[Pré-Refrão]
+
+            D9
+O MUNDO PRECISA
+   F#m7     Bm
+SABER A VERDADE
+    D/F#     G
+PASSADO NÃO VOLTA
+            Em               A      F#m7
+FUTURO NÃO TEMOS E O HOJE NÃO ACABOU
+
+[Refrão]
+
+         D        A/C#    Bm
+POR ISSO AME MAIS,     ABRAÇE MAIS
+ A          G                  Em            A  Bm  A/C#
+POIS NÃO SABEMOS QUANTO TEMPO TEMOS PRA RESPIRAR
+ D        A/C#  Bm      A
+FALE MAIS,       OUÇA MAIS
+        G                  A         D
+VALE A PENA LEMBRAR QUE A VIDA É CURTA DEMAIS
+```
+
+### 2013: INTERCESSÃO
+
+#### Estou Aqui - Anjos de Resgate
+Tom: G (Até Refrão)
+```
+[INTRO] G9  C/G  D/F#  G  G/B  C  D4  D
+
+G                     D/G
+  ESTOU AQUI PRA SER AMADO E TE AMAR
+                 C9       Am7        D7(11) D7
+  TE OLHAR NOS OLHOS E DEIXAR-ME APAIXONAR
+G                     D/G
+  DIANTE DE TI PRA ME RENDER AO TEU AMOR
+     C9           Am7           D7(11) D7
+  E CONFESSAR MINHAS FRAQUEZAS: SOU PECADOR
+
+Am7         
+  TAMBÉM ESTOU AQUI
+             Em7
+  PRA PEDIR PERDÃO
+Am7               G/B
+  PELAS ALMAS QUE AINDA
+   C                D4  D
+  NÃO BUSCAM TEU CORAÇÃO
+
+[REFRÃO]
+    G                     C9
+TE AMAR POR QUEM NÃO TE AMA
+        Am7                    F  D
+TE ADORAR POR QUEM NÃO TE ADORA
+    G                C9
+ESPERAR POR QUEM NÃO ESPERA EM TI
+          Am7             D      G
+PELOS QUE NÃO CREEM EU, ESTOU AQUI
+```
+
+#### Força e Vitória - Eliana Ribeiro
+Tom: Bm (Primeira estrofe sem repetir + Refrão)
+```
+        Em          A9
+TODO JOELHO SE DOBRARÁ
+          D     A/C#  Bm
+E TODA LÍNGUA PROCLAMARÁ
+     Em          F#      Bm B
+QUE JESUS CRISTO É O SENHOR
+
+         Em    Em/D A/C#
+NADA PODERÁ ME ABALAR
+      D9        D/F# G9
+NADA PODERÁ ME DERROTAR
+             Em/C#      F#
+POIS MINHA FORÇA E VITÓRIA
+        Bm  A/C# B/D#
+TEM UM NOME É JESUS
+```
+
+#### Ao Teu Encontro - Eliana Ribeiro (Carla)
+Tom: A
+```
+A9       A9/F#     E4   E   A9
+O MEU CORAÇÃO TEM SEDE DE AMAR
+A9           A9/F#    E4       E      A9
+VIM AO TEU ENCONTRO ANIOSO EM TE ADORAR
+A9       A9/F#    E4    E   A9
+O MEU CORAÇÃO TEM SEDE DE AMAR
+A9           A9/F#      E4      E     A9
+VIM AO TEU ENCONTRO ANIOSO EM TE ADORAR
+
+    D7M   C#7      F#m7     F#m7/E     D7M
+MEU DEUS, EU CREIO E ADORO, ESPERO E TE AMO
+C#m7       Bm7    D/E        A9      A7
+     POR AQUELES QUE NÃO TE AMAM
+D7M     C#7            F#m7    F#m7/E    D7M
+O CÉU SE FAZ PRESENTE AQUI E OLHAS PARA MIM
+C#m7           Bm7   E   A9
+   POR QUE ME AMAS SEM IGUAL
+```
+
+#### Ninguém te Ama Como Eu - Anjos de Resgate (Meninas)
+Tom: C (Estivesse assim -> Refrão)
+```
+C9            G/B            Am7
+   TENHO ESPERADO ESTE MOMENTO
+Dm7            F         F/G      G
+    TENHO ESPERADO QUE VIESSES A MIM
+C9            G/B         Am7
+   TENHO ESPERADO QUE ME FALES
+Dm7            F
+    TENHO ESPERADO
+         F/G      G    F/G    G
+QUE ESTIVESSE ASSIM
+
+[REFRÃO]
+          C9  G/B      Am7  Am/G
+NINGUÉM TE AMA     COMO EU
+           F    C/E  Dm  F/G  G
+NINGUÉM TE AMA COMO EU
+           C9
+OLHE PRA CRUZ
+          G/B           Am7  Am/G  C7
+ESTA É A MINHA GRANDE PROVA
+F            G.           C
+   NINGUÉM TE AMA COMO EU
+```
+
+#### Abraço de Pai - Walmir Alencar
+Tom: G (Refrão)
+```
+   G                       Em
+E POR MAIS QUE ME FALEM, NÃO VOU DESISTIR
+    Am                   D7(4)         D7
+EU SEI QUE NADA SOU POR ISSO ESTOU AQUI
+       G                    Em
+MAS EU SEI QUE O AMOR QUE O SENHOR TEM POR MIM
+   Am                      D7(4)      D7         G     D4
+É MUITO MAIS QUE O MEU, SOU GOTA DERRAMADA NO MAR
+
+        G             Em
+QUANTO TEMPO TAMBÉM O SENHOR ME ESPEROU
+      Am               D7(4)         D7
+NAS TARDES ENCONTROU SAUDADE EM MEU LUGAR
+       G                     Em
+MAS AO ME VER NA ESTRADA AO LONGE VOLTAR
+    Am                D7(4)        D7         G      D4
+NUM SALTO SE ALEGROU E FOI CORRENDO ME ENCONTRAR
+
+      G                    Em
+E NÃO ME PERGUNTOU NEM POR ONDE EU ANDEI
+    Am                      D7(4)       D7
+DOS BENS QUE EU GASTEI, MAIS NADA ME RESTOU
+     G                      Em
+MAS OLHANDO EM MEUS OLHOS SOMENTE ME AMOU
+G/B         C9       G/B    Am
+E AO ME BEIJAR
+        D7(4)      D7             G     D4         
+ME ACOLHEU          NUM ABRAÇO DE PAI
+```
+
+#### Te Louvo em Verdade - Rosa de Saron
+Tom: E (Estrofe + Refrão)
+```
+
+E9             F#m   G#m7                A9
+MESMO NA TEMPESTADE, MESMO QUE SE AGITE O MAR
+ E9           B9          E9    B9
+TE LOUVO, TE LOUVO EM VERDADE
+
+ E9             F#m   G#m7         A9
+MESMO LONGE DOS MEUS, MESMO NA SOLIDÃO
+ E9           B9          E   E7
+TE LOUVO, TE LOUVO EM VERDADE
+
+        A9            B9    G#m           C#m
+POIS SOMENTE TENHO A TI, TU ÉS A MINHA HERANÇA
+  A9         B9           E9  E7
+TE LOUVO, TE LOUVO EM VERDADE
+
+        A9            B9    G#m           C#m
+POIS SOMENTE TENHO A TI, TU ÉS A MINHA HERANÇA
+ A9           B9.          E9
+TE LOUVO, TE LOUVO EM VERDADE
+```
+
+### 2015: TEMAS TLC
+
+#### Eu Te Levantarei - Frei Gilson
+Tom: F (Até filho amado)
+```
+F
+EU TE LEVANTAREI
+Dm
+EU TE LEVANTAREI
+         Bb  Gm7          C
+FILHO AMADO,     FILHO QUERIDO
+F
+EU TE LEVANTAREI
+Dm
+EU TE LEVANTAREI
+         Bb   Gm7          C  ( C7 )
+FILHO AMADO,     FILHO QUERIDO
+```
+
+#### Deixa Deus Sonhar em Ti - Ricardo Sá
+Tom: D (Acaba no segue além)
+```
+                      G      A
+DEIXA DEUS SONHAR EM TI
+                             Bm
+DEIXA, DEIXA DEUS SONHAR EM TI
+            G  A                   Bm
+NÃO TENHAS ME_DO É DEUS QUEM TE SEGURA  (2X)
+
+[REFRÃO]
+
+        G  A            Bm
+SEGUIE ALÉ____M, SEGUIE ALÉ____M
+        G  A            Bm
+SEGUIE ALÉ____M, SEGUIE ALÉ____M
+```
+
+#### Terra Seca - Frei Gilson
+Tom: D (Segue normal => Refrão da Iza 2x)
+```
+
+            D2         D9/F#       G6(9)
+SOMENTE EM TI CONSTRUIREI A MINHA CASA
+            D2       D9/F#         G6(9)
+SOMENTE EM TI COLOCAREI MINHA ESPERANÇA
+            D2         D9/F#       G6(9)
+SOMENTE EM TI CONSTRUIREI A MINHA CASA
+            D2       D9/F#         G6(9)
+SOMENTE EM TI COLOCAREI MINHA ESPERANÇA
+
+[Pré-Refrão]
+
+            Bm7
+POIS SÓ EM TI
+                    A
+MINH'ALMA ACHOU DESCANSO
+ D9/F#  G
+SÓ EM TI
+    A         D2
+EU PODE RESPIRAR
+
+ D9/F#  Bm7
+SÓ EM TI
+                    A2
+MINH'ALMA ACHOU DESCANSO
+       G
+SÓ EM TI
+    A         D2  D9/F#
+EU PODE RESPIRAR
+
+[Refrão]
+
+           G                   A
+O MEU CORAÇÃO DESEJA TE ENCONTRAR
+        A/G   F#m                 Bm7
+COMO A TERRA SECA ANSEIA PELA CHUVA
+           Em7
+VEM ME SACIAR
+               A
+POIS EU DESCOBRI
+                    D  D7M(2) D  D9/F#
+QUE AQUI É O MEU LUGAR
+
+           G                   A
+O MEU CORAÇÃO DESEJA TE ENCONTRAR
+        A/G   F#m                 Bm7
+COMO A TERRA SECA ANSEIA PELA CHUVA
+           Em7
+VEM ME SACIAR
+               A
+POIS EU DESCOBRI
+                    D2  D9/F#  G6(9)
+QUE AQUI É O MEU LUGAR
+```
+
+#### Yeshuá - Colo de Deus
+Tom: Em (Até Refrão)
+```
+   Em
+TE CHAMAM DE DEUS E DE SENHOR
+    C9
+TE CHAMAM DE REI, DE SALVADOR
+  G                                Bm
+E EU ME ATREVO A TE CHAMAR DE MEU AMOR
+      Em
+TE CHAMAM DE DEUS E DE SENHOR
+     C9
+TE CHAMAM DE REI, DE SALVADOR
+  G                                Bm
+E EU ME ATREVO A TE CHAMAR DE MEU AMOR
+
+Em      C9
+YESHUA, YESHUA
+    G     D
+TU ÉS TÃO LINDO
+              Em
+QUE EU NEM SEI ME EXPRESSAR
+C9       G       D
+YESHUA, TU ÉS TÃO LINDO
+```
+
+#### Eu Seguirei - Frei Gilson
+Tom: E (Somente Refrão)
+```
+        B4
+EU SEGUIREI
+     A9                 E9
+EU IREI AONDE FORES SENHOR
+         B4
+EU SEGUIREI
+     A9                 E9
+EU IREI AONDE FORES SENHOR
+              F#m7(11)  A2
+TUA GRAÇA ME BASTA
+
+                E9
+TEU AMOR ME SUSTENTA
+              F#m7(11)  A2
+TUA GRAÇA ME BASTA
+                E9
+TEU AMOR ME SUSTENTA
+```
+
+## MOMENTO MARIANO
