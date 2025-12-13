@@ -15,23 +15,27 @@ Acontecerá dia 13 de dezembro de 2025 na quadra do Lar da Criança Monsenhor No
 - Pedro.
 
 ## Repertório
-
-- [Pescador de Homens - Frei Gilson (TEMA)](#pescador-de-homens---frei-gilson).
-- [O Teu Amor - Isadora Pompeo](#o-teu-amor---isadora-pompeo).
 - [Chuva de Graça – Eliana Ribeiro](#chuva-de-graça---eliana-ribeiro).
-- [Uma Revolução – Missionário Shalom](#uma-revolução---missionário-shalom).
+- [Templo Vivo - Diego Fernandes](#templo-vivo---diego-fernandes).
 - [Dança de Avivamento / O Senhor É Rei - Pot-Pourri](#dança-de-avivamento--o-senhor-é-rei---pot-pourri).
 - [Parapapa – Missionário Shalom](#parapapa---missionário-shalom).
-- [Como Não Falar do Seu Amor - Dunga](#como-não-falar-do-seu-amor---dunga).
-- [Quero Louvar-Te / Exército de Deus / Louvado Seja / A Alegria / O Senhor Tem Muitos Filhos - Pot-Pourri](#quero-louvar-te--exército-de-deus--louvado-seja--a-alegria--o-senhor-tem-muitos-filhos---pot-pourri)
+- [Uma Revolução – Missionário Shalom](#uma-revolução---missionário-shalom).
+- [O Teu Amor - Isadora Pompeo](#o-teu-amor---isadora-pompeo).
 - [O Melhor pra Deus – Missionário Shalom](#o-melhor-pra-deus---missionário-shalom).
-- [Profetiza Filho de Maria - Colo de Deus](#profetiza-filho-de-maria---colo-de-deus).
-- [Meu Lugar É o Céu - Dunga](#o-meu-lugar-é-o-céu---dunga).
-- [Desperta - Colo de Deus](#desperta---colo-de-deus).
-- [Estrangeiro Aqui - Missionário Shalom](#estrangeiro-aqui---missionário-shalom).
-- [Templo Vivo - Diego Fernandes](#templo-vivo---diego-fernandes).
 - [Vitória no Deserto - Aline Barros](#vitória-no-deserto---aline-barros).
+- [Quero Louvar-Te / Exército de Deus / Louvado Seja / A Alegria / O Senhor Tem Muitos Filhos - Pot-Pourri](#quero-louvar-te--exército-de-deus--louvado-seja--a-alegria--o-senhor-tem-muitos-filhos---pot-pourri)
+- [Estrangeiro Aqui - Missionário Shalom](#estrangeiro-aqui---missionário-shalom).
 - [Ele Vem - David Quinlan](#ele-vem---david-quinlan).
+- [Profetiza Filho de Maria - Colo de Deus](#profetiza-filho-de-maria---colo-de-deus).
+- [Desperta - Colo de Deus](#desperta---colo-de-deus).
+- [Meu Lugar É o Céu - Dunga](#o-meu-lugar-é-o-céu---dunga).
+
+- [Momento Acústico](#momento-acustico)
+- [Momento Mariano](#momento-mariano)
+
+- [Pescador de Homens - Frei Gilson (TEMA)](#pescador-de-homens---frei-gilson).
+- [Como Não Falar do Seu Amor - Dunga](#como-não-falar-do-seu-amor---dunga).
+
 
 ### Links úteis
 
@@ -1099,13 +1103,13 @@ VEM INCENDIAAAAR
 ```
 [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/david-quinlan/ele-vem/) | [YouTube](https://www.youtube.com/results?search_query=David+Quinlan+Ele+Vem)
 
-## Momento Acústico
+## [Momento Acústico](#momento-acustico)
 
 Ideia em fazer uma linha do tempo contando a história do PHN.
 
 ### 2005: INICIO DO PHN
 
-#### Restauração - Dunga
+#### Restauração - Dunga 
 Tom: G (Estrofe e Refrão)
 ```
 [INTRO] G  Am  C7M  C/D  Bm7  Em7  Am7  C/D  F7M  C/D  G7M
@@ -1661,7 +1665,7 @@ TUA GRAÇA ME BASTA
 TEU AMOR ME SUSTENTA
 ```
 
-## MOMENTO MARIANO
+## [Momento Mariano](#momento-mariano)
 ### Maria de minha infância - Pe. Zezinho
 ```
   E                   B7
