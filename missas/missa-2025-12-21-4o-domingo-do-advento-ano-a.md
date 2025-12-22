@@ -76,12 +76,12 @@ ABRI AS PORTAS PARA QUE ELE POSSA ENTRAR
 
          G              A                   Bm
 1. AO SENHOR PERTENCE A TERRA E O QUE ELA ENCERRA
-          G            F#            Bm
-O MUNDO INTEIRO COM OS SERES QUE O POVOAM
-       Em           A9             D
-PORQUE ELE A TORNOU FIRME SOBRE OS MARES
-           G          A        D      A
-E SOBRE AS ÁGUAS A MANTÉM INABALÁVEL
+             G            F#            Bm
+   O MUNDO INTEIRO COM OS SERES QUE O POVOAM
+          Em           A9             D
+   PORQUE ELE A TORNOU FIRME SOBRE OS MARES
+              G          A        D      A
+   E SOBRE AS ÁGUAS A MANTÉM INABALÁVEL
 
              G        A           Bm
 2. "QUEM SUBIRÁ ATÉ O MONTE DO SENHOR
