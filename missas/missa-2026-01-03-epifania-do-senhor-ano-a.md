@@ -76,6 +76,44 @@ ALELUIA, ALELUIA, ALELUIA! (BIS)
 ```
 <div style="page-break-before:always"></div>
 
+## GLÓRIA
+```
+D9                  C9
+GLÓRIA A DEUS NAS ALTURAS
+  G                                D9
+E PAZ NA TERRA AOS HOMENS POR ELE AMADOS
+             C9           G                 D9
+SENHOR DEUS, REI DOS CÉUS DEUS PAI TODO PODEROSO
+          
+           Am  D9                Am  D9
+NÓS VOS LOUVA__MOS, NÓS VOS BENDIZE__MOS
+           Am  D9                  Am  D9
+NÓS VOS ADORA__MOS, NÓS VOS GLORIFICA__MOS
+              C9         G            D9
+NÓS VOS DAMOS GRAÇAS POR VOSSA IMENSA GLÓRIA
+               
+             C9      G        D9
+SENHOR JESUS CRISTO, FILHO UNIGÊNITO
+                C9            G             D9
+SENHOR DEUS, CORDEIRO DE DEUS FILHO DE DEUS PAI
+
+Am                  G              C9               D9
+VÓS, QUE TIRAIS O PECADO DO MUNDO, TENDE PIEDADE DE NÓS
+Am                  G              C9              D9
+VÓS, QUE TIRAIS O PECADO DO MUNDO, ACOLHEI A NOSSA SÚPLICA
+Am                  G             C9               D9
+VÓS, QUE ESTAIS À DIREITA DO PAI, TENDE PIEDADE DE NÓS
+              
+              Am  D9             Am   D9
+SÓ VÓS SOIS O SA_NTO, SÓ VÓS O SENHO__OR
+            C9             D9     E              A
+SÓ VÓS, O ALTÍSSIMO, JESUS CRISTO COM O ESPÍRITO SANTO
+
+                  G    D9
+NA GLÓRIA DE DEUS PAI AMÉM! (4X)
+```
+<div style="page-break-before:always"></div>
+
 ## SALMO 71(72)
 ```
      C              Dm              G7            C
