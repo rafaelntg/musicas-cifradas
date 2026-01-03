@@ -242,7 +242,7 @@ DAI-NOS A VOSSA PAZ, DAI-NOS A PAZ
 ```
 Em                A       Em
 VIMOS SUA ESTRELA   NO ORIENTE
-A                Em  A    ****      Em
+A                Em  A          Em
 E ASSIM VIMOS ADORAR   O REI DA GENTE
 
         Em         A     Bm         Em
