@@ -27,7 +27,7 @@
    NA MIRRA, A CERTEZA: DEUS É HUMANADO
 ```
 [YouTube](https://www.youtube.com/watch?v=Fljj_nlo71c)
-
+<div style="page-break-before:always"></div>
 
 ## PERDÃO
 ```
@@ -60,6 +60,7 @@
 ```
 
 ## BANHADOS EM CRISTO (SE HOUVER ASPERSÃO)
+```
   C         F   C
 BANHADOS EM CRISTO,
 Am        G7       C
@@ -72,6 +73,8 @@ SOMOS NASCIDOS DE NOVO (BIS)
 
 F  C     F  C     G     C
 ALELUIA, ALELUIA, ALELUIA! (BIS)
+```
+<div style="page-break-before:always"></div>
 
 ## SALMO 71(72)
 ```
@@ -88,7 +91,7 @@ AS NAÇÕES DE TODA A TERRA HÃO DE ADORAR-VOS, Ó SENHOR
    COM EQUIDADE ELE JULGUE OS VOSSOS POBRES
 
             C                    G
-2.	NOS SEUS DIAS, A JUSTIÇA FLORIRÁ 
+2. NOS SEUS DIAS, A JUSTIÇA FLORIRÁ 
             G7                        C
    E GRANDE PAZ ATÉ QUE A LUA PERCA O BRILHO
             C7                    F
@@ -97,7 +100,7 @@ AS NAÇÕES DE TODA A TERRA HÃO DE ADORAR-VOS, Ó SENHOR
    E DESDE O RIO ATÉ OS CONFINS DE TODA A TERRA
 
               C                         G
-3.	OS REIS DE TÁRSIS E DAS ILHAS HÃO DE VIR
+3. OS REIS DE TÁRSIS E DAS ILHAS HÃO DE VIR
           G7                            C
    E OFERECER-LHE SEUS PRESENTES E SEUS DONS
         C                          G
@@ -110,7 +113,7 @@ AS NAÇÕES DE TODA A TERRA HÃO DE ADORAR-VOS, Ó SENHOR
    E TODAS AS NAÇÕES HÃO DE SERVI-LO
 
           C                    G
-4.	LIBERTARÁ O INDIGENTE QUE SUPLICA
+4. LIBERTARÁ O INDIGENTE QUE SUPLICA
        G7                            C
    E O POBRE AO QUAL NINGUÉM QUER AJUDAR
         C7                         F
@@ -118,6 +121,7 @@ AS NAÇÕES DE TODA A TERRA HÃO DE ADORAR-VOS, Ó SENHOR
        G          G7          C
    E A VIDA DOS HUMILDES SALVARÁ
 ```
+<div style="page-break-before:always"></div>
 
 ## ACLAMAÇÃO AO EVANGELHO
 ```
@@ -125,24 +129,19 @@ AS NAÇÕES DE TODA A TERRA HÃO DE ADORAR-VOS, Ó SENHOR
 ALELUI_A, ALELUIA, ALELUIA, ALELUIA (2X)
 
 (G  D  C  D)
-VIMOS SUA ESTRELA NO ORIENTE
-E VIEMOS ADORAR O SENHOR
+VIMOS SUA ESTRELA NO ORIENTE / E VIEMOS ADORAR O SENHOR
 ```
 
 ## OFERTÓRIO
 ```
-    Bm        F#           G    F#
-TUA BÊNÇÃO, SENHOR, NOS ILUMINE,
-    Bm      F#              G      F#
-TUA FACE, SENHOR, SOBRE NÓS BRILHE!
+    Bm        F#           G    F#    Bm      F#              G      F#
+TUA BÊNÇÃO, SENHOR, NOS ILUMINE,  TUA FACE, SENHOR, SOBRE NÓS BRILHE!  
 
-Bm          Em    F#        Bm
-TEU PODER ENCERRA PAZ E RETIDÃO,
-G         Bm         F#        Bm
-BÊNÇÃOS E FRUTOS POR TODO ESTE CHÃO (2X)
+Bm          Em    F#        Bm   G         Bm         F#        Bm       
+TEU PODER ENCERRA PAZ E RETIDÃO, BÊNÇÃOS E FRUTOS POR TODO ESTE CHÃO (2X)
 
                   A         G         F#
-1.	DEUS SE COMPADECE E DE NÓS SE COMPRAZ
+1. DEUS SE COMPADECE E DE NÓS SE COMPRAZ
       Bm         A        G        F#
    EM NÓS RESPLANDECE SEU ROSTO DE PAZ
        Bm           A          G          F#
@@ -151,7 +150,7 @@ BÊNÇÃOS E FRUTOS POR TODO ESTE CHÃO (2X)
    E OS POVOS DESCUBRAM TEU TERNO CARINHO
    
                   A        G          F#
-2.	QUE TODOS OS POVOS TE LOUVEM, SENHOR
+2. QUE TODOS OS POVOS TE LOUVEM, SENHOR
        Bm       A        G         F#
    QUE TODOS OS POVOS TE CANTEM LOUVOR
        Bm     A        G           F#
@@ -160,7 +159,7 @@ BÊNÇÃOS E FRUTOS POR TODO ESTE CHÃO (2X)
    COM ELA GOVERNAS DA PRAIA AOS SERTÕES
 
                   A        G          F#
-3.	QUE TODOS OS POVOS TE LOUVEM, SENHOR
+3. QUE TODOS OS POVOS TE LOUVEM, SENHOR
        Bm       A        G         F#
    QUE TODOS OS POVOS TE CANTEM LOUVOR
      Bm              A         G         F#
@@ -169,10 +168,11 @@ BÊNÇÃOS E FRUTOS POR TODO ESTE CHÃO (2X)
    E BROTEM DOS CANTOS DO MUNDO ESTA LOA
 ```
 [YouTube](https://youtu.be/FMplPNOtb88?si=HJ08eyydFQAlGsCA)
+<div style="page-break-before:always"></div>
 
 ## INFOS
-ORAÇÃO EUCARÍSTICA: I.
-MEMORIAL DA CRUZ: MISTÉRIO DA FÉ PARA A SALVAÇÃO DO MUNDO.
+- ORAÇÃO EUCARÍSTICA: I.
+- MEMORIAL DA CRUZ: MISTÉRIO DA FÉ PARA A SALVAÇÃO DO MUNDO.
 
 ## SANTO
 ```
@@ -190,6 +190,7 @@ D              A           E
 D       A       B
  HOSANA NAS ALTURAS!
 ```
+<div style="page-break-before:always"></div>
 
 ## MEMORIAL DA CRUZ
 
@@ -222,6 +223,7 @@ PELA CRUZ E RESSURREIÇÃO
 Dm  A   D7 Gm  C  F   Bb  Gm  A7  Dm
 AAAAMÉM,   AA__A__AA__A___AA__A___MÉM
 ```
+<div style="page-break-before:always"></div>
 
 ## CORDEIRO (ADORAÇÃO E VIDA)
 ```
@@ -261,31 +263,32 @@ E ASSIM VIMOS ADORAR   O REI DA GENTE
    GLÓRIA AO PAI E AO MENINO E AO ESPÍRITO DIVINO
 ```
 [YouTube](https://youtu.be/4JprGLHorwM?si=glDP2AImtfQLJ2BK)
+<div style="page-break-before:always"></div>
 
 ## FINAL
 ```
    E                     B
 1. UMA ENTRE TODAS FOI A ESCOLHIDA
-C#m                    G#m
-FOSTE TU MARIA A SERVA PREFERIDA
-A            E
-MÃE DO MEU SENHOR
-F#              B  B7
-MÃE DO MEU SALVADOR
+   C#m                    G#m
+   FOSTE TU MARIA A SERVA PREFERIDA
+   A            E
+   MÃE DO MEU SENHOR
+   F#              B  B7
+   MÃE DO MEU SALVADOR
 
      E  C#m  A        B          E   C#m
-R. MARIA,    CHEIA DE GRAÇA E CONSOLO
-A         B7           E  C#m
-VENHA CAMINHAR COM TEU PO_VO
-A         B        E  B7
-NOSSA MÃE SEMPRE SERÁ (BIS)
+   MARIA,    CHEIA DE GRAÇA E CONSOLO
+   A         B7           E  C#m
+   VENHA CAMINHAR COM TEU PO_VO
+   A         B        E  B7
+   NOSSA MÃE SEMPRE SERÁ (BIS)
 
    E                    B
 2. ROGA PELOS PECADORES DESTA TERRA
-C#m                       G#m
-ROGA PELO POVO QUE EM SEU DEUS ESPERA
-A            E
-MÃE DO MEU SENHOR
-F#              B  B7
-MÃE DO MEU SALVADOR
+   C#m                       G#m
+   ROGA PELO POVO QUE EM SEU DEUS ESPERA
+   A            E
+   MÃE DO MEU SENHOR
+   F#              B  B7
+   MÃE DO MEU SALVADOR
 ```
