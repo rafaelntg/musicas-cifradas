@@ -1,0 +1,54 @@
+/* ================================
+   TÍTULO 2 (##)
+   ================================ */
+h2 {
+    font-weight: bold;
+    background-color: #f5f5f5; 
+    padding: 6px 10px;
+    border-radius: 4px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+/* ================================
+   TÍTULOS 3, 4 E 5 — NEGRITO
+   ================================ */
+h3,
+h4,
+h5 {
+    font-weight: bold;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+/* ================================
+   BLOCO DE CÓDIGO
+   ================================ */
+pre {
+    background-color: #ffffff !important;
+    padding: 10px;
+    border-radius: 4px;
+    margin-top: 0;
+    overflow-x: auto;
+}
+
+/* Remove fundo interno do <code> */
+pre code {
+    background-color: transparent !important;
+}
+
+/* ================================
+   CONFIGURAÇÃO DE PÁGINA (PDF)
+   ================================ */
+@page {
+    size: A4;
+    margin: 1cm;
+}
+
+/* ================================
+   CORPO DO DOCUMENTO
+   ================================ */
+body {
+    margin: 0;
+    padding: 0;
+}

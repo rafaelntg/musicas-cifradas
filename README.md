@@ -10,3 +10,5 @@ separar uma sílaba da outra.
 Caso queira exportar para PDF, utilize a extensão [Markdown PDF Plus](https://marketplace.visualstudio.com/items?itemName=tom-latham.markdown-pdf-plus) do Visual Studio Code.
 
 Para incluir quebra de linha, utilize `<div style="page-break-before:always"></div>` dentro do arquivo Markdown.
+
+Para melhorar o estilo do PDF, utilize o arquivo "assets/markdown-pdf-plus.css" como CSS customizado na configuração da extensão.
