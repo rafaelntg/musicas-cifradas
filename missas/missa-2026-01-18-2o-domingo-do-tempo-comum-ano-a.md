@@ -289,30 +289,32 @@ EIS AQUI O CORDEIRO DE DEUS
 [YouTube](https://www.youtube.com/watch?v=28QR6sr6OXk&list=PLJ7nkvvmA2AsE_Qclqxn1u6CRZIlVLyE4&index=7)
 <div style="page-break-before:always"></div>
 
-## FINAL
+## FINAL - CHEIRO DE ROSAS
 ```
-   E                     B
-1. UMA ENTRE TODAS FOI A ESCOLHIDA
-   C#m                    G#m
-   FOSTE TU MARIA A SERVA PREFERIDA
-   A             E/G#
-   MÃE DO MEU SENHOR
-   F#              B  B7
-   MÃE DO MEU SALVADOR
+F#m       E          D9
+   ESTÁS AQUI, AGRACIADA
+F#m7        E          D9
+   POSSO SENTIR TEU PERFUME
+F#m7      E           D9
+   ESTÁS AQUI, MÃE DO MEU SENHOR
+F#m7         E        D9
+   VEM FICAR PERTO DE MIM
 
-     E  C#m  A        B          E   C#m
-   MARIA,    CHEIA DE GRAÇA E CONSOLO
-   A         B7           E  C#m
-   VENHA CAMINHAR COM TEU PO_VO
-   A         B        E  B7
-   NOSSA MÃE SEMPRE SERÁ (BIS)
+          A        E
+CHEIRO DE ROSAS NESSE LUGAR
+  D9   E
+MARIA, AQUI ESTÁ
+      Bm        D         E
+E O ESPÍRITO DE DEUS DESCERÁ
+          A        E
+CHEIRO DE ROSAS NESSE LUGAR
+    D9      E
+A RAINHA PRESENTE ESTÁ
+     Bm         D  E  F#m
+PENTECOSTES ACONTE_CE_RÁ
 
-   E                    B
-2. ROGA PELOS PECADORES DESTA TERRA
-   C#m                       G#m
-   ROGA PELO POVO QUE EM SEU DEUS ESPERA
-   A             E/G#
-   MÃE DO MEU SENHOR
-   F#              B  B7
-   MÃE DO MEU SALVADOR
+[INTERLÚDIO] F#m E D9 (2X)
+[REPETE TUDO]
+[REPETE O REFRÃO]
 ```
+[YouTube](https://www.cifraclub.com.br/colo-de-deus/cheiro-de-rosas/)
