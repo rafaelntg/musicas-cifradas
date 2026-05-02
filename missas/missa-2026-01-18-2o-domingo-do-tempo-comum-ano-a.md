@@ -1,4 +1,4 @@
-# Missa 2026-01-18 - 2º Domingo do Tempo Comum - Ano A
+# Missa 2026-01-18 - 2º DTC - Ano A
 
 ## ENTRADA
 ```
@@ -100,31 +100,30 @@ NA GLÓRIA DE DEUS PAI AMÉM! (4X)
 
 ## SALMO 39(40)
 ```
-   C              Dm           
+   G              E7        Am
 EU DISSE: EIS QUE VENHO, SENHOR, 
-    G7                     C
+       D7                  G
 COM PRAZER FAÇO A VOSSA VONTADE!
 
-       C                    G
+   Em                       Bm
 1. ESPERANDO, ESPEREI NO SENHOR
-            G7                    C
+   C                              G
    E, INCLINANDO-SE, OUVIU MEU CLAMOR
-         C7                   F
+   D7                         G  Em
    CANTO NOVO ELE PÔS EM MEUS LÁBIOS
-        G         G7        C
+   A7                       D7
    UM POEMA EM LOUVOR AO SENHOR
 
-        C                      G
+   Em                          Bm
 2. SACRIFÍCIO E OBLAÇÃO NÃO QUISESTES
-        G7                      C
+   C                            G
    MAS ABRISTES, SENHOR, MEUS OUVIDOS
-         C7                 F
+   D7                       G Em
    NÃO PEDISTES OFERTAS NEM VÍTIMAS
-       G           G7       C
+   A7                         D7
    HOLOCAUSTOS POR NOSSOS PECADOS
 ```
-<div style="page-break-before:always"></div>
-
+[YouTube](https://www.youtube.com/watch?v=2lyLnoG0Upk)
 ## ACLAMAÇÃO AO EVANGELHO
 ```
    G   D  Am    C     Em     D    C
@@ -135,6 +134,7 @@ A PALAVRA SE FEZ CARNE, ENTRE NÓS ELA ACAMPOU
       C                                        D
 TODO AQUELE QUE A ACOLHEU, DE DEUS FILHO SE TORNOU
 ```
+<div style="page-break-before:always"></div>
 
 ## OFERTÓRIO
 ```
@@ -217,7 +217,6 @@ PELA CRUZ E RESSURREIÇÃO
 Dm  A   D7 Gm  C  F   Bb  Gm  A7  Dm
 AAAAMÉM,   AA__A__AA__A___AA__A___MÉM
 ```
-<div style="page-break-before:always"></div>
 
 ## CORDEIRO (ADORAÇÃO E VIDA)
 ```
@@ -233,6 +232,7 @@ DAI-NOS A PA___AZ, DAI-NOS A PAZ
 D#°       Em    Bm             C9  Cm G
 DAI-NOS A VOSSA PAZ, DAI-NOS A PAZ
 ```
+<div style="page-break-before:always"></div>
 
 ## COMUNHÃO
 ```
@@ -260,13 +260,6 @@ EIS AQUI O CORDEIRO DE DEUS
    COM PRAZER FAÇO A VOSSA VONTADE
              F       G7        C
    GUARDO EM MEU CORAÇÃO VOSSA LEI
-
-     C        G7       C     Am
-EIS AQUI O CORDEIRO DE DEUS
-      F        G7      Am
-O QUE TIRA O PECADO DO MUNDO
-C             G        C
-EIS AQUI O CORDEIRO DE DEUS
 
          C          F        Dm
 3. PROCLAMEI TODA A VOSSA JUSTIÇA
@@ -317,4 +310,3 @@ PENTECOSTES ACONTE_CE_RÁ
 [REPETE TUDO]
 [REPETE O REFRÃO]
 ```
-[YouTube](https://www.cifraclub.com.br/colo-de-deus/cheiro-de-rosas/)
