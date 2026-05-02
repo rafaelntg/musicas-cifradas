@@ -1,4 +1,4 @@
-# Missa 2026-05-02 - 5º Domingo da Páscoa-Ano A
+# Missa 2026-05-03 - 5º Domingo da Páscoa-Ano A
 
 ## ENTRADA - O SENHOR RESSURGIU
 ```
@@ -130,41 +130,40 @@ ALELUIA, ALELUIA, ALELUIA! (BIS)
 
 ## SALMO 32(33)
 ```
-         C            Am          Dm
+G7       C            Bb
    SOBRE NÓS VENHA SENHOR A VOSSA GRAÇA
-            G            G7          C
+            F            G           C    
    DA MESMA FORMA QUE EM VÓS NÓS ESPERAMOS
 
-Am                                Dm
-1. DAI GRAÇAS AO SENHOR AO SOM DA HARPA
-G7                           C
+        Bb                         C
+1. OH!, JUSTOS, ALEGRAI-VOS NOS SENHOR
+       Bb                    C
+   AOS RETOS FICA BEM GLORIFICÁ-LO
+       Am                         G
+   DAI GRAÇAS AO SENHOR AO SOM DA HARPA
+      F           Fm         C
    NA LIRA DE DEZ CORDAS CELEBRAI-O
-C7                               F
-   CANTAI PARA O SENHOR UM CANTO NOVO
-G7                           C
-   COM ARTE SUSTENTAI A LOUVAÇÃO
 
-Am                                 Dm
-2. O SENHOR DESFAZ OS PLANOS DAS NAÇÕES
-G7                                  C
-   E OS PROJETOS QUE OS POVOS SE PROPÕEM
-C7                               
-   MAS OS DESÍGNIOS DO SENHOR SÃO PARA SEMPRE +
-                                        F
-   E OS PENSAMENTOS QUE ELE TRAZ NO CORAÇÃO
-G7                                C
-   DE GERAÇÃO EM GERAÇÃO VÃO PERDURAR
+        Bb                     C
+2. POIS RETA É A PALAVRA DO SENHOR
+     Bb                        C
+   E TUDO O QUE ELE FAZ MERECE FÉ
+        Am                   G
+   DEUS AMA O DIREITO E A JUSTIÇA
+        F               Fm          C
+   TRANSBORDA EM TODA A TERRA A SUA GRAÇA
 
-Am                                           Dm
-3. MAS O SENHOR POUSA O OLHAR SOBRE OS QUE O TEMEM
-G7                                 C
+        Bb                               C
+3. O SENHOR POUSA O OLHAR SOBRE OS QUE O TEMEM
+         Bb                        C
    E QUE CONFIAM ESPERANDO EM SEU AMOR
-C7                               F
-   PARA DA MORTE LIBERAR AS SUAS VIDAS
-G7                                    C
+           Am                     G
+   PARA DA MORTE LIBERTAR AS SUAS VIDAS
+           F               Fm         C
    E ALIMENTÁ-LOS QUANDO É TEMPO DE PENÚRIA
+
 ```
-[YouTube](https://youtu.be/8CdROcl_7zE?si=9m8gPi_Q2AGJejnt)
+[YouTube](https://youtu.be/gKB2722zzqc?si=tKCspI_gsLkWyyKc)
 
 ## ACLAMAÇÃO AO EVANGELHO
 ```
@@ -380,145 +379,27 @@ DAI-NOS A VOSSA PAZ, DAI-NOS A PAZ
 
 <div style="page-break-before:always"></div>
 
-## COROAÇÃO
+## FINAL - EIS QUE FAÇO NOVAS TODAS AS COISAS
 ```
-           A                E
-1. PRIMEIRA CRISTÃ MARIA DA LUZ
-             Bm   E7            A   D  A
-   SABIAS, Ó MÃE,    AMAR TEU JESUS
-           A                  E
-   PRIMEIRA CRISTÃ MARIA DO AMOR
-              Bm    E7              A   D  A
-   SOUBESTE SEGUIR   TEU FILHO E SENHOR
+   G                           C9
+   EIS QUE FAÇO NOVAS TODAS AS COISAS
+                           G
+   QUE FAÇO NOVAS TODAS AS COISAS
+                           C9     D7
+   QUE FAÇO NOVAS TODAS AS COISAS
 
-             E7                   A
-R. NOSSA SENHORA DAS MILHÕES DE LUZES
-                Bm     E7       A
-   QUE MEU POVO ACENDE PRA TE LOUVAR
-          E7          A   F#m
-   ILUMINADA, ILUMINADORA
-          Bm            E7   A
-   INSPIRADORA DE QUEM QUER AMAR
-                 E7                 A        D  A
-   E ANDAR COM JESUS, E ANDAR COM JESUS (2x)
+     G                         C9
+1. É VIDA QUE BROTA DA VIDA, É FRUTO QUE CRESCE DO AMOR
+     G                         C9
+   É VIDA QUE VENCE A MORTE, É VIDA QUE VEM DO SENHOR (2X)
 
-                 A           E
-2. PRIMEIRA CRISTÃ MARIA DO LAR
-              Bm   E7               A  D  A
-   ENSINAS, Ó MÃE,    TEU JEITO DE AMAR
-                A            E
-   PRIMEIRA CRISTÃ MARIA DA PAZ
-               Bm  E7                A  D  A
-   ENSINAS, Ó MÃE, COMO É QUE DEUS FAZ
+      G                       C9
+2. DEIXEI O SEPULCRO VAZIO, A MORTE NÃO ME SEGUROU
+     G                             C9
+   A PEDRA QUE ENTÃO ME PRENDIA NO TERCEIRO DIA ROLOU (2X)
 
-              A              E
-3. PRIMEIRA CRISTÃ SEMPRE A MEDITAR
-               Bm   E7       A  D  A
-   VIVIAS EM DEUS, SABIAS ORAR
-               A             E
-   PRIMEIRA CRISTÃ FIEL A JESUS
-               Bm  E7             A  D  A
-   POR TODO LUGAR, NA LUZ E NA CRUZ
-
-OBS.: QUANDO COMEÇAREM A CANTAR A MÚSICA ESPECÍFICA
-      DA COROAÇÃO, DEIXO-AS CANTAR
-```
-
-<div style="page-break-before:always"></div>
-
-```
-ROSÁRIO:
-                A               E
-1. PRIMEIRA CRISTÃ, OH MÃE DE JESUS
-               Bm     E7           A    D  A
-   QUEREMOS LOUVAR-TE,  SENHORA DA LUZ
-                A              E
-   PRIMEIRA CRISTÃ, NESTE SANTUÁRIO
-           Bm    E7          A     D  A
-   TE OFERECEMOS,  O SANTO ROSÁRIO
-
-             E7                   A
-R. NOSSA SENHORA DAS MILHÕES DE LUZES
-                Bm     E7       A
-   QUE MEU POVO ACENDE PRA TE LOUVAR
-          E7          A   F#m
-   ILUMINADA, ILUMINADORA
-          Bm            E7   A
-   INSPIRADORA DE QUEM QUER AMAR
-                 E7                 A        D  A
-   E ANDAR COM JESUS, E ANDAR COM JESUS (2x)
-
-PALMA:
-                A             E
-2. PRIMEIRA CRISTÃ, RAINHA DA GLÓRIA
-              Bm  E7             A   D  A
-   VENCESTE A DOR,   OH MÃE DA VITÓRIA
-                A                E
-   PRIMEIRA CRISTÃ, QUE A TODOS ACALMA
-                Bm     E7                A    D  A
-   HOJE OS CONSAGRADOS,   TE TRAZEM ESTA PALMA
-
-COROA:
-                A              E
-3. PRIMEIRA CRISTÃ, OH MÃE DA IGREJA
-              Bm   E7                 A    D  A
-   AQUI NESTA VIDA,   NOS GUARDE E PROTEJA
-                A                E
-   PRIMEIRA CRISTÃ, NO CÉU FOI MORAR
-             Bm    E7              A   D  A
-   E AQUI NA TERRA,   VAMOS TE COROAR
-
-```
-
-<div style="page-break-before:always"></div>
-
-## CONSAGRAÇÃO (PÓS-COROAÇÃO)
-```
-A                       C#m           Cm
-OH!, MINHA SENHORA E TAMBÉM MINHA MÃE
-Bm       E           A  E/G#      F#m  F#m/E
-EU ME OFEREÇO INTEIRAMENTE TODO A VÓS
-Bm  Bm/A  E    E7  A  E/G#   F#m  F#m/E
-E   EM    PROVA DA MINHA DEVOÇÃO      
-   Bm       E           A   E7
-EU HOJE VOS DOU MEU CORAÇÃO
-   A                             C#m              Cm
-CONSAGRO A VÓS MEUS OLHOS, MEU OUVIDOS MINHA BOCA
-Bm         E          A   E/G#     F#m   F#m/E
-TUDO O QUE SOU DESEJO QUE A VÓS PERTENÇA
-  Bm   Bm/A    E   E7    A   E/G#      F#m    F#m/E
-INCOM__PARÁVEL MÃE,  GUARDAI-ME E DEFENDEI-ME
-     Bm   Bm/A      E            A   E/G#  F#m  F#m/E
-COMO COISA E PROPRIEDADE VOSSA, AMÉM!
-     Bm   Bm/A      E            F  G  A
-COMO COISA E PROPRIEDADE VOSSA, AMÉM!
-```
-
-## FINAL - CHEIRO DE ROSAS
-```
-F#m       E          D9
-   ESTÁS AQUI, AGRACIADA
-F#m7        E          D9
-   POSSO SENTIR TEU PERFUME
-F#m7      E           D9
-   ESTÁS AQUI, MÃE DO MEU SENHOR
-F#m7         E        D9
-   VEM FICAR PERTO DE MIM
-
-          A        E
-CHEIRO DE ROSAS NESSE LUGAR
-  D9   E
-MARIA, AQUI ESTÁ
-      Bm        D         E
-E O ESPÍRITO DE DEUS DESCERÁ
-          A        E
-CHEIRO DE ROSAS NESSE LUGAR
-    D9      E
-A RAINHA PRESENTE ESTÁ
-     Bm         D  E  F#m
-PENTECOSTES ACONTE_CE_RÁ
-
-[INTERLÚDIO] F#m E D9 (2X)
-[REPETE TUDO]
-[REPETE O REFRÃO]
+      G                        C9
+3. EU HOJE TE DOU VIDA NOVA, RENOVO EM TI O AMOR
+     G                         C9
+  TE DOU UMA NOVA ESPERANÇA, TUDO O QUE ERA VELHO PASSOU (2X)
 ```
