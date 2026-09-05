@@ -1,6 +1,6 @@
 # 39º TLC do JURA
 
-Será realizado em Santa Rita do Sapucaí-MG, na Casa da Paz, dentro da ETE-FMC, nos dias 11 a 13 de setembro de 2026. 
+Será realizado em Santa Rita do Sapucaí-MG, na Casa da Paz, dentro da ETE-FMC, nos dias 11 a 13 de setembro de 2026.
 
 ## Formação do ministério de música
 
@@ -39,7 +39,6 @@ Será realizado em Santa Rita do Sapucaí-MG, na Casa da Paz, dentro da ETE-FMC,
 
 ### Links úteis
 
-- [Repertório no Cifra Club]().
 - [Playlist no Spotify](https://open.spotify.com/playlist/5fb6BZBjJtKyOBbFPqFk09?si=1ZyM8JEVRSGRXmVWFXkfsA&utm_source=whatsapp&pi=4tHfi06lSe6u5).
 - [Repertório da missa](https://youtube.com/playlist?list=PLbhCP8TT78AI&si=JaVjaTmkWHZpMdHV)
 
@@ -110,16 +109,16 @@ VOCÊ ESTÁ NO DOMÍNIO, AGORA TÁ NO DOMÍNIO
 
 [PONTE]
 
-       Gm7                  
+       Gm7
 O SEU BANCO AFUNDOU, FOI DEMAIS
     Eb7M      Dm7
-TU RODOU, TU RODOU     
-       Gm7                  
+TU RODOU, TU RODOU
+       Gm7
 O SEU BANCO AFUNDOU, FOI DEMAIS
     Eb7M      Dm7
-TU RODOU, TU RODOU  
+TU RODOU, TU RODOU
 
-      Gm7 
+      Gm7
 SE A NOITE É CALADA
 Fm7  Gm7
 O LUGAR É DE FUGA
@@ -132,20 +131,20 @@ TU NÃO É ALEMÃO, MAS  PARECE
        Gm7             Fm7 Gm7
 PROFESSOR DO MEDO, DA DISSIMULAÇÃO
 
-        Gm7         
+        Gm7
 É ISSO MESMO, É O CEROL
    Fm7     Gm7
 É NÓS QUE SOMOS ESCROTOS
-        Gm7       
+        Gm7
 OS QUE FAZEM O SERVIÇO
    Fm7  Gm7
 E TODO SERVIÇO PORCO
- 
-      Gm7         
+
+      Gm7
 PRATICANTES DO VÍCIO
     Fm7 Gm7
 TU NÃO VIU, NEM IMAGINA
-       Gm7     
+       Gm7
 NÃO É VÍCIO, NOVELA
        Fm7       Gm7
 NÃO É COISA DA CHINA
@@ -259,11 +258,11 @@ O AMOR TEM SABOR PRA QUEM BEBE A SUA
 C9  D9(11)
     ÁGUA
 ```
-[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/jota-quest/do-seu-lado/) | [YouTube]()
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/jota-quest/do-seu-lado/) | [YouTube](https://www.youtube.com/watch?v=RT7bKaCIfRs)
 
 ## Esperando na Janela - Cogumelo Plutão
 ```
-[INTRO] Em7  D/F#  G  A7 
+[INTRO] Em7  D/F#  G  A7
 
 [PRIMEIRA PARTE]
 
@@ -372,7 +371,7 @@ FLORES BRANCAS, PAZ E IEMANJÁ
 
 [FINAL] Ebm7  Dbm7  Ebm7  Dbm7
 ```
-[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/natiruts/quero-ser-feliz-tambem/) | [YouTube]()
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/natiruts/quero-ser-feliz-tambem/) | [YouTube](https://www.youtube.com/watch?v=i1Nm-MJ313w)
 
 ## Exagerado - Cazuza
 ```
@@ -468,7 +467,7 @@ EU ADORO UM AMOR INVENTADO
 
 [FINAL] C  Am  Bm  D  G
 ```
-[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/cazuza/exagerado/) | [YouTube]()
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/cazuza/exagerado/) | [YouTube](https://www.youtube.com/watch?v=szts-5Zs5_8)
 
 ## Chopis Centis - Mamonas Assassinas
 ```
@@ -547,17 +546,113 @@ TAMBÉM O VAN DAIME
 
 [REFRÃO]
 ```
-[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/mamonas-assassinas/chopis-centis/) | [YouTube]()
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/mamonas-assassinas/chopis-centis/) | [YouTube](https://www.youtube.com/watch?v=5_-tqjWOARQ)
 
 ## Anna Júlia - Los Hermanos
 ```
-```
-[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/los-hermanos/anna-julia/) | [YouTube]()
+[Intro] E  C#m  E  C#m
 
-## Meteoro - Luan Santana
+[Primeira Parte]
+
+  E             C#m           G#m
+Quem te ver passar assim por mim
+     A         B     E
+Não sabe o que é sofrer
+         C#m        G#m
+Ter que ver você assim
+ A          B
+Sempre tão linda
+ E            C#m          G#m
+Contemplar o sol do teu olhar
+    A     B    E
+Perder você no ar
+       C#m         G#m
+Na certeza de um amor
+
+[Pré-Refrão]
+
+ A    B      C#m
+Me achar um nada
+                    G#m
+Pois sem ter teu carinho
+               A
+Eu me sinto sozinho
+                B
+Eu me afogo em solidão
+
+[Refrão]
+
+        E  A  B
+Ô Anna Julia
+        E  A  B
+Ô Anna Julia
+
+[Segunda Parte]
+
+ E           C#m       G#m
+Nunca acreditei na ilusão
+    A     B      E
+De ter você pra mim
+        C#m          G#m    A        B
+Me atormenta a previsão do nosso destino
+E              C#m          G#m
+Eu passando o dia a te esperar
+   A      B    E
+Você sem me notar
+        C#m        G#m
+Quando tudo tiver fim
+
+[Pré-Refrão]
+
+   A        B
+Você vai estar
+        C#m
+Com um cara
+                 G#m
+Um alguém sem carinho
+                  A
+Será sempre um espinho
+               B
+Dentro do meu coração
+
+[Refrão]
+
+        E  A  B
+Ô Anna Julia
+        E  A  B
+Ô Anna Julia
+
+[Solo] E  A  B  E  A  B
+       E  A  B  E  A  B
+       C#m  G#m  A  E
+       C#m  G#m  A  B
+
+ C#m       G#m        A          E
+Sei que você já não quer o meu amor
+ C#m       G#m       A        E
+Sei que você já não gosta de mim
+    C#m            G#
+Eu sei que eu não sou
+        A            E
+Quem você sempre sonhou
+     C#m          G#
+Mas vou reconquistar
+        A            B
+O seu amor todo pra mim
+
+[Refrão]
+
+        E  A  B
+Ô Anna Julia
+        E  A  B
+Ô Anna Julia
+        E  A  B
+Ô Anna Julia
+        E      A      B             E
+Ô Anna Julia, Julia, Julia... ou ou ou
+
 ```
-```
-[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/luan-santana/meteoro/) | [YouTube]()
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/luan-santana/meteoro/) | [YouTube](https://www.youtube.com/watch?v=MKY9bmNrSP0)
 
 ## A Hora É Agora - Jorge & Mateus
 ```
@@ -574,11 +669,11 @@ OH OH,  NA NA   NA NA NA NA   NA NA NA
 
 Cm
    AUMENTE O SOM
-D#                       A#    
+D#                       A#
   PRA FICAR BOM A NOSSA FESTA
                  F
 NÃO TEM HORA PRA ACABAR
-Cm                D# 
+Cm                D#
    O TEU SORRISO
                      A#
 ABRE AS PORTAS DO PARAÍSO
@@ -605,7 +700,7 @@ PAZ E AMOR
 E QUE NADA NESSE MUNDO CALE A NOSSA VOZ
  A#             D#
 CÉU E MAR E ALGUÉM PARA AMAR
-         Gm          F  
+         Gm          F
 E O ARREPIO TODA VEZ
                       D#
 QUE A GENTE SE ENCONTRAR
@@ -622,7 +717,7 @@ OH OH,  NA NA   NA NA NA NA   NA NANA
 
 [PRIMEIRA PARTE] [REFRÃO]
 
-[FINAL] Cm  D# A# F (4x) 
+[FINAL] Cm  D# A# F (4x)
         Cm
 ```
 [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/jorge-mateus/agora-e-a-hora/) | [YouTube](https://www.youtube.com/watch?v=hodnntAN-Z4)
@@ -796,7 +891,7 @@ CADA DIA MAIS, CADA DIA MAIS
 
 [FINAL] D5  A11/C#  Bm9  G9  D
 ```
-[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/fraternidade-sao-joao-paulo-ii/jardim/) | [YouTube]()
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/fraternidade-sao-joao-paulo-ii/jardim/) | [YouTube](https://www.youtube.com/watch?v=bCffspoAA6o)
 
 ## Tenda de Davi - Gerados pela Imaculada
 ```
@@ -830,13 +925,64 @@ E DANÇAR NA TENDA DO REI (2X)
 
 ## Templo Vivo - Diego Fernandes
 ```
+[INTRO] D  A  Bm  G
+
+[PRIMEIRA PARTE]
+
+D                         A
+SEJA BEM-VINDO, ESPÍRITO SANTO!
+         Bm           G
+O MEU CORAÇÃO É O TEU LAR
+           D              A
+SEJA BEM-VINDO, ESPÍRITO SANTO!
+         Bm
+A MINHA CASA É TAMBÉM TUA CASA
+           G
+A MINHA FAMÍLIA É O TEU LUGAR!
+         A         G
+AH! AH! AH!... AH! AH! AH!
+Em      A    D
+VEM EM MIM MORAR!
+         A         G
+AH! AH! AH!... AH! AH! AH!
+Em      A    D/F#  G  A  G/B  A/C#  D
+VEM EM MIM MORAR!
+
+[REFRÃO]
+
+D              A
+QUERO SER TEMPLO VIVO
+    Bm       G
+E TE LEVAR COMIGO
+       D          A          G
+QUERO SER TEMPLO VIVO DO TEU AMOR
+
+A      D              A
+QUERO SER TEMPLO VIVO
+    Bm       G
+E TE LEVAR COMIGO
+   D             A          G
+QUERO SER TEMPLO VIVO DO TEU AMOR
+
+( Bm  D  G  Em ) (2X)
+
+[PRIMEIRA PARTE]
+
+[REFRÃO]
+
+        D  A  G
+DO TEU AMOR
+         Bm  A
+DO TEU AMOR
+Bm  A  D/F#  G  D/F# Em   D
+OH OH  OH   OH  OOO___H  OHHHHHH
 ```
 [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/diego-fernandes/templo-vivo/) | [YouTube]()
 
 ## Dança de Avivamento - Diego Fernandes
 ```
   D                   C            D  C
-NAQUELE DIA EM QUE GRITEI ELE ME OUVIU  
+NAQUELE DIA EM QUE GRITEI ELE ME OUVIU
     D            C          D   C
 E A TEMPESTADE ENTÃO SE ACALMOU  (2X)
 
@@ -941,13 +1087,13 @@ VOU TE ADORAR, ATÉ NÃO SOBRAR NADA DE MIM!
 
 ## Seja Elevado - Colo de Deus
 ```
-F                                    F/A  
+F                                    F/A
 NADA SE COMPARA AO SEU OLHAR, REI DA GLÓRIA
-      Dm          A#    
+      Dm          A#
 TU ÉS LINDO POR INTEIRO
 F
 SANTO É O SEU NOME ÉS PODEROSO
-           Dm           A#    
+           Dm           A#
 REI DO MEU SER, REI DA GLÓRIA
 
 [PONTE]
