@@ -5,10 +5,11 @@ Será realizado em Santa Rita do Sapucaí-MG, na Casa da Paz, dentro da ETE-FMC,
 ## Formação do ministério de música
 
 - Alexandre Silveira (drums).
-- André Nascimento (voice).
+- André Nascimento (vocal).
 - Éverton Magalhães (bass).
-- Fernando Azevedo (void).
-- Maria Clara (voice)
+- Fernando Azevedo (vocal).
+- Laura Noronha (vocal)
+- Maria Clara (vocal)
 - Nícolas (guitar).
 - Rafael Noronha (guitar).
 
@@ -36,6 +37,13 @@ Será realizado em Santa Rita do Sapucaí-MG, na Casa da Paz, dentro da ETE-FMC,
 - [Uma Revolução - Missionário Shalom](#uma-revolução---missionário-shalom).
 - [Quero Chamar Tua Atenção - Colo de Deus](#quero-chamar-tua-atenção---colo-de-deus).
 - [Seja Elevado - Colo de Deus](#seja-elevado---colo-de-deus).
+
+#### Capela
+
+- [Foi Por Você - Anjos de Resgate](#foi-por-você---anjos-de-resgate).
+- [Casa - Colo de Deus](#casa---colo-de-deus).
+- [Deixa Deus Sonhar em Ti - Frei Gilson](#deixa-deus-sonhar-em-ti---frei-gilson).
+- [Ninguém Te Ama Como Eu - Mensagem Brasil](#ninguém-te-ama-como-eu---mensagem-brasil).
 
 ### Links úteis
 
@@ -435,6 +443,15 @@ OU NUNCA MAIS
 
 [REFRÃO]
 
+      C
+EXAGERADO
+   D
+JOGADO AOS TEUS PÉS
+        G      D   C
+EU SOU MESMO EXAGERADO
+  Em                D   C  Am  Bm  D
+ADORO UM AMOR INVENTADO
+
 ( G  D/G  C/G ) (4X)
 
 [SOLO] G  D  C
@@ -455,6 +472,15 @@ F#m7(5-)           B7
 OU NUNCA MAIS
 
 [REFRÃO]
+
+      C
+EXAGERADO
+   D
+JOGADO AOS TEUS PÉS
+        G      D   C
+EU SOU MESMO EXAGERADO
+  Em                D   C  Am  Bm  D
+ADORO UM AMOR INVENTADO
 
    C
 JOGADO AOS TEUS PÉS
@@ -550,109 +576,109 @@ TAMBÉM O VAN DAIME
 
 ## Anna Júlia - Los Hermanos
 ```
-[Intro] E  C#m  E  C#m
+[INTRO] E  C#m  E  C#m
 
-[Primeira Parte]
+[PRIMEIRA PARTE]
 
   E             C#m           G#m
-Quem te ver passar assim por mim
+QUEM TE VER PASSAR ASSIM POR MIM
      A         B     E
-Não sabe o que é sofrer
+NÃO SABE O QUE É SOFRER
          C#m        G#m
-Ter que ver você assim
+TER QUE VER VOCÊ ASSIM
  A          B
-Sempre tão linda
+SEMPRE TÃO LINDA
  E            C#m          G#m
-Contemplar o sol do teu olhar
+CONTEMPLAR O SOL DO TEU OLHAR
     A     B    E
-Perder você no ar
+PERDER VOCÊ NO AR
        C#m         G#m
-Na certeza de um amor
+NA CERTEZA DE UM AMOR
 
-[Pré-Refrão]
+[PRÉ-REFRÃO]
 
  A    B      C#m
-Me achar um nada
+ME ACHAR UM NADA
                     G#m
-Pois sem ter teu carinho
+POIS SEM TER TEU CARINHO
                A
-Eu me sinto sozinho
+EU ME SINTO SOZINHO
                 B
-Eu me afogo em solidão
+EU ME AFOGO EM SOLIDÃO
 
-[Refrão]
+[REFRÃO]
 
         E  A  B
-Ô Anna Julia
+Ô ANNA JULIA
         E  A  B
-Ô Anna Julia
+Ô ANNA JULIA
 
-[Segunda Parte]
+[SEGUNDA PARTE]
 
  E           C#m       G#m
-Nunca acreditei na ilusão
+NUNCA ACREDITEI NA ILUSÃO
     A     B      E
-De ter você pra mim
+DE TER VOCÊ PRA MIM
         C#m          G#m    A        B
-Me atormenta a previsão do nosso destino
+ME ATORMENTA A PREVISÃO DO NOSSO DESTINO
 E              C#m          G#m
-Eu passando o dia a te esperar
+EU PASSANDO O DIA A TE ESPERAR
    A      B    E
-Você sem me notar
+VOCÊ SEM ME NOTAR
         C#m        G#m
-Quando tudo tiver fim
+QUANDO TUDO TIVER FIM
 
-[Pré-Refrão]
+[PRÉ-REFRÃO]
 
    A        B
-Você vai estar
+VOCÊ VAI ESTAR
         C#m
-Com um cara
+COM UM CARA
                  G#m
-Um alguém sem carinho
+UM ALGUÉM SEM CARINHO
                   A
-Será sempre um espinho
+SERÁ SEMPRE UM ESPINHO
                B
-Dentro do meu coração
+DENTRO DO MEU CORAÇÃO
 
-[Refrão]
+[REFRÃO]
 
         E  A  B
-Ô Anna Julia
+Ô ANNA JULIA
         E  A  B
-Ô Anna Julia
+Ô ANNA JULIA
 
-[Solo] E  A  B  E  A  B
+[SOLO] E  A  B  E  A  B
        E  A  B  E  A  B
        C#m  G#m  A  E
        C#m  G#m  A  B
 
  C#m       G#m        A          E
-Sei que você já não quer o meu amor
+SEI QUE VOCÊ JÁ NÃO QUER O MEU AMOR
  C#m       G#m       A        E
-Sei que você já não gosta de mim
+SEI QUE VOCÊ JÁ NÃO GOSTA DE MIM
     C#m            G#
-Eu sei que eu não sou
+EU SEI QUE EU NÃO SOU
         A            E
-Quem você sempre sonhou
+QUEM VOCÊ SEMPRE SONHOU
      C#m          G#
-Mas vou reconquistar
+MAS VOU RECONQUISTAR
         A            B
-O seu amor todo pra mim
+O SEU AMOR TODO PRA MIM
 
-[Refrão]
+[REFRÃO]
 
         E  A  B
-Ô Anna Julia
+Ô ANNA JULIA
         E  A  B
-Ô Anna Julia
+Ô ANNA JULIA
         E  A  B
-Ô Anna Julia
+Ô ANNA JULIA
         E      A      B             E
-Ô Anna Julia, Julia, Julia... ou ou ou
-
+Ô ANNA JULIA, JULIA, JULIA... OU OU OU
 ```
 [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/luan-santana/meteoro/) | [YouTube](https://www.youtube.com/watch?v=MKY9bmNrSP0)
+
 
 ## A Hora É Agora - Jorge & Mateus
 ```
@@ -721,6 +747,167 @@ OH OH,  NA NA   NA NA NA NA   NA NANA
         Cm
 ```
 [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/jorge-mateus/agora-e-a-hora/) | [YouTube](https://www.youtube.com/watch?v=hodnntAN-Z4)
+
+## Meteoro - Luan Santana
+```
+[Refrão] 
+
+A                         E  
+  TE DEI O SOL, TE DEI O MAR  
+                    F#m 
+PRA GANHAR SEU CORAÇÃO  
+                   D
+VOCÊ É RAIO DE SAUDADE
+               A  
+METEORO DA PAIXÃO  
+                  E    
+EXPLOSÃO DE SENTIMENTOS  
+                        F#m
+QUE EU NÃO PUDER ACREDITAR
+            D
+AH! COMO É BOM PODER TE AMAR
+
+[Solo] A  E  F#m  D 
+       A  E  F#m  D 
+
+[Primeira Parte]
+
+A                        E
+  DEPOIS QUE EU TE CONHECI
+            F#m
+FUI MAIS FELIZ
+             D
+VOCÊ É EXATAMENTE
+                     A
+O QUE EU SEMPRE QUIS
+                   E             F#m
+ELA SE ENCAIXA PERFEITAMENTE EM MIM
+                  D          
+O NOSSO QUEBRA-CABEÇA TEVE FIM
+
+[Pré-Refrão]
+
+A4                     
+   SE FOR SONHO NÃO ME ACORDE
+       F#m      D9
+EU PRECISO FLUTUAR
+
+POIS SÓ QUEM SONHA
+    E
+CONSEGUE ALCANÇAR
+
+[Refrão]
+
+A                         E
+  TE DEI O SOL, TE DEI O MAR
+                    F#m
+PRA GANHAR SEU CORAÇÃO
+                   D
+VOCÊ É RAIO DE SAUDADE
+               A
+METEORO DA PAIXÃO
+                  E
+EXPLOSÃO DE SENTIMENTOS
+                        F#m
+QUE EU NÃO PUDER ACREDITAR
+            D
+AH! COMO É BOM PODER TE AMAR
+
+( A  E  D  F#m  E )
+( A  E  D  F#m  E )
+
+[Primeira Parte]
+
+A                        E
+  DEPOIS QUE EU TE CONHECI
+            F#m
+FUI MAIS FELIZ
+             D
+VOCÊ É EXATAMENTE
+                     A
+O QUE EU SEMPRE QUIS
+                   E             F#m
+ELA SE ENCAIXA PERFEITAMENTE EM MIM
+                  D         A
+O NOSSO QUEBRA-CABEÇA TEVE FIM
+
+[Pré-Refrão]
+
+        E             F#m
+SE FOR SONHO NÃO ME ACORDE
+                   D
+EU PRECISO FLUTUAR
+
+POIS SÓ QUEM SONHA
+    E
+CONSEGUE ALCANÇAR
+
+[Refrão]
+
+A                         E
+  TE DEI O SOL, TE DEI O MAR
+                    F#m
+PRA GANHAR SEU CORAÇÃO
+                   D
+VOCÊ É RAIO DE SAUDADE
+               A
+METEORO DA PAIXÃO
+                  E
+EXPLOSÃO DE SENTIMENTOS
+                        F#m
+QUE EU NÃO PUDER ACREDITAR
+            D
+AH! COMO É BOM PODER TE AMAR
+
+[Terceira Parte]
+
+A     G#m    F#m          E
+  TÃO     VELOZ QUANTO A LUZ
+         D           A
+PELO UNIVERSO EU VIAJEI
+         F#m        E
+VEM ME GUIA, ME CONDUZ
+         D            E
+QUE PRA SEMPRE TE AMAREI
+
+[Refrão]
+
+A                         E
+  TE DEI O SOL, TE DEI O MAR
+                    F#m
+PRA GANHAR SEU CORAÇÃO
+                   D
+VOCÊ É RAIO DE SAUDADE
+               A
+METEORO DA PAIXÃO
+                  E
+EXPLOSÃO DE SENTIMENTOS
+                        F#m
+QUE EU NÃO PUDER ACREDITAR
+            D
+AH! COMO É BOM PODER TE AMAR
+
+A                         E
+  TE DEI O SOL, TE DEI O MAR
+                    F#m
+PRA GANHAR SEU CORAÇÃO
+                   D
+VOCÊ É RAIO DE SAUDADE
+               A
+METEORO DA PAIXÃO
+                  E
+EXPLOSÃO DE SENTIMENTOS
+                        F#m
+QUE EU NÃO PUDER ACREDITAR
+            D
+AH! COMO É BOM PODER TE AMAR
+
+F#m         D
+AH! COMO É BOM PODER TE AMAR
+
+[Final] A  E  F#m  D  A
+```
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/luan-santana/meteoro/) | [YouTube](https://www.youtube.com/watch?v=bv7TIXPystY)
 
 ## Eva - Banda Eva
 ```
@@ -814,82 +1001,82 @@ DIZ PRA MIM O QUE VOCÊ SERÁ
 
 ## Jardim - Fraternidade São João Paulo II
 ```
-[INTRO] D5  A11/C#  Bm7  G9
-        D5  A11/C#  Bm7  G9
+[INTRO] E5  B11/D#  C#m7  A9
+        E5  B11/D#  C#m7  A9
 
 [PRIMEIRA PARTE]
 
-    D5
+    E5
 SENHOR, JÁ POSSO OUVIR A TUA VOZ
-  D7M                               Bm7
+  E7M                               C#m7
 E OS TEUS PASSOS A SE APROXIMAR DE MIM
-                 G9
+                 A9
 SE APROXIMAR DE MIM
 
-    D5
+    E5
 SENHOR, EU SEI QUE DIGNO EU NÃO SOU
-    D7M                           Bm7
+    E7M                           C#m7
 MAS EU PRECISO TANTO OUVIR A TUA VOZ
-   G9
+   A9
 DIZENDO, VEM
 
 [PONTE]
 
- Bm7            F#m7(11)
+ C#m7            G#m7(11)
 MAS EU SEI, PEQUENO SOU
- G9               A2
+ A9               B2
 MAS EU SEI, TÃO FRACO ESTOU
 
-     Bm7             F#m7(11)
+     C#m7             G#m7(11)
 MAS SEI TAMBÉM, SEM TI EU NÃO
-    Em7   D/F#   G9
+    F#m7   E/G#   A9
 CONSIGO PROSSEGUIR
 
- Bm7            F#m7(11)
+ C#m7            G#m7(11)
 MAS EU SEI, PEQUENO SOU
- G9               A2
+ A9               B2
 MAS EU SEI, TÃO FRACO ESTOU
 
-     Bm7             F#m7(11)
+     C#m7             G#m7(11)
 MAS SEI TAMBÉM, SEM TI EU NÃO
-    Em7         A4  A/C#
+    F#m7         B4  B/D#
 CONSIGO PROSSEGUIR
 
 [REFRÃO]
 
-D5                     A11/C#
+E5                     B11/D#
 MESMO COM TANTOS ERROS QUE EU COMETI
-Bm7                F#m7(11)
+C#m7                G#m7(11)
 O TEU OLHAR JAMAIS
-               G9
+               A9
 SE AFASTOU DE MIM
-                 F#m7(11)
+                 G#m7(11)
 E AO SOM DE TUA VOZ ME RESTA TE BUSCAR
- Bm7                     A2
+ C#m7                     B2
 CADA DIA MAIS, CADA DIA MAIS
 
-D5                 D7M
+E5                 E7M
 VER TEUS OLHOS SEMPRE FIXOS EM MIM
-Bm7                F#m7(11)
+C#m7                G#m7(11)
 ME FAZEM RECORDAR
-                  G9
+                  A9
 DOS PASSOS NO JARDIM
-                 F#m7(11)
+                 G#m7(11)
 E AO SOM DE TUA VOZ ME RESTA TE BUSCAR
- Bm7                     A4  A/C#
+ C#m7                     B4  B/D#
 CADA DIA MAIS, CADA DIA MAIS
 
-[INTERLÚDIO] D  A11/C#  Bm7  G9
+[INTERLÚDIO] E  B11/D#  C#m7  A9
 
 [PONTE]
 
 [REFRÃO]
 
-[INTERLÚDIO] D  D7M  Bm7  G9 (3X)
+[INTERLÚDIO] E  E7M  C#m7  A9 (3X)
 
 [REFRÃO]
 
-[FINAL] D5  A11/C#  Bm9  G9  D
+[FINAL] E5  B11/D#  C#m9  A9  E
 ```
 [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/fraternidade-sao-joao-paulo-ii/jardim/) | [YouTube](https://www.youtube.com/watch?v=bCffspoAA6o)
 
@@ -1122,3 +1309,51 @@ SEJA ELEVADO NO TRONO MAIS ALTO     (2X)
 [REFRÃO]
 ```
 [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/comunidade-catolica-colo-de-deus/seja-elevado/) | [YouTube](https://www.youtube.com/watch?v=ANlcJgj7c9s)
+
+## Ninguém Te Ama Como Eu - Mensagem Brasil
+```
+Tom C: C  G/B  Am   Am/G   Dm  F  G  G7...
+Tom A: A  E/G# F#m  F#m/E  Bm  D  E  E7...
+
+[PRIMEIRA PARTE]
+
+TENHO ESPERADO ESTE MOMENTO
+TENHO ESPERADO QUE VIESSES A MIM
+TENHO ESPERADO QUE ME FALES
+TENHO ESPERADO 
+QUE ESTIVESSES ASSIM
+
+EU SEI BEM QUE TENS VIVIDO
+SEI TAMBÉM QUE TENS CHORADO
+EU SEI BEM QUE TENS SOFRIDO
+POIS PERMANEÇO AO TEU LADO
+
+[REFRÃO]
+
+NINGUÉM TE AMA COMO EU
+NINGUÉM TE AMA COMO  EU
+OLHE PRA CRUZ
+ESTA É A MINHA GRANDE PROVA
+NINGUÉM TE AMA COMO EU
+
+NINGUÉM TE AMA COMO EU
+NINGUÉM TE AMA COMO EU
+OLHE PRA CRUZ
+FOI POR TI PORQUE TE AMO
+NINGUÉM TE AMA COMO EU
+
+[SEGUNDA PARTE]
+
+EU SEI BEM O QUE ME DIZES
+AINDA QUE NUNCA ME FALES
+EU SEI BEM O QUE TENS SENTIDO
+AINDA QUE NUNCA ME REVELES
+
+TENHO ANDADO AO TEU LADO
+JUNTO A TI PERMANECIDO
+EU TE LEVO EM MEUS BRAÇOS
+POIS SOU TEU MELHOR AMIGO
+
+[REFRÃO]
+
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/catolicas/ninguem-te-ama-como-eu/) | [YouTube](https://www.youtube.com/watch?v=XsBlCE8Uw48)
