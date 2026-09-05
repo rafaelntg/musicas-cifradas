@@ -2,7 +2,7 @@
 
 ## EM TUA CASA, Ó SENHOR
 ```
-   C      F           G7          C     C7
+   C7     F           G7          C     C7
 R. EM TUA CASA NOS REUNIMOS COMO IGREJA
         F          G7           C  
    ESTE POVO CONGREGADO EM TEU AMOR
@@ -20,7 +20,7 @@ R. EM TUA CASA NOS REUNIMOS COMO IGREJA
            G              G7       C
    JUNTO À CRUZ FOMOS POR ELE RESGATADOS
 
-        E     E7               Am
+        E           E7         Am
 2. A UNIÃO DE TODOS NUMA SÓ PROMESSA
          F         F7          Bb
    FAZ A TODOS CAMINHAR NA DIREÇÃO
@@ -28,6 +28,24 @@ R. EM TUA CASA NOS REUNIMOS COMO IGREJA
    TUA IGREJA É TEU POVO ACOLHIDO
          G          G7           C
    CONGREGADO NA JUSTIÇA E NO PERDÃO
+        
+        E           E7          Am
+3. DÁ A TODOS QUE ESPERAM TEU AUXÍLIO
+        F          F7           Bb
+   O SENTIDO DA PERTENÇA NO TEU REINO
+      A           A7             Dm
+   REUNIDOS POR JESUS, QUE É TEU FILHO,
+         G        G7            C
+   NÓS SEJAMOS ACOLHIDOS EM TEU SEIO
+        
+         E           E7          Am
+4. NOSSA FÉ RENOVE O MUNDO E A VISÃO
+            F            F7         Bb
+   DOS QUE, CEGOS, NÃO ENXERGAM TUA LUZ
+        A          A7          Dm
+   E, BANIDOS TODO ÓDIO E OPRESSÃO,
+       G          G7         C
+   INDIQUEMOS O CAMINHO DE JESUS
 ```
 [YouTube](https://youtu.be/FZhiypjGHYs?si=Jhm-Ik6nEmt0eNpE)
 
@@ -249,7 +267,7 @@ DAI-NOS A VOSSA PAZ, DAI-NOS A PAZ
 
 ## COMUNHÃO - NA MESA SAGRADA
 ```
-      F      C               F
+      F    Bb         C      F
 1. NA MESA SAGRADA SE FAZ UNIDADE
                  Bb           C         F
    NO PÃO QUE ALIMENTA, QUE É PÃO DO SENHOR
@@ -263,7 +281,7 @@ R. IMPORTA VIVER, SENHOR, UNIDOS NO AMOR
       Dm       Gm     C7           F
    NA PARTICIPAÇÃO, VIVENDO EM COMUNHÃO (2X)
 
-      F           C              F
+      F           Bb     C       F
 2. CHEGAR JUNTO À MESA É COMPROMETER-SE
                   Bb         C      F
    É A DEUS CONVERTER-SE COM SINCERIDADE
@@ -272,7 +290,7 @@ R. IMPORTA VIVER, SENHOR, UNIDOS NO AMOR
         Dm      Gm      C7       F
    E EM NOME DE CRISTO AMAR E SERVIR
 
-     F         C                  F
+     F         Bb      C          F
 3. ENQUANTO NA TERRA O PÃO FOR PARTIDO
              Bb       C         F
    O HOMEM NUTRIDO SE TRANSFORMARÁ
