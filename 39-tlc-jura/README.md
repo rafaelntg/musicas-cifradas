@@ -160,8 +160,106 @@ NÃO É COISA DA CHINA
 
 ## Do Seu Lado - Jota Quest
 ```
+[INTRO] D5(9)
+
+ D5(9)    Am7         C9       G   G/F#  D5(9)
+LÁ    LÁ LÁ LÁ LÁ LÁ LÁ LÁ LÁ LÁ LÁ  LÁ
+ D5(9)  Am7     C9    G/B      D5(9)
+LÁ LÁ LÁ LÁ LÁ LÁ LÁ LÁ LÁ LÁ LÁ LÁ
+
+[PRIMEIRA PARTE]
+
+     D5
+FAZ MUITO TEMPO, MAS EU ME LEMBRO
+                  A5
+VOCÊ IMPLICAVA COMIGO
+     C5                  B5+
+MAS HOJE VEJO QUE TANTO TEMPO
+           G5    F#5+  D5
+ME DEIXOU MUITO MAIS CALMO
+
+   D5
+O MEU COMPORTAMENTO EGOÍSTA
+                    A5
+SEU TEMPERAMENTO DIFÍCIL
+   C5                     B5+
+VOCÊ ME ACHAVA MEIO ESQUISITO
+                   D5
+EU TE ACHAVA TÃO CHATA
+
+[SEGUNDA PARTE]
+
+     C9                   G/B
+MAS TUDO QUE ACONTECE NA VIDA
+                        D5(9)
+TEM UM MOMENTO E UM DESTINO
+
+   C9                    G/B
+VIVER É UMA ARTE, É UM OFÍCIO
+                   D5(9)
+SÓ QUE PRECISA CUIDADO
+
+     C9                              G/B
+PRA PERCEBER QUE OLHAR SÓ PRA DENTRO
+                 D5(9)
+É O MAIOR DESPERDÍCIO
+        Em9        G7M          D5(9)
+O TEU AMOR PODE ESTAR DO SEU LADO
+
+[REFRÃO]
+
+    D5(9)     Am7       C9  G  G/F#  D5(9)
+O AMOR É O CALOR QUE AQUECE A        ALMA
+              Am7          C9     G/B  D5(9)
+O AMOR TEM SABOR PRA QUEM BEBE A SUA   ÁGUA
+
+[INTERLÚDIO] D5(9)
+
+[TERCEIRA PARTE]
+
+   D5
+E HOJE MESMO EU QUASE NÃO LEMBRO
+                 A5
+QUE JÁ ESTIVE SOZINHO
+        C9              B5+
+QUE UM DIA SERIA SEU MARIDO
+           G5  F#5+  D5
+SEU PRÍNCIPE ENCANTADO
+
+     D5
+TER FILHOS, NOSSO APARTAMENTO
+                  A5
+FIM DE SEMANA NO SÍTIO
+   C5                B5+
+IR AO CINEMA TODO DOMINGO
+                    D5
+SÓ COM VOCÊ AO MEU LADO
+
+[SEGUNDA PARTE]
+
+[REFRÃO]
+
+[INTERLÚDIO] D5(9)
+
+ D5(9)    Am7         C9       G5   G/F#  D5(9)
+LÁ    LÁ LÁ LÁ LÁ LÁ LÁ LÁ LÁ LÁ LÁ LÁ  LÁ
+ D5(9)  Am7     C9    G/B      D5(9)
+LÁ LÁ LÁ LÁ LÁ LÁ LÁ LÁ LÁ LÁ LÁ LÁ
+
+[REFRÃO FINAL]
+
+    D5(9)     Am7       C9  G G/F#  D5(9)
+O AMOR É O CALOR QUE AQUECE A       ALMA
+              Am7          C9     G/B  D5(9)
+O AMOR TEM SABOR PRA QUEM BEBE A SUA   ÁGUA
+    D5(9)     Am7       C9  G  G/F#  D5(9)
+O AMOR É O CALOR QUE AQUECE A        ALMA
+              Am7          C9     G/B  G  G/F#
+O AMOR TEM SABOR PRA QUEM BEBE A SUA
+C9  D9(11)
+    ÁGUA
 ```
-[Repertório](#repertório) | [Cifra Club]() | [YouTube]()
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/jota-quest/do-seu-lado/) | [YouTube]()
 
 ## Esperando na Janela - Cogumelo Plutão
 ```
@@ -228,28 +326,238 @@ D/F#              G  A7  D
 
 ## Quero Ser Feliz Também - Natiruts
 ```
+[INTRO] Ebm7  Dbm7  Ebm7  Dbm7
+        Ebm7  Dbm7  Ebm7  Dbm7
+
+[PRIMEIRA PARTE]
+
+  Ebm7
+CRESÇA
+Dbm7                          Ebm7
+     INDEPENDENTE DO QUE ACONTEÇA
+Dbm7                           Ebm7
+     EU NÃO QUERO QUE VOCÊ ESQUEÇA
+Dbm7                          Ebm7  Dbm7
+     QUE EU GOSTO MUITO DE VOCÊ
+
+  Ebm7
+CHEGO
+Dbm7                         Ebm7
+     E SINTO O GOSTO DO TEU BEIJO
+Dbm7                        Ebm7
+     É MUITO MAIS DO QUE DESEJO
+Dbm7                     Ebm7      Dbm7
+     ME DÁ VONTADE DE FICAR TEU OLHAR
+                        Ebm7       Dbm7
+É FORTE COMO A ÁGUA DO MAR VEM ME DAR
+                    Ebm7      Abm
+NOVO SENTIDO PRA VIVER, ENCANTAR A NOITE
+
+[REFRÃO]
+
+  Dbm7
+QUERO SER FELIZ TAMBÉM
+     Abm
+NAVEGAR NAS ÁGUAS DO TEU MAR
+     Dbm7
+DESEJAR PARA TUDO QUE VEM
+         Abm
+FLORES BRANCAS, PAZ E IEMANJÁ
+
+[PRIMEIRA PARTE]
+
+[REFRÃO]
+
+[REFRÃO]
+
+[FINAL] Ebm7  Dbm7  Ebm7  Dbm7
 ```
-[Repertório](#repertório) | [Cifra Club]() | [YouTube]()
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/natiruts/quero-ser-feliz-tambem/) | [YouTube]()
 
 ## Exagerado - Cazuza
 ```
+[INTRO] G  D/G  C/G (4X)
+        G  D  C  G  D  C (2X)
+
+[PRIMEIRA PARTE]
+
+G          D     C
+AMOR DA MINHA VIDA
+G               D    C
+DAQUI ATÉ A ETERNIDADE
+Em                    D
+NOSSOS DESTINOS FORAM TRAÇADOS
+    C          Am  Bm  D
+NA MATERNIDADE
+
+G                 D    C
+PAIXÃO CRUEL DESENFREADA
+G                 D      C
+TE TRAGO MIL ROSAS ROUBADAS
+Em                          D
+PRA DESCULPAR MINHAS MENTIRAS
+B7
+MINHAS MANCADAS
+
+[REFRÃO]
+
+      C
+EXAGERADO
+   D
+JOGADO AOS TEUS PÉS
+        G      D   C
+EU SOU MESMO EXAGERADO
+  Em                D   C  Am  Bm  D
+ADORO UM AMOR INVENTADO
+
+[SEGUNDA PARTE]
+
+G                    D    C
+EU NUNCA MAIS VOU RESPIRAR
+G              D    C
+SE VOCÊ NÃO ME NOTAR
+Em                         D
+EU POSSO ATÉ MORRER DE FOME
+      C
+SE VOCÊ NÃO ME AMAR
+
+[TERCEIRA PARTE]
+
+Em                      Bm
+E POR VOCÊ EU LARGO TUDO
+F7M                   F#m7(5-)
+VOU MENDIGAR, ROUBAR, MATAR
+Em                 Bm
+ATÉ NAS COISAS MAIS BANAIS
+F7M
+PRA MIM É TUDO
+F#m7(5-)           B7
+OU NUNCA MAIS
+
+[REFRÃO]
+
+( G  D/G  C/G ) (4X)
+
+[SOLO] G  D  C
+       G  D  C
+       Em  D  C
+
+[QUARTA PARTE]
+
+Em                      Bm
+E POR VOCÊ EU LARGO TUDO
+ F7M          F#m7(5-)
+CARREIRA, DINHEIRO, CANUDO
+Em                 Bm
+ATÉ NAS COISAS MAIS BANAIS
+F7M
+PRA MIM É TUDO
+F#m7(5-)           B7
+OU NUNCA MAIS
+
+[REFRÃO]
+
+   C
+JOGADO AOS TEUS PÉS
+D                   G
+COM MIL ROSAS ROUBADAS
+D     C
+EXAGERADO
+     Em                D   C  Am  Bm  D
+EU ADORO UM AMOR INVENTADO
+
+[FINAL] C  Am  Bm  D  G
 ```
-[Repertório](#repertório) | [Cifra Club]() | [YouTube]()
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/cazuza/exagerado/) | [YouTube]()
 
 ## Chopis Centis - Mamonas Assassinas
 ```
+[INTRO] A5  D5/A  A5 (6X)
+
+[PRIMEIRA PARTE]
+
+                  D5  E5
+EU DI UM BEIJO NELA
+                     A5  D5/A  A5
+E CHAMEI PRA PASSEAR
+                      D5  E5
+A GENTE FOMOS NO SHOPPING
+                         A5  D5/A  A5
+PRA MODE A GENTE LANCHAR
+
+                      D5  E5
+COMI UNS BICHO ESTRANHO
+                       A5  D5/A  A5
+COM UM TAL DE GERGELIM
+                   D5  E5
+ATÉ QUE TAVA GOSTOSO
+                     A5  D5/A  A5
+MAS EU PREFIRO AIPIM
+
+[REFRÃO]
+
+        D5   E5
+QUANTA GENTE
+            A5
+QUANTA ALEGRIA
+               D5
+A MINHA FELICIDADE
+          E5
+É UM CREDIÁRIO
+             A5
+NAS CASAS BAHIA
+
+[REFRÃO]
+
+             A5  D5/A  A5
+NAS CASAS BAHIA
+
+          A5  D5/A  A5
+P'ARRIBA!
+                                  A5
+JOINHA, JOINHA, CHUPETÃO, VAMO LÁ
+  D5/A                   A5
+CHUCHUZINHO, VAMO EMBORA
+                        A5  D5/A  A5
+ONDE É QUE ENTRA, HEIN?
+
+[SEGUNDA PARTE]
+
+                    D5  E5
+ESSE TAL CHÓPIS CÊNTIS
+                   A5  D5/A  A5
+É MUITO LEGALZINHO
+                    D5  E5
+PRA LEVAR AS NAMORADA
+                    A5  D5/A  A5
+E DAR UNS ROLEZINHO
+
+                          D5
+QUANDO EU ESTOU NO TRABALHO
+            E5
+NÃO VEJO A HORA
+                    A5  D5/A  A5
+DE DESCER DOS ANDAIME
+                  D5
+PRA PEGAR UM CINEMA
+            E5
+DO SCHWARZENEGGER
+                 A5  D5/A  A5
+TAMBÉM O VAN DAIME
+
+[REFRÃO]
 ```
-[Repertório](#repertório) | [Cifra Club]() | [YouTube]()
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/mamonas-assassinas/chopis-centis/) | [YouTube]()
 
 ## Anna Júlia - Los Hermanos
 ```
 ```
-[Repertório](#repertório) | [Cifra Club]() | [YouTube]()
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/los-hermanos/anna-julia/) | [YouTube]()
 
 ## Meteoro - Luan Santana
 ```
 ```
-[Repertório](#repertório) | [Cifra Club]() | [YouTube]()
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/luan-santana/meteoro/) | [YouTube]()
 
 ## A Hora É Agora - Jorge & Mateus
 ```
@@ -411,8 +719,84 @@ DIZ PRA MIM O QUE VOCÊ SERÁ
 
 ## Jardim - Fraternidade São João Paulo II
 ```
+[INTRO] D5  A11/C#  Bm7  G9
+        D5  A11/C#  Bm7  G9
+
+[PRIMEIRA PARTE]
+
+    D5
+SENHOR, JÁ POSSO OUVIR A TUA VOZ
+  D7M                               Bm7
+E OS TEUS PASSOS A SE APROXIMAR DE MIM
+                 G9
+SE APROXIMAR DE MIM
+
+    D5
+SENHOR, EU SEI QUE DIGNO EU NÃO SOU
+    D7M                           Bm7
+MAS EU PRECISO TANTO OUVIR A TUA VOZ
+   G9
+DIZENDO, VEM
+
+[PONTE]
+
+ Bm7            F#m7(11)
+MAS EU SEI, PEQUENO SOU
+ G9               A2
+MAS EU SEI, TÃO FRACO ESTOU
+
+     Bm7             F#m7(11)
+MAS SEI TAMBÉM, SEM TI EU NÃO
+    Em7   D/F#   G9
+CONSIGO PROSSEGUIR
+
+ Bm7            F#m7(11)
+MAS EU SEI, PEQUENO SOU
+ G9               A2
+MAS EU SEI, TÃO FRACO ESTOU
+
+     Bm7             F#m7(11)
+MAS SEI TAMBÉM, SEM TI EU NÃO
+    Em7         A4  A/C#
+CONSIGO PROSSEGUIR
+
+[REFRÃO]
+
+D5                     A11/C#
+MESMO COM TANTOS ERROS QUE EU COMETI
+Bm7                F#m7(11)
+O TEU OLHAR JAMAIS
+               G9
+SE AFASTOU DE MIM
+                 F#m7(11)
+E AO SOM DE TUA VOZ ME RESTA TE BUSCAR
+ Bm7                     A2
+CADA DIA MAIS, CADA DIA MAIS
+
+D5                 D7M
+VER TEUS OLHOS SEMPRE FIXOS EM MIM
+Bm7                F#m7(11)
+ME FAZEM RECORDAR
+                  G9
+DOS PASSOS NO JARDIM
+                 F#m7(11)
+E AO SOM DE TUA VOZ ME RESTA TE BUSCAR
+ Bm7                     A4  A/C#
+CADA DIA MAIS, CADA DIA MAIS
+
+[INTERLÚDIO] D  A11/C#  Bm7  G9
+
+[PONTE]
+
+[REFRÃO]
+
+[INTERLÚDIO] D  D7M  Bm7  G9 (3X)
+
+[REFRÃO]
+
+[FINAL] D5  A11/C#  Bm9  G9  D
 ```
-[Repertório](#repertório) | [Cifra Club]() | [YouTube]()
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/fraternidade-sao-joao-paulo-ii/jardim/) | [YouTube]()
 
 ## Tenda de Davi - Gerados pela Imaculada
 ```
@@ -447,7 +831,7 @@ E DANÇAR NA TENDA DO REI (2X)
 ## Templo Vivo - Diego Fernandes
 ```
 ```
-[Repertório](#repertório) | [Cifra Club]() | [YouTube]()
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/diego-fernandes/templo-vivo/) | [YouTube]()
 
 ## Dança de Avivamento - Diego Fernandes
 ```
@@ -534,8 +918,26 @@ BASTA ABRIR O TEU CORAÇÃO E EM TI FARÁ UMA REVOLUÇÃO. (2X)
 
 ## Quero Chamar Tua Atenção - Colo de Deus
 ```
+[INTRO] C  G  Bm  Em
+
+ C           G          Bm                   Em               C
+QUERO CHAMAR TUA ATENÇÃO, DANÇAR COM TEUS ANJOS E ME EMBRIAGAR
+         G              Bm             Em
+MAIS UMA VEZ! MAIS UMA VEZ! MAIS UMA VEZ!
+
+ C    G            Bm               Em
+VEM, DEUS, NESTE LUGAR, TEUS FILHOS CLAMAM POR TI
+  C   G             Bm    Em
+VEM, DEUS, NESTE LUGAR
+
+C             G          Bm
+EU VOU DANÇAR ATÉ QUEIMAR
+        Em           C
+EU VOU ORAR ATÉ QUEIMAR
+           G                Bm         Em
+VOU TE ADORAR, ATÉ NÃO SOBRAR NADA DE MIM!
 ```
-[Repertório](#repertório) | [Cifra Club]() | [YouTube]()
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/comunidade-catolica-colo-de-deus/quero-chamar-tua-atencao/) | [YouTube]()
 
 ## Seja Elevado - Colo de Deus
 ```
