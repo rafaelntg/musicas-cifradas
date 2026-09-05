@@ -163,96 +163,6 @@ NÃO É COISA DA CHINA
 ```
 [Repertório](#repertório) | [Cifra Club]() | [YouTube]()
 
-## Eva - Banda Eva
-```
-[INTRO] D  A/C#  Bm  Bm/A
-        G  G/F#  Em  A
-
-[PRIMEIRA PARTE]
-
-          G
-MEU AMOR,   OLHA SÓ
-                     A
-HOJE O SOL NÃO APARECEU
-     G                         
-É O FIM DA AVENTURA
-                D   
-HUMANA NA TERRA
-                    G                                
-MEU PLANETA, ADEUS!   FUGIREMOS
-                      A     
-NÓS DOIS NA ARCA DE NOÉ
-                    G
-MAS OLHA BEM, MEU AMOR
-                            D
-O FINAL DA ODISSÉIA TERRESTRE
-              Em
-SOU ADÃO E VOCÊ SERÁ
-
-[REFRÃO]
-
-              D
-MINHA PEQUENA EVA (EVA)
-
-O NOSSO AMOR NA  
-       A/C#  Bm
-ÚLTIMA ASTRONAVE (EVA)
-                     Bm/A  G  G/F#  Em
-ALÉM DO INFINITO EU VOU  VOAR
-         A
-SOZINHO COM VOCÊ
-
-             D     
-E VOANDO BEM ALTO (EVA)
-
-ME ABRAÇA PELO ESPAÇO 
-   A/C#   Bm
-DE UM INSTANTE (EVA)
-
-ME COBRE COM TEU CORPO 
-Bm/A  G  G/F#  Em
-E ME DÁ
-          A
-A FORÇA PRA VIVER
-
-[PRIMEIRA PARTE] [REFRÃO]
-
-[PONTE]
-
-                        Bm   A
-E PELO ESPAÇO DE UM INSTANTE
-                G
-AFINAL, NÃO HÁ NADA MAIS
-       Em                  
-QUE O CÉU AZUL PRA GENTE VOAR
-
-[SEGUNDA PARTE] 
-
-G 
-  SOBRE O RIO, BEIRUTE
-           A
-OU MADAGASCAR
-             G                      
-TODA A TERRA   REDUZIDA A NADA
-      D
-NADA MAIS
-                             G
-E A MINHA VIDA É UM FLASH (FLASH)
-                               A     
-DE CONTROLES BOTÕES ANTI-ATÔMICOS
-                   G
-MAS OLHA BEM MEU AMOR
-                             D
-NO FINAL DA ODISSÉIA TERRESTRE
-              Em
-SOU ADÃO E VOCÊ
-
-DIZ PRA MIM O QUE VOCÊ SERÁ
-
-[REFRÃO]
-```
-[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/banda-eva/pequena-eva/) | [YouTube](https://www.youtube.com/watch?v=l86drhSgUEU&list=RDl86drhSgUEU)
-
 ## Esperando na Janela - Cogumelo Plutão
 ```
 [INTRO] Em7  D/F#  G  A7 
@@ -315,6 +225,31 @@ D/F#              G  A7  D
      DO QUE É O AMOR
 ```
 [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/cogumelo-plutao/esperando-na-janela/) | [YouTube](https://www.youtube.com/watch?v=RkNp74T01MI&list=RDRkNp74T01MI)
+
+## Quero Ser Feliz Também - Natiruts
+```
+```
+[Repertório](#repertório) | [Cifra Club]() | [YouTube]()
+
+## Exagerado - Cazuza
+```
+```
+[Repertório](#repertório) | [Cifra Club]() | [YouTube]()
+
+## Chopis Centis - Mamonas Assassinas
+```
+```
+[Repertório](#repertório) | [Cifra Club]() | [YouTube]()
+
+## Anna Júlia - Los Hermanos
+```
+```
+[Repertório](#repertório) | [Cifra Club]() | [YouTube]()
+
+## Meteoro - Luan Santana
+```
+```
+[Repertório](#repertório) | [Cifra Club]() | [YouTube]()
 
 ## A Hora É Agora - Jorge & Mateus
 ```
@@ -383,6 +318,136 @@ OH OH,  NA NA   NA NA NA NA   NA NANA
         Cm
 ```
 [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/jorge-mateus/agora-e-a-hora/) | [YouTube](https://www.youtube.com/watch?v=hodnntAN-Z4)
+
+## Eva - Banda Eva
+```
+[INTRO] D  A/C#  Bm  Bm/A
+        G  G/F#  Em  A
+
+[PRIMEIRA PARTE]
+
+          G
+MEU AMOR,   OLHA SÓ
+                     A
+HOJE O SOL NÃO APARECEU
+     G
+É O FIM DA AVENTURA
+                D
+HUMANA NA TERRA
+                    G
+MEU PLANETA, ADEUS!   FUGIREMOS
+                      A
+NÓS DOIS NA ARCA DE NOÉ
+                    G
+MAS OLHA BEM, MEU AMOR
+                            D
+O FINAL DA ODISSÉIA TERRESTRE
+              Em
+SOU ADÃO E VOCÊ SERÁ
+
+[REFRÃO]
+
+              D
+MINHA PEQUENA EVA (EVA)
+
+O NOSSO AMOR NA
+       A/C#  Bm
+ÚLTIMA ASTRONAVE (EVA)
+                     Bm/A  G  G/F#  Em
+ALÉM DO INFINITO EU VOU  VOAR
+         A
+SOZINHO COM VOCÊ
+
+             D
+E VOANDO BEM ALTO (EVA)
+
+ME ABRAÇA PELO ESPAÇO
+   A/C#   Bm
+DE UM INSTANTE (EVA)
+
+ME COBRE COM TEU CORPO
+Bm/A  G  G/F#  Em
+E ME DÁ
+          A
+A FORÇA PRA VIVER
+
+[PRIMEIRA PARTE] [REFRÃO]
+
+[PONTE]
+
+                        Bm   A
+E PELO ESPAÇO DE UM INSTANTE
+                G
+AFINAL, NÃO HÁ NADA MAIS
+       Em
+QUE O CÉU AZUL PRA GENTE VOAR
+
+[SEGUNDA PARTE]
+
+G
+  SOBRE O RIO, BEIRUTE
+           A
+OU MADAGASCAR
+             G
+TODA A TERRA   REDUZIDA A NADA
+      D
+NADA MAIS
+                             G
+E A MINHA VIDA É UM FLASH (FLASH)
+                               A
+DE CONTROLES BOTÕES ANTI-ATÔMICOS
+                   G
+MAS OLHA BEM MEU AMOR
+                             D
+NO FINAL DA ODISSÉIA TERRESTRE
+              Em
+SOU ADÃO E VOCÊ
+
+DIZ PRA MIM O QUE VOCÊ SERÁ
+
+[REFRÃO]
+```
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/banda-eva/pequena-eva/) | [YouTube](https://www.youtube.com/watch?v=l86drhSgUEU&list=RDl86drhSgUEU)
+
+## Jardim - Fraternidade São João Paulo II
+```
+```
+[Repertório](#repertório) | [Cifra Club]() | [YouTube]()
+
+## Tenda de Davi - Gerados pela Imaculada
+```
+[INTRO] A9  G9  D  D9
+
+           A
+A CASA DO SENHOR
+ D                        A9    E
+SE ENCHEU COM A NUVEM DA GLÓRIA   (2X)
+
+     F#m      D
+EU QUERO IR, MAIS PROFUNDO
+       A9   E
+NA ADORAÇÃO  (2X)
+
+             A                   D
+EU NASCI DO FOGO, SOU FILHO DO FOGO
+            F#m             E
+NA TENDA DE DAVI, VOU MEU CONSUMIR
+      D          D9
+EM LOUVOR E ADORAÇÃO  (2X)
+
+          F#m
+EU QUERO QUEIMAR EM TUA PRESENÇA
+E  D               D9
+QUEIMAR NA TUA PRESENÇA
+   A9               E
+E DANÇAR NA TENDA DO REI (2X)
+```
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/comunidade-gerados-pela-imaculada/tenda-de-davi/) | [YouTube](https://www.youtube.com/watch?v=LE_qFEyK1NY)
+
+## Templo Vivo - Diego Fernandes
+```
+```
+[Repertório](#repertório) | [Cifra Club]() | [YouTube]()
 
 ## Dança de Avivamento - Diego Fernandes
 ```
@@ -467,6 +532,11 @@ BASTA ABRIR O TEU CORAÇÃO E EM TI FARÁ UMA REVOLUÇÃO. (2X)
 ```
 [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/missionario-shalom/uma-revolucao/) | [YouTube](https://www.youtube.com/watch?v=Nr1ff0zVKIE&list=RDNr1ff0zVKIE)
 
+## Quero Chamar Tua Atenção - Colo de Deus
+```
+```
+[Repertório](#repertório) | [Cifra Club]() | [YouTube]()
+
 ## Seja Elevado - Colo de Deus
 ```
 F                                    F/A  
@@ -504,34 +574,3 @@ SEJA ELEVADO NO TRONO MAIS ALTO     (2X)
 [REFRÃO]
 ```
 [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/comunidade-catolica-colo-de-deus/seja-elevado/) | [YouTube](https://www.youtube.com/watch?v=ANlcJgj7c9s)
-
-## Tenda de Davi - Gerados pela Imaculada
-```
-[INTRO] A9  G9  D  D9
-
-           A
-A CASA DO SENHOR
- D                        A9    E
-SE ENCHEU COM A NUVEM DA GLÓRIA   (2X)
-
-     F#m      D
-EU QUERO IR, MAIS PROFUNDO
-       A9   E
-NA ADORAÇÃO  (2X)
-
-             A                   D
-EU NASCI DO FOGO, SOU FILHO DO FOGO
-            F#m             E
-NA TENDA DE DAVI, VOU MEU CONSUMIR
-      D          D9
-EM LOUVOR E ADORAÇÃO  (2X)
-
-          F#m
-EU QUERO QUEIMAR EM TUA PRESENÇA
-E  D               D9
-QUEIMAR NA TUA PRESENÇA
-   A9               E
-E DANÇAR NA TENDA DO REI (2X)
-```
-[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/comunidade-gerados-pela-imaculada/tenda-de-davi/) | [YouTube](https://www.youtube.com/watch?v=LE_qFEyK1NY)
-
