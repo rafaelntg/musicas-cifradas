@@ -30,7 +30,9 @@ Será realizado em Santa Rita do Sapucaí-MG, na Casa da Paz, dentro da ETE-FMC,
 
 ### Sábado e Domingo
 
-- TEMA: [Jardim - Fraternidade São João Paulo II](#jardim---fraternidade-são-joão-paulo-ii).
+- TEMA:
+   - [Jardim - Fraternidade São João Paulo II - Tom E](#jardim---fraternidade-são-joão-paulo-ii---tom-e).
+   - [Jardim - Fraternidade São João Paulo II - Tom D](#jardim---fraternidade-são-joão-paulo-ii---tom-d).
 - [Tenda de Davi - Gerados pela Imaculada](#tenda-de-davi---gerados-pela-imaculada).
 - [Templo Vivo - Diego Fernandes](#templo-vivo---diego-fernandes).
 - [Dança de Avivamento - Diego Fernandes](#dança-de-avivamento---diego-fernandes).
@@ -42,7 +44,8 @@ Será realizado em Santa Rita do Sapucaí-MG, na Casa da Paz, dentro da ETE-FMC,
 
 - [Foi Por Você - Anjos de Resgate](#foi-por-você---anjos-de-resgate).
 - [Casa - Colo de Deus](#casa---colo-de-deus).
-- [Jardim - Fraternidade São João Paulo II](#jardim---fraternidade-são-joão-paulo-ii).
+- [Jardim - Fraternidade São João Paulo II - Tom E](#jardim---fraternidade-são-joão-paulo-ii---tom-e).
+- [Jardim - Fraternidade São João Paulo II - Tom D](#jardim---fraternidade-são-joão-paulo-ii---tom-d).
 - [Deixa Deus Sonhar em Ti - Frei Gilson](#deixa-deus-sonhar-em-ti---frei-gilson).
 - [Ninguém Te Ama Como Eu - Mensagem Brasil](#ninguém-te-ama-como-eu---mensagem-brasil).
 - [Deus de Promessas - Toque no Altar](#deus-de-promessas---toque-no-altar).
@@ -1002,7 +1005,7 @@ DIZ PRA MIM O QUE VOCÊ SERÁ
 ```
 [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/banda-eva/pequena-eva/) | [YouTube](https://www.youtube.com/watch?v=l86drhSgUEU&list=RDl86drhSgUEU)
 
-## Jardim - Fraternidade São João Paulo II
+## Jardim - Fraternidade São João Paulo II - Tom E
 ```
 [INTRO] E5  B11/D#  C#m7  A9
         E5  B11/D#  C#m7  A9
@@ -1080,6 +1083,86 @@ CADA DIA MAIS, CADA DIA MAIS
 [REFRÃO]
 
 [FINAL] E5  B11/D#  C#m9  A9  E
+```
+
+## Jardim - Fraternidade São João Paulo II - Tom D
+```
+INTRO] D5  A11/C#  Bm7  G9
+        D5  A11/C#  Bm7  G9
+
+[PRIMEIRA PARTE]
+
+    D5
+SENHOR, JÁ POSSO OUVIR A TUA VOZ
+  D7M                               Bm7
+E OS TEUS PASSOS A SE APROXIMAR DE MIM
+                 G9
+SE APROXIMAR DE MIM
+
+    D5
+SENHOR, EU SEI QUE DIGNO EU NÃO SOU
+    D7M                           Bm7
+MAS EU PRECISO TANTO OUVIR A TUA VOZ
+   G9
+DIZENDO, VEM
+
+[PONTE]
+
+ Bm7            F#m7(11)
+MAS EU SEI, PEQUENO SOU
+ G9               A2
+MAS EU SEI, TÃO FRACO ESTOU
+
+     Bm7             F#m7(11)
+MAS SEI TAMBÉM, SEM TI EU NÃO
+    Em7   D/F#   G9
+CONSIGO PROSSEGUIR
+
+ Bm7            F#m7(11)
+MAS EU SEI, PEQUENO SOU
+ G9               A2
+MAS EU SEI, TÃO FRACO ESTOU
+
+     Bm7             F#m7(11)
+MAS SEI TAMBÉM, SEM TI EU NÃO
+    Em7         A4  A/C#
+CONSIGO PROSSEGUIR
+
+[REFRÃO]
+
+D5                     A11/C#
+MESMO COM TANTOS ERROS QUE EU COMETI
+Bm7                F#m7(11)
+O TEU OLHAR JAMAIS
+               G9
+SE AFASTOU DE MIM
+                 F#m7(11)
+E AO SOM DE TUA VOZ ME RESTA TE BUSCAR
+ Bm7                     A2
+CADA DIA MAIS, CADA DIA MAIS
+
+D5                 D7M
+VER TEUS OLHOS SEMPRE FIXOS EM MIM
+Bm7                F#m7(11)
+ME FAZEM RECORDAR
+                  G9
+DOS PASSOS NO JARDIM
+                 F#m7(11)
+E AO SOM DE TUA VOZ ME RESTA TE BUSCAR
+ Bm7                     A4  A/C#
+CADA DIA MAIS, CADA DIA MAIS
+
+[INTERLÚDIO] D  A11/C#  Bm7  G9
+
+[PONTE]
+
+[REFRÃO]
+
+[INTERLÚDIO] D  D7M  Bm7  G9 (3X)
+
+[REFRÃO]
+
+[FINAL] D5  A11/C#  Bm9  G9  D
 ```
 [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/fraternidade-sao-joao-paulo-ii/jardim/) | [YouTube](https://www.youtube.com/watch?v=bCffspoAA6o)
 
