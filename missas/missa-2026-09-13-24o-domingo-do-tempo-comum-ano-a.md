@@ -382,4 +382,4 @@ CADA DIA MAIS, CADA DIA MAIS
 
 [FINAL] E5  B11/D#  C#m9  A9  E
 ```
-[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/fraternidade-sao-joao-paulo-ii/jardim/) | [YouTube](https://www.youtube.com/watch?v=bCffspoAA6o)
+[Cifra Club](https://www.cifraclub.com.br/fraternidade-sao-joao-paulo-ii/jardim/) | [YouTube](https://www.youtube.com/watch?v=bCffspoAA6o)
