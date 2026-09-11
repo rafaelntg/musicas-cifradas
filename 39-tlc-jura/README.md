@@ -42,8 +42,11 @@ Será realizado em Santa Rita do Sapucaí-MG, na Casa da Paz, dentro da ETE-FMC,
 
 - [Foi Por Você - Anjos de Resgate](#foi-por-você---anjos-de-resgate).
 - [Casa - Colo de Deus](#casa---colo-de-deus).
+- [Jardim - Fraternidade São João Paulo II](#jardim---fraternidade-são-joão-paulo-ii).
 - [Deixa Deus Sonhar em Ti - Frei Gilson](#deixa-deus-sonhar-em-ti---frei-gilson).
 - [Ninguém Te Ama Como Eu - Mensagem Brasil](#ninguém-te-ama-como-eu---mensagem-brasil).
+- [Deus de Promessas - Toque no Altar](#deus-de-promessas---toque-no-altar).
+- [Eu Sou o Que Sou - Banda Dom](#eu-sou-o-que-sou---banda-dom).
 
 ### Links úteis
 
@@ -677,7 +680,7 @@ O SEU AMOR TODO PRA MIM
         E      A      B             E
 Ô ANNA JULIA, JULIA, JULIA... OU OU OU
 ```
-[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/luan-santana/meteoro/) | [YouTube](https://www.youtube.com/watch?v=MKY9bmNrSP0)
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/los-hermanos/anna-julia/) | [YouTube](https://www.youtube.com/watch?v=97hee9msbEs)
 
 
 ## A Hora É Agora - Jorge & Mateus
@@ -1270,7 +1273,7 @@ EU VOU ORAR ATÉ QUEIMAR
            G                Bm         Em
 VOU TE ADORAR, ATÉ NÃO SOBRAR NADA DE MIM!
 ```
-[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/comunidade-catolica-colo-de-deus/quero-chamar-tua-atencao/) | [YouTube]()
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/comunidade-catolica-colo-de-deus/quero-chamar-tua-atencao/) | [YouTube](https://www.youtube.com/watch?v=1xBWaDxLJP8)
 
 ## Seja Elevado - Colo de Deus
 ```
@@ -1309,6 +1312,340 @@ SEJA ELEVADO NO TRONO MAIS ALTO     (2X)
 [REFRÃO]
 ```
 [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/comunidade-catolica-colo-de-deus/seja-elevado/) | [YouTube](https://www.youtube.com/watch?v=ANlcJgj7c9s)
+
+## Foi Por Você - Anjos de Resgate
+```
+[PRIMEIRA PARTE]
+
+       G            D/F#       Em7
+ENCONTREI-ME COM JESUS NUM JARDIM
+       G           D/F#    Em7
+NUNCA VI NADA TÃO LINDO ASSIM
+        Am          G           D/F#
+MINHAS DORES ENTREGUEI EM SUAS MÃOS
+     Am        G         D/F#  D7(4/9)
+E JESUS FOI FALANDO PRA MIM 
+
+ G            D/F#      Em7
+DAS FERIDAS QUE EU RECEBI
+ G          D/F#        Em7  E7  D/F#
+NÃO SAÍRAM SANGUE, NEM DOR
+ E7/G#  E7/B  Am          G         D/F#
+FOI    POR    ISSO QUE O MAL EU VENCI
+        Am        G    D/F#
+PORQUE DELAS SÓ SAÍA AMOR
+ D7(4/9)           G  G2  D7(4/9) 
+FOI SEMPRE O MEU AMOR
+
+[REFRÃO]
+
+     G
+FOI POR VOCÊ
+              G/F                     C/E
+QUE EU ME DEIXEI SER TÃO CHAGADO E FERIDO
+           Cm/Eb               G/D
+POR ISSO, SINTA-SE AMADO E QUERIDO
+          Em                    Am  D4  D
+POIS É O MEU AMOR QUE CURA SUA DOR
+
+     G
+FOI POR VOCÊ
+         G/F                     C/E
+QUE NA CRUZ MEU SANGUE FOI DERRAMADO
+           Cm/Eb               G/D
+POR ISSO, SINTA-SE QUERIDO E AMADO
+               A7/C#            Am7/E
+POIS É O MEU AMOR QUE CURA SUA DOR
+              C
+QUE CURA SUA DOR
+
+( G/B  Bb6(9)  F )
+( Ab  Eb  D4  D )
+    
+[SEGUNDA PARTE]
+
+   G            D/F#     Em7
+ENTÃO, JESUS PEDIU-ME ASSIM
+        G              D/F#      Em7
+QUE AS MÁGOAS QUE ESTIVESSEM EM MIM
+
+( E7  D/F#  E7/G#  E7/B )
+     
+         Am         G           D/F#
+QUE DELAS NÃO SAÍSSEM MAIS DOR
+              Am          G      D/F#
+E DE HOJE EM DIANTE, SÓ SAÍSSE AMOR
+  D7(4/9)  G           D7(4/9)
+QUE SEJA  SEMPRE ASSIM
+
+[REFRÃO]
+
+     G
+FOI POR VOCÊ
+              G/F                     C/E
+QUE EU ME DEIXEI SER TÃO CHAGADO E FERIDO
+           Cm/Eb               G/D
+POR ISSO, SINTA-SE AMADO E QUERIDO
+          Em                    Am  D4  D
+POIS É O MEU AMOR QUE CURA SUA DOR
+
+     G
+FOI POR VOCÊ
+         G/F                     C/E
+QUE NA CRUZ MEU SANGUE FOI DERRAMADO
+           Cm/Eb               G/D
+POR ISSO, SINTA-SE QUERIDO E AMADO
+               A7/C#            Am7/E
+POIS É O MEU AMOR QUE CURA SUA DOR
+              C
+QUE CURA SUA DOR
+     G/B
+OH, CURA SUA DOR
+   Am7          D7(4)  D7  G
+O MEU AMOR QUE CURA   SUA DOR
+```
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/anjos-de-resgate-musicas/foi-por-voce/) | [YouTube](https://www.youtube.com/watch?v=yrq56D6FQ2o)
+
+## Casa - Colo de Deus
+```
+[PRIMEIRA PARTE]
+
+         Am7          F7M        
+ANDEI FALANDO DE VOCÊ
+         C         
+ANDEI FALANDO DO QUE VOCÊ FEZ EM MIM
+              Am7
+E ELES PERGUNTARAM
+      F7M              C
+COMO PODE DEUS AMAR ASSIM?
+
+         Am7          F7M
+ANDEI FALANDO DE VOCÊ
+           C             
+ANDEI MOSTRANDO O QUE O AMOR FEZ EM MIM
+    C/B       Am 
+E ELES PERGUNTARAM
+           F7M              C
+QUE DEUS É ESSE E ONDE ELE MORA?
+
+[PRÉ-REFRÃO]
+       
+        Am7          F7M    C
+E EU FALEI QUE VOCÊ MORA AQUI
+              C/B  Am7    
+QUE VOCÊ MORA EM  MIM
+         F7M                    
+TÁ DESTRUÍDA
+                  C
+MAS EU SOU A TUA CASA, CASA
+
+      Am7          F7M     C
+EU FALEI QUE VOCÊ ME ESCOLHEU 
+           C/B  Am7   
+E DECIDIU MO___RAR
+         F7M 
+EU SÓ FALEI QUE É AMOR
+      C7M
+SÓ FALEI QUE É AMOR
+
+[REFRÃO]
+
+            Am7
+EU NÃO MERECI 
+          F7M            C
+FOI TUA GRAÇA QUE ME SALVOU
+             G
+QUE ME ESCOLHEU
+
+             Am7
+E EU TE RECEBI
+           F7M               C7M
+FOI PELA GRAÇA QUE AGORA EU SEI
+             G
+TUA CASA SOU EU
+
+[TERCEIRA PARTE]
+
+    F7M                      C
+EU NÃO CONSIGO ENTENDER, TÁ TUDO BEM
+        Am7            G
+PODE MORAR, SEREI TUA CASA
+
+    F7M                      C
+EU NÃO CONSIGO ENTENDER, TÁ TUDO BEM
+        Am7            G4  G
+PODE MORAR, SEREI TUA CASA
+
+    F7M                      C
+EU NÃO CONSIGO ENTENDER, TÁ TUDO BEM
+        Am7            G4  G
+PODE MORAR, SEREI TUA CASA
+
+    F7M                      C
+EU NÃO CONSIGO ENTENDER, TÁ TUDO BEM
+        Am7            G4  G
+PODE MORAR, SEREI TUA CASA
+
+[REFRÃO]
+
+            Am7
+EU NÃO MERECI 
+          F7M            C
+FOI TUA GRAÇA QUE ME SALVOU
+             G
+QUE ME ESCOLHEU
+
+             Am7
+E EU TE RECEBI
+           F7M               C7M
+FOI PELA GRAÇA QUE AGORA EU SEI
+             G
+TUA CASA SOU EU
+
+[PONTE]
+
+    F7M                      C
+EU NÃO CONSIGO ENTENDER, TÁ TUDO BEM
+        Am7            G4
+PODE MORAR, SEREI TUA CASA
+
+[QUARTA PARTE]
+
+     F7M  C
+PRA SEM_PRE
+     Am7  G
+PRA SEM_PRE
+
+     F7M  C
+PRA SEM_PRE
+           Am7  G
+SEREI TUA CA___SA
+
+     F7M  C
+PRA SEM_PRE
+     Am7  G
+PRA SEM_PRE
+
+     F7M  C
+PRA SEM_PRE
+           Am7  G
+SEREI TUA CA___SA
+
+[REFRÃO]
+
+            Am7
+EU NÃO MERECI 
+          F7M            C
+FOI TUA GRAÇA QUE ME SALVOU
+             G
+QUE ME ESCOLHEU
+
+             Am7
+E EU TE RECEBI
+           F7M               C7M
+FOI PELA GRAÇA QUE AGORA EU SEI
+             G
+TUA CASA SOU EU
+
+[FINAL]
+
+    F7M                      C
+EU NÃO CONSIGO ENTENDER, TÁ TUDO BEM
+        Am7            G4
+PODE MORAR, SEREI TUA CASA
+```
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/comunidade-catolica-colo-de-deus/casa/) | [YouTube](https://www.youtube.com/watch?v=O03F9XB4vVU)
+
+## Deixa Deus Sonhar em Ti - Frei Gilson
+```
+[PRIMEIRA PARTE]
+
+                      G      A
+DEIXA DEUS SONHAR EM TI, DEIXA!
+                      Bm
+DEIXA DEUS SONHAR EM TI
+            G  A                   Bm
+NÃO TENHAS ME_DO É DEUS QUEM TE SEGURA
+
+( G  A  Bm  G  A  Bm ) 
+
+                      G      A
+DEIXA DEUS SONHAR EM TI, DEIXA!
+                      Bm
+DEIXA DEUS SONHAR EM TI
+            G  A                   Bm
+NÃO TENHAS ME_DO É DEUS QUEM TE SEGURA
+
+[REFRÃO]
+
+        G  A            Bm
+SEGUE ALÉ____M, SEGUE ALÉM
+        G  A            Bm
+SEGUE ALÉ____M, SEGUE ALÉM
+
+[SEGUNDA PARTE]
+
+            G               A
+VERÁS UM CAMINHO DIFÍCIL DEMAIS
+             D           A/C#    Bm
+VERÁS TEMPESTADES QUE TE ASSUSTARÃO
+                         G                  
+MAS QUANDO O SONHO É DE DEUS
+                A
+NINGUÉM DESTRUIRÁ
+             D      A/C#      Bm
+SE ELE PROMETEU TAMBÉM CUMPRIRÁ
+          G                  A                   
+TENHA PACIÊNCIA E SAIBA ESPERAR
+                    D
+O MELHOR DE DEUS VIRÁ
+
+[REFRÃO]
+
+        G  A            Bm
+SEGUE ALÉ____M, SEGUE ALÉM
+        G  A            Bm
+SEGUE ALÉ____M, SEGUE ALÉM
+
+[PRIMEIRA PARTE]
+
+                      G      A
+DEIXA DEUS SONHAR EM TI, DEIXA!
+                      Bm
+DEIXA DEUS SONHAR EM TI
+            G  A                   Bm
+NÃO TENHAS ME_DO É DEUS QUEM TE SEGURA
+
+[REFRÃO]
+
+        G  A            Bm
+SEGUE ALÉ____M, SEGUE ALÉM
+        G  A            Bm
+SEGUE ALÉ____M, SEGUE ALÉM
+
+        G  A            Bm
+SEGUE ALÉ____M, SEGUE ALÉM
+        G  A            Bm
+SEGUE ALÉ____M, SEGUE ALÉM
+
+[SEGUNDA PARTE]
+
+            G               A
+VERÁS UM CAMINHO DIFÍCIL DEMAIS
+             D           A/C#    Bm
+VERÁS TEMPESTADES QUE TE ASSUSTARÃO
+                         G                  
+MAS QUANDO O SONHO É DE DEUS
+                A
+NINGUÉM DESTRUIRÁ
+             D      A/C#      Bm
+SE ELE PROMETEU TAMBÉM CUMPRIRÁ
+          G                  A                   
+TENHA PACIÊNCIA E SAIBA ESPERAR
+                    D
+O MELHOR DE DEUS VIRÁ
+```
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/frei-gilson/deixa-deus-sonhar-em-ti/) | [YouTube](https://www.youtube.com/watch?v=f_qzhaIdis0)
 
 ## Ninguém Te Ama Como Eu - Mensagem Brasil
 ```
@@ -1355,5 +1692,169 @@ EU TE LEVO EM MEUS BRAÇOS
 POIS SOU TEU MELHOR AMIGO
 
 [REFRÃO]
-
+```
 [Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/catolicas/ninguem-te-ama-como-eu/) | [YouTube](https://www.youtube.com/watch?v=XsBlCE8Uw48)
+
+## Deus de Promessas - Toque no Altar
+```
+[PRIMEIRA PARTE]
+
+Dm7                 G/B
+    SEI QUE OS TEUS OLHOS
+         C/E                  F
+SEMPRE ATENTOS PERMANECEM EM MIM
+Dm7              G/B
+    E OS TEUS OUVIDOS
+          C/E                      F
+ESTÃO SENSÍVEIS PARA OUVIR MEU CLAMOR
+( F    C/E ) Dm7     G/B
+ POSSO ATÉ       CHORAR
+         C9  G/B       Am7
+MAS ALEGRIA VEM DE MANHÃ
+
+[PRÉ-REFRÃO]
+
+F           C/E  Dm        G
+ÉS DEUS DE PERTO E NÃO DE LONGE
+ F       C/E
+NUNCA MUDASTES
+ Dm     Bb  F/A  G4
+TU ÉS FIEL!
+
+[REFRÃO]
+
+           C/E
+DEUS DE ALIANÇA
+            Am
+DEUS DE PROMESSAS
+                Dm7          G4
+DEUS QUE NÃO É HOMEM PRA MENTIR
+        C/E               Am
+TUDO PODE PASSAR, TUDO PODE MUDAR
+           Dm7              G4  G
+MAS TUA PALAVRA VAI SE CUMPRIR
+
+[PRIMEIRA PARTE]
+
+Dm7                 G/B
+    SEI QUE OS TEUS OLHOS
+         C/E                  F
+SEMPRE ATENTOS PERMANECEM EM MIM
+Dm7              G/B
+    E OS TEUS OUVIDOS
+          C/E                      F
+ESTÃO SENSÍVEIS PARA OUVIR MEU CLAMOR
+( F    C/E ) Dm7     G/B
+ POSSO ATÉ       CHORAR
+         C4  C  G/B       Am7
+MAS ALEGRI___A VEM DE MANHÃ
+
+[PRÉ-REFRÃO]
+
+F           C/E  Dm        G
+ÉS DEUS DE PERTO E NÃO DE LONGE
+ F       C/E
+NUNCA MUDASTES
+ Dm     Bb  F/A  G4
+TU ÉS FIEL!
+
+[REFRÃO]
+
+ G/F       C/E
+DEUS DE ALIANÇA
+            Am
+DEUS DE PROMESSAS
+                Dm7          G4 
+DEUS QUE NÃO É HOMEM PRA MENTIR
+ G/F       C/E            Am
+TUDO PODE PASSAR, TUDO PODE MUDAR
+           Dm7              G4  
+MAS TUA PALAVRA VAI SE CUMPRIR
+
+ G/F       C/E
+DEUS DE ALIANÇA
+            Am
+DEUS DE PROMESSAS
+( Am    G/B  C  Em ) Dm7          G4 
+ DEUS QUE   NÃO É   HOMEM PRA MENTIR
+ G/F       C/E            Am
+TUDO PODE PASSAR, TUDO PODE MUDAR
+           Dm7              G4  G
+MAS TUA PALAVRA VAI SE CUMPRIR
+
+[PONTE]
+
+Am7              G         F
+    POSSO ENFRENTAR O QUE FOR
+             G        Am7
+EU SEI QUEM LUTA POR MIM
+             G         F              G
+SEUS PLANOS NÃO PODEM SER FRUSTRADOS
+Am7            G       F
+    MINHA ESPERANÇA ESTÁ
+              G        Am7
+NAS MÃOS DO GRANDE EU SOU
+            G        Bb9     F/A
+MEUS OLHOS VÃO VER O IMPOSSÍVEL
+       G4  G
+ACONTECER
+
+[REFRÃO]
+
+ G/F       C/E
+DEUS DE ALIANÇA
+            Am
+DEUS DE PROMESSAS
+                Dm7          G4 
+DEUS QUE NÃO É HOMEM PRA MENTIR
+ G/F       C/E            Am
+TUDO PODE PASSAR, TUDO PODE MUDAR
+           Dm7              G4 
+MAS TUA PALAVRA VAI SE CUMPRIR
+
+ G/F       C/E
+DEUS DE ALIANÇA
+            Am
+DEUS DE PROMESSAS
+( Am    G/B  C  Em ) Dm7          G4 
+ DEUS QUE   NÃO É   HOMEM PRA MENTIR
+ G/F       C/E            Am
+TUDO PODE PASSAR, TUDO PODE MUDAR
+           Dm7              G4 
+MAS TUA PALAVRA VAI SE CUMPRIR
+
+ G/F       C/E
+DEUS DE ALIANÇA
+            Am
+DEUS DE PROMESSAS
+( Am    G/B  C  Em ) Dm7          G4 
+ DEUS QUE   NÃO É   HOMEM PRA MENTIR
+ G/F       C/E            Am
+TUDO PODE PASSAR, TUDO PODE MUDAR
+           Dm7              G4 
+Mas tua palavra vai se cumprir
+
+[Final] Am  G/B  C
+        Am  G/B  C
+```
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/toque-no-altar/deus-de-promessas/) | [YouTube](https://www.youtube.com/watch?v=s74NutG8K5c)
+
+## Eu Sou o Que Sou - Banda Dom
+```
+  G                    C9                   G             D
+EU SOU O QUE SOU, SOU O DEUS DE AMOR, ESTOU AQUI PRA TE CURAR
+G                        C9                   G          D
+EU SOU O QUE SOU, SOU O DEUS DE AMOR, ESTOU AQUI PRA TE CURAR
+      Am           D                  Am       C     D
+VEM A MIM, DÁ-ME TUAS TRISTEZAS, TUAS DORES E O TEU CORAÇÃO
+      Am           D                 Am       C     D
+VEM A MIM, DÁ-ME TUAS TRISTEZAS, TUAS DORES E O TEU CORAÇÃO
+ G           C9                    Am       C           D
+TE AMO, ÉS PRECIO....SO, TEU NOME GRAVADO ESTÁ EM MINHAS MÃOS
+ G          C9                    Am       C  D        G C9
+TE AMO, ÉS PRECIO....SO, TEU NOME GRAVADO ESTÁ EM MINHAS MÃOS
+
+    G                   C9       G
+VAI MEU FILHO VAI, POIS CURADO ESTÁ
+```
+[Repertório](#repertório) | [Cifra Club](https://www.cifraclub.com.br/banda-dom/eu-sou-que-sou/) | [YouTube](https://www.youtube.com/watch?v=wNcjx5C6Beg)
