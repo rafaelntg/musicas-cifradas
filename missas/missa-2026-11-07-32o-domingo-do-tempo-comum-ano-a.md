@@ -244,7 +244,7 @@ CORDEIRO DE DEUS QUE TIRAIS O PECADO DO MUNDO TENDE PIEDADE
    Em                  Bm               C     D
 CORDEIRO DE DEUS QUE TIRAIS O PECADO DO MUNDO
           G    D/F#          C9  D D#°       Em    Bm             C9  Cm G
-DAI-NOS A PA___AZ, DAI-NOS A PAZ   DAI-NOS A VOSSA PAZ, DAI-NOS A PAZ     
+DAI-NOS A PA___AZ, DAI-NOS A PAZ,  DAI-NOS A VOSSA PAZ, DAI-NOS A PAZ     
 ```
 
 <div style="page-break-before:always"></div>
@@ -274,7 +274,7 @@ Dm6               G          C
 
 C                      F        Dm
 3. QUERO, POIS, VOS LOUVAR PELA VIDA
-Dm6              G  nn      C
+Dm6              G          C
    E ELEVAR PARA VÓS MINHAS MÃOS
           Am     Dm     G
    A MINH'ALMA SERÁ SACIADA
